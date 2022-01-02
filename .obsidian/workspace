@@ -7,9 +7,11 @@
         "id": "c6ece30364e65997",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachment/Pasted image 20220102191619.png"
+            "file": "dailyTask/2022-01-02 📅.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,8 +78,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "491abb446e8fc561",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c9156459e2638fa5",
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/Pasted image 20220102191619.png",
+                "file": "dailyTask/2022-01-02 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/Pasted image 20220102191619.png",
+                "file": "dailyTask/2022-01-02 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/Pasted image 20220102191619.png"
+                "file": "dailyTask/2022-01-02 📅.md"
               }
             }
           },
@@ -166,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -174,11 +185,11 @@
   },
   "active": "c6ece30364e65997",
   "lastOpenFiles": [
-    "attachment/Pasted image 20220102191619.png",
     "dailyTask/2022-01-02 📅.md",
+    "learnedStuff/The difference between visual lines and logical lines in Vim.md",
+    "attachment/Pasted image 20220102191619.png",
     "template/dailyTask.md",
     "Untitled.md",
-    "learnedStuff/The difference between visual lines and logical lines in Vim.md",
     "Untitled 1.md",
     ".obsidian.vimrc.md",
     "dailyTask/2022-01-02.md",
