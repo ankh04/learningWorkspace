@@ -1,0 +1,6 @@
+{
+  "folder": "dailyTask",
+  "template": "template/dailyTask",
+  "autorun": true,
+  "format": "YYYY-MM-DD 📅"
+}
