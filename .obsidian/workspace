@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ece30364e65997",
+        "id": "2a00630c06ebddea",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 204
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -182,19 +182,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 290
   },
-  "active": "c6ece30364e65997",
+  "active": "2a00630c06ebddea",
   "lastOpenFiles": [
     "dailyTask/2022-01-04 📅.md",
-    "algorithm/桶排序.md",
-    "algorithm/排序算法.md",
+    "javascript-learn/js面试题/箭头函数与普通函数的实用场景.md",
+    "javascript-learn/手写题/Promise.md",
+    "javascript-learn/js面试题/什么是类数组.md",
+    "javascript-learn/js面试题/检测是否是数组的方法.md",
+    "dailyTask/2022-01-03 📅.md",
     "algorithm/快速排序.md",
-    "java-learn/数组.md",
-    "algorithm/归并排序.md",
-    "algorithm/堆排序.md",
-    "algorithm/基数排序.md",
     "algorithm/完全二叉树.md",
-    "algorithm/master公式.md"
+    "algorithm/master公式.md",
+    "dailyTask/2022-01-02 📅.md"
   ]
 }
