@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a00630c06ebddea",
+        "id": "281d6b7aaca80ba4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,17 +184,17 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "2a00630c06ebddea",
+  "active": "281d6b7aaca80ba4",
   "lastOpenFiles": [
     "dailyTask/2022-01-10 📅.md",
-    "劳动法/劳动合同.md",
-    "etc/Corinthians.md",
-    "reading note/learned helplessness/习得性无助.md",
+    "reading note/learned helplessness/习得性无助（序言）.md",
     "dailyTask/2022-01-09 📅.md",
+    "劳动法/劳动合同.md",
+    "vedio.md",
+    "etc/Corinthians.md",
     "etc/St. Paul.md",
     "dailyTask/2022-01-08 📅.md",
     "dailyTask/2022-01-07 📅.md",
-    "dailyTask/2022-01-06 📅.md",
-    "algorithm/数据结构/数组.md"
+    "dailyTask/2022-01-06 📅.md"
   ]
 }
