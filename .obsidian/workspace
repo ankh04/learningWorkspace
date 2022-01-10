@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Corinthians.md",
+            "file": "dailyTask/2022-01-10 📅.md",
             "mode": "source",
             "source": false
           }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/Corinthians.md",
+                "file": "dailyTask/2022-01-10 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etc/Corinthians.md",
+                "file": "dailyTask/2022-01-10 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etc/Corinthians.md"
+                "file": "dailyTask/2022-01-10 📅.md"
               }
             }
           },
@@ -186,12 +187,12 @@
   },
   "active": "2a00630c06ebddea",
   "lastOpenFiles": [
+    "dailyTask/2022-01-10 📅.md",
+    "劳动法/劳动合同.md",
     "etc/Corinthians.md",
     "reading note/learned helplessness/习得性无助.md",
     "dailyTask/2022-01-09 📅.md",
-    "dailyTask/2022-01-10 📅.md",
     "etc/St. Paul.md",
-    "劳动法/劳动合同.md",
     "dailyTask/2022-01-08 📅.md",
     "dailyTask/2022-01-07 📅.md",
     "dailyTask/2022-01-06 📅.md",
