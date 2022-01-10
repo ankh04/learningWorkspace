@@ -1,5 +1,5 @@
 # Corinthians
-Corinthians/kəˈrɪnθɪənz/，中文译作哥林多前书，全称为The First Letters of Paul to the Corinthians。是新约圣经全书的第七本，是[[St. Paul|圣保禄]]在公元53-54年期间写的四封书信中的一封，目前只留下前两封，第一封称为哥林多前书，第二封称为哥林多后书。
+Corinthians/kəˈrɪnθɪənz/，中文译作哥林多前书，全称为The First Letters of Paul to the Corinthians。是新约(New Testament)圣经全书的第七本，是[[St. Paul|圣保禄]]在公元53-54年期间写的四封书信中的一封，目前只留下前两封，第一封称为哥林多前书，第二封称为哥林多后书。
 
 这是圣保禄在希腊哥林多（Corinth）写给他的基督教徒的书信，其前书中[第十三章](https://bible.usccb.org/bible/1corinthians/13)a爱的原动力十分著名：
 
