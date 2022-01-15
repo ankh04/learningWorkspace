@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-14 📅.md",
+            "file": "dailyTask/2022-01-15 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-14 📅.md",
+                "file": "dailyTask/2022-01-15 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-14 📅.md",
+                "file": "dailyTask/2022-01-15 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-14 📅.md"
+                "file": "dailyTask/2022-01-15 📅.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "281d6b7aaca80ba4",
   "lastOpenFiles": [
+    "dailyTask/2022-01-15 📅.md",
+    "dailyTask/2022-01-16 📅.md",
     "dailyTask/2022-01-14 📅.md",
     "dailyTask/2022-01-13 📅.md",
     "劳动法/社会保险法.md",
@@ -193,8 +195,6 @@
     "Untitled.md",
     "劳动法/劳动争议.md",
     "劳动法/劳动合同.md",
-    "algorithm/leetcode/2.两数相加.md",
-    "learnedStuff/The difference between visual lines and logical lines in Vim.md",
-    "reading note/跨性别/性别相关的名词.md"
+    "algorithm/leetcode/2.两数相加.md"
   ]
 }
