@@ -17,7 +17,7 @@ const p = path.join(__dirname, '../../README.md');
         res[key + 'Num'] = countRes.taskObj[key].length;
         let list = '';
         countRes.taskObj[key].forEach(element => {
-            list += `名称：${element.task}, 天数：${element.times}\n`;
+            list += `- 名称：${element.task}, 天数：${element.times}\n`;
         });
         res[key + 'Item'] = list;
     }
