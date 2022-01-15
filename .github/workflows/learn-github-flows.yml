@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: count-actions
 on: [push]
 jobs:
   count-job:
@@ -10,10 +10,10 @@ jobs:
           node-version: '14'
       - run: node ./.github/scripts/main.js
       - name: Commit files # transfer the new html files back into the repository
-      run: |
-        git config --local user.name "ankh04"
-        git add README.md
-        git commit -m "update README.md"
+        run: |
+          git config --local user.name "ankh04"
+          git add README.md
+          git commit -m "update README.md"
       - name: Push changes # push the output folder to your repo
         uses: ad-m/github-push-action@master
         with:
