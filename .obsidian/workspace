@@ -7,9 +7,11 @@
         "id": "281d6b7aaca80ba4",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "project/music player/music player.md"
+            "file": "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/music player/music player.md",
+                "file": "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/music player/music player.md",
+                "file": "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/music player/music player.md"
+                "file": "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md"
               }
             }
           },
@@ -184,15 +186,15 @@
   },
   "active": "281d6b7aaca80ba4",
   "lastOpenFiles": [
-    "project/music player/music player.md",
+    "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
+    "algorithm/leetcode/21. 合并两个有序链表.md",
     "dailyTask/2022-01-16 📅.md",
     "dailyTask/2022-01-15 📅.md",
+    "algorithm/master公式.md",
+    "algorithm/leetcode/总结/链表.md",
+    "project/music player/music player.md",
     "数组列表.md",
     "dailyTask/2022-01-14 📅.md",
-    "README.md",
-    "algorithm/leetcode/2.两数相加.md",
-    "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
-    "dailyTask/2022-01-08 📅.md",
-    "dailyTask/2022-01-05 📅.md"
+    "README.md"
   ]
 }
