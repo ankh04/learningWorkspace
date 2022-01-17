@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "281d6b7aaca80ba4",
+        "id": "aa1ea7ed0fd93519",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/leetcode/2.两数相加.md",
+            "file": "java-learn/类/包.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "ad0ddbbf57cc601c",
+        "id": "6536781ef97c16b2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dailyTask/2022-01-16 📅.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -73,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 222
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-16 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-16 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dailyTask/2022-01-16 📅.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,17 +188,17 @@
     "direction": "horizontal",
     "width": 383
   },
-  "active": "ad0ddbbf57cc601c",
+  "active": "6536781ef97c16b2",
   "lastOpenFiles": [
+    "java-learn/继承/原型和继承的关系.md",
+    "java-learn/继承/超类和子类.md",
     "dailyTask/2022-01-16 📅.md",
     "dailyTask/2022-01-15 📅.md",
-    "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
-    "algorithm/leetcode/2.两数相加.md",
-    "algorithm/leetcode/21. 合并两个有序链表.md",
     "dailyTask/2022-01-14 📅.md",
     "dailyTask/2022-01-13 📅.md",
+    "dailyTask/2022-01-12 📅.md",
     "dailyTask/2022-01-11 📅.md",
     "dailyTask/2022-01-10 📅.md",
-    "dailyTask/2022-01-12 📅.md"
+    "dailyTask/2022-01-17 📅.md"
   ]
 }
