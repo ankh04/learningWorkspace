@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/继承/超类和子类.md",
+            "file": "java-learn/可见性.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/继承/超类和子类.md",
+                "file": "java-learn/可见性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/继承/超类和子类.md",
+                "file": "java-learn/可见性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/继承/超类和子类.md"
+                "file": "java-learn/可见性.md"
               }
             }
           },
@@ -198,15 +199,15 @@
   },
   "active": "6536781ef97c16b2",
   "lastOpenFiles": [
-    "java-learn/继承/超类和子类.md",
+    "java-learn/可见性.md",
+    "java-learn/变量.md",
     "java-learn/数组.md",
+    "algorithm/数据结构/链表.md",
+    "java-learn/继承/覆盖方法.md",
+    "java-learn/继承/继承.md",
+    "java-learn/继承/禁止继承.md",
     "java-learn/继承/原型和继承的关系.md",
-    "dailyTask/2022-01-16 📅.md",
-    "dailyTask/2022-01-15 📅.md",
-    "dailyTask/2022-01-14 📅.md",
-    "dailyTask/2022-01-13 📅.md",
-    "dailyTask/2022-01-12 📅.md",
-    "dailyTask/2022-01-11 📅.md",
-    "dailyTask/2022-01-10 📅.md"
+    "java-learn/继承/复用构造器.md",
+    "java-learn/继承/多态.md"
   ]
 }
