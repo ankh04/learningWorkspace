@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 70 个task，完成的项目数量为 55，完成率为 78.57%。
+您一共完成了 74 个task，完成的项目数量为 56，完成率为 75.68%。
 共观看了 5 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -19,7 +19,7 @@
 - 名称：the data from exported file using python, 天数：1
 
 
-共学习了 17 个项目，分别是
+共学习了 19 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -37,6 +37,8 @@
 - 名称：github actions, 天数：1
 - 名称：java-Class-assignment, 天数：1
 - 名称：深入理解计算机系统-信息的表示和处理, 天数：1
+- 名称：java-package, 天数：1
+- 名称：java-inherient, 天数：1
 
 
 共购买了 2 个商品，分别是
