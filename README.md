@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 76 个task，完成的项目数量为 60，完成率为 78.95%。
+您一共完成了 81 个task，完成的项目数量为 64，完成率为 79.01%。
 共观看了 7 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -10,7 +10,7 @@
 - 名称：进击的巨人, 天数：1
 
 
-共阅读了 8 本书籍，分别是
+共阅读了 9 本书籍，分别是
 - 名称：博物, 天数：2
 - 名称：白夜行, 天数：2
 - 名称：习得性无助, 天数：3
@@ -19,9 +19,10 @@
 - 名称：shelf, 天数：1
 - 名称：the xml (which is very large, like 100Mb)，extract info from this file. , 天数：1
 - 名称：the data from exported file using python, 天数：1
+- 名称：The Complete Works of Tao Technology, 天数：1
 
 
-共学习了 19 个项目，分别是
+共学习了 23 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -41,6 +42,10 @@
 - 名称：深入理解计算机系统-信息的表示和处理, 天数：1
 - 名称：java-package, 天数：1
 - 名称：java-inherient, 天数：1
+- 名称：算法导论-二叉树, 天数：1
+- 名称：binary tree., 天数：1
+- 名称：深入理解计算机系统-assembly coding-mov, 天数：1
+- 名称：linux, 天数：1
 
 
 共购买了 3 个商品，分别是
