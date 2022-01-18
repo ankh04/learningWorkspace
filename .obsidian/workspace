@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 139
+    "width": 320
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -187,14 +187,14 @@
   "active": "6536781ef97c16b2",
   "lastOpenFiles": [
     "dailyTask/2022-01-18 📅.md",
+    "project/music player/music player.md",
+    "dailyTask/2022-01-17 📅.md",
+    "reading note/深入理解计算机系统/汇编/指令集合.md",
+    "etc/St. Paul.md",
+    "etc/Corinthians.md",
+    "learnedStuff/The difference between visual lines and logical lines in Vim.md",
     "linux-learn/sed指令.md",
     "linux-learn/定时任务.md",
-    "dailyTask/2022-01-17 📅.md",
-    "java-learn/库函数/length和length()的区别.md",
-    "java-learn/库函数/LinkedList/add和offer的区别.md",
-    "README.md",
-    "java-learn/类/包.md",
-    "algorithm/leetcode/遍历二叉树（递归和非递归方式）.md",
-    "algorithm/leetcode/判断两个链表是否相交.md"
+    "java-learn/库函数/length和length()的区别.md"
   ]
 }
