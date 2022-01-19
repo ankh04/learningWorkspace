@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-18 📅.md",
+            "file": "javascript-learn/跨域.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-18 📅.md",
+                "file": "javascript-learn/跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-18 📅.md",
+                "file": "javascript-learn/跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-18 📅.md"
+                "file": "javascript-learn/跨域.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "6536781ef97c16b2",
   "lastOpenFiles": [
+    "javascript-learn/跨域.md",
+    "dailyTask/2022-01-19 📅.md",
     "dailyTask/2022-01-18 📅.md",
     "project/music player/music player.md",
     "dailyTask/2022-01-17 📅.md",
@@ -193,8 +195,6 @@
     "etc/St. Paul.md",
     "etc/Corinthians.md",
     "learnedStuff/The difference between visual lines and logical lines in Vim.md",
-    "linux-learn/sed指令.md",
-    "linux-learn/定时任务.md",
-    "java-learn/库函数/length和length()的区别.md"
+    "linux-learn/sed指令.md"
   ]
 }
