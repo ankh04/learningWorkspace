@@ -22,7 +22,7 @@
 - 名称：The Complete Works of Tao Technology, 天数：1
 
 
-共学习了 24 个项目，分别是
+共学习了 25 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -47,6 +47,7 @@
 - 名称：深入理解计算机系统-assembly coding-mov, 天数：1
 - 名称：linux, 天数：1
 - 名称：Java-interface, 天数：1
+- 名称：figma, 天数：1
 
 
 共购买了 3 个商品，分别是
