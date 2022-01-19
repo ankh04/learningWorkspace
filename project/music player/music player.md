@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] download my favourite music        -
 - [ ] download [lyrics](https://github.com/jitwxs/163MusicLyrics) use the api: http://music.163.com/api/song/media?id=
 - [ ] upload music to COS
+- [ ] [[设计准则]]
 
 
 ## In progress

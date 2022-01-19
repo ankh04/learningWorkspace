@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] linux
 - [ ] 计算机安全
 - [ ] 计算机网络
+- [ ] 设计模式
 
 
 ## learning
