@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-19 📅.md",
+            "file": "dailyTask/2022-01-20 📅.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-19 📅.md",
+                "file": "dailyTask/2022-01-20 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-19 📅.md",
+                "file": "dailyTask/2022-01-20 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-19 📅.md"
+                "file": "dailyTask/2022-01-20 📅.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
-    "dailyTask/2022-01-19 📅.md",
     "dailyTask/2022-01-20 📅.md",
-    "dailyTask/2022-01-18 📅.md",
-    "algorithm/leetcode/遍历二叉树（递归和非递归方式）.md",
-    "algorithm/数据结构/二叉树.md",
-    "algorithm/数据结构/链表.md",
-    "algorithm/数据结构/数组.md",
-    "java-learn/库函数/LinkedList/add和offer的区别.md",
-    "learning plan.md",
-    "project/music player/设计准则.md"
+    "dailyTask/2022-01-19 📅.md",
+    "dailyTask/2022-01-13 📅.md",
+    "dailyTask/2022-01-08 📅.md",
+    "dailyTask/2022-01-07 📅.md",
+    "dailyTask/2022-01-06 📅.md",
+    "dailyTask/2022-01-05 📅.md",
+    "dailyTask/2022-01-04 📅.md",
+    "dailyTask/2022-01-03 📅.md",
+    "dailyTask/2022-01-02 📅.md"
   ]
 }
