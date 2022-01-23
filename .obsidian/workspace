@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-21 📅.md",
+            "file": "dailyTask/2022-01-22 📅.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-21 📅.md",
+                "file": "dailyTask/2022-01-22 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-21 📅.md",
+                "file": "dailyTask/2022-01-22 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-21 📅.md"
+                "file": "dailyTask/2022-01-22 📅.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   },
   "active": "6536781ef97c16b2",
   "lastOpenFiles": [
+    "dailyTask/2022-01-22 📅.md",
     "dailyTask/2022-01-21 📅.md",
     "dailyTask/2022-01-20 📅.md",
     "project/music player/music player.md",
@@ -206,7 +207,6 @@
     "dailyTask/2022-01-19 📅.md",
     "others/switch  problem.md",
     "README.md",
-    "vedio.md",
-    "dailyTask/2022-01-13 📅.md"
+    "vedio.md"
   ]
 }
