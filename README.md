@@ -31,7 +31,7 @@
 - 名称：TypeScript, 天数：1
 
 
-共学习了 32 个项目，分别是
+共学习了 33 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -64,6 +64,7 @@
 - 名称：鸟哥的Linux私房菜, 天数：1
 - 名称：automation on mac, 天数：1
 - 名称：some ftp, 天数：1
+- 名称：AppleScript, 天数：1
 
 
 共购买了 3 个商品，分别是
