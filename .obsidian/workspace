@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-23 📅.md",
+            "file": "dailyTask/2022-01-24 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-23 📅.md",
+                "file": "dailyTask/2022-01-24 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-23 📅.md",
+                "file": "dailyTask/2022-01-24 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-23 📅.md"
+                "file": "dailyTask/2022-01-24 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
+    "dailyTask/2022-01-24 📅.md",
     "dailyTask/2022-01-23 📅.md",
-    "javascript-learn/react/router/js跳转.md",
-    "java-learn/数组.md",
-    "javascript-learn/react/Untitled.md",
     "dailyTask/2022-01-22 📅.md",
     "dailyTask/2022-01-21 📅.md",
     "dailyTask/2022-01-20 📅.md",
-    "project/music player/music player.md",
-    "java-learn/接口/接口.md",
-    "dailyTask/2022-01-19 📅.md"
+    "dailyTask/2022-01-19 📅.md",
+    "dailyTask/2022-01-18 📅.md",
+    "dailyTask/2022-01-17 📅.md",
+    "javascript-learn/react/router/js跳转.md",
+    "java-learn/数组.md"
   ]
 }
