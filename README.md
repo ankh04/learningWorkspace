@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 122 个task，完成的项目数量为 91，完成率为 74.59%。
+您一共完成了 123 个task，完成的项目数量为 92，完成率为 74.8%。
 共观看了 11 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -31,7 +31,7 @@
 - 名称：TypeScript, 天数：1
 
 
-共学习了 33 个项目，分别是
+共学习了 35 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -65,6 +65,8 @@
 - 名称：automation on mac, 天数：1
 - 名称：some ftp, 天数：1
 - 名称：AppleScript, 天数：1
+- 名称：JavaScript for Automation [here](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki), 天数：1
+- 名称：the api of bilibili, 天数：1
 
 
 共购买了 3 个商品，分别是
