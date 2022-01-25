@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-24 📅.md",
+            "file": "linux-learn/命令行连接网络.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-24 📅.md",
+                "file": "linux-learn/命令行连接网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-24 📅.md",
+                "file": "linux-learn/命令行连接网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-24 📅.md"
+                "file": "linux-learn/命令行连接网络.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
+    "linux-learn/命令行连接网络.md",
+    "dailyTask/2022-01-25 📅.md",
     "dailyTask/2022-01-24 📅.md",
     "reading note/CST.md",
     "reading note/deconstructivism.md",
@@ -193,8 +195,6 @@
     "reading note/learnedStuff/The difference between visual lines and logical lines in Vim.md",
     "dailyTask/2022-01-23 📅.md",
     "dailyTask/2022-01-22 📅.md",
-    "dailyTask/2022-01-21 📅.md",
-    "dailyTask/2022-01-20 📅.md",
-    "dailyTask/2022-01-19 📅.md"
+    "dailyTask/2022-01-21 📅.md"
   ]
 }
