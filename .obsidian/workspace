@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/异常/异常.md",
+            "file": "todo list.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/异常/异常.md",
+                "file": "todo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/异常/异常.md",
+                "file": "todo list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/异常/异常.md"
+                "file": "todo list.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
+    "todo list.md",
+    "vedio.md",
     "java-learn/异常/异常.md",
     "linux-learn/添加用户.md",
     "dailyTask/2022-01-26 📅.md",
-    "todo list.md",
     "dailyTask/2022-01-25 📅.md",
     "dailyTask/2022-01-24 📅.md",
     "linux-learn/守护进程.md",
     "linux-learn/命令行连接网络.md",
-    "reading note/CST.md",
-    "reading note/deconstructivism.md"
+    "reading note/CST.md"
   ]
 }
