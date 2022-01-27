@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/Idea.md",
+            "file": "dailyTask/2022-01-27 📅.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/Idea.md",
+                "file": "dailyTask/2022-01-27 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/Idea.md",
+                "file": "dailyTask/2022-01-27 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/Idea.md"
+                "file": "dailyTask/2022-01-27 📅.md"
               }
             }
           },
@@ -198,9 +198,9 @@
   },
   "active": "2efe0356fd581794",
   "lastOpenFiles": [
+    "dailyTask/2022-01-27 📅.md",
     "java-learn/Idea.md",
     "reading note/others/others.md",
-    "dailyTask/2022-01-27 📅.md",
     "dailyTask/2022-01-26 📅.md",
     "todo list.md",
     "vedio.md",
