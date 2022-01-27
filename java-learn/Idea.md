@@ -15,4 +15,17 @@ System.out.println("a = " + a);
 System.out.println(a);  
 // xxx.soutv  
 System.out.println("a = " + a);
+
+int[] arr = new int[] {1, 2, 3};  
+// fori 需要自己填参数  
+for (int i = 0; i < arr.length; i++) {  
+  
+}  
+// itar 自动寻找列表遍历  
+for (int j = 0; j < arr.length; j++) {  
+    int i = arr[j];  
+  
+}
 ```
+
+在 `Live Templates` 中使用 `$VAR1$`,`$VAR2$`这样的字符表示光标的位置。
