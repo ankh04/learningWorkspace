@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-01-26 📅.md",
+            "file": "todo list.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2efe0356fd581794",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java-learn/Idea.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-01-26 📅.md",
+                "file": "java-learn/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-01-26 📅.md",
+                "file": "java-learn/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-01-26 📅.md"
+                "file": "java-learn/Idea.md"
               }
             }
           },
@@ -184,17 +196,17 @@
     "direction": "horizontal",
     "width": 383
   },
-  "active": "ad9ba8d79370fb53",
+  "active": "2efe0356fd581794",
   "lastOpenFiles": [
+    "java-learn/Idea.md",
+    "reading note/others/others.md",
+    "dailyTask/2022-01-27 📅.md",
     "dailyTask/2022-01-26 📅.md",
     "todo list.md",
     "vedio.md",
     "java-learn/异常/异常.md",
     "linux-learn/添加用户.md",
     "dailyTask/2022-01-25 📅.md",
-    "dailyTask/2022-01-24 📅.md",
-    "linux-learn/守护进程.md",
-    "linux-learn/命令行连接网络.md",
-    "reading note/CST.md"
+    "dailyTask/2022-01-24 📅.md"
   ]
 }
