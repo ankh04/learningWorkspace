@@ -34,7 +34,7 @@
 - 名称：鸟哥的Linux私房菜-账号管理, 天数：1
 
 
-共学习了 41 个项目，分别是
+共学习了 42 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -64,7 +64,7 @@
 - 名称：深入理解计算机系统-汇编指令-跳转指令-运算指令-switch指令, 天数：1
 - 名称：算法导论-二叉搜索树, 天数：1
 - 名称：Java-lambda表达式, 天数：1
-- 名称：鸟哥的Linux私房菜, 天数：2
+- 名称：鸟哥的Linux私房菜, 天数：1
 - 名称：automation on mac, 天数：1
 - 名称：AppleScript, 天数：1
 - 名称：JavaScript for Automation [here](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki), 天数：1
@@ -76,6 +76,7 @@
 - 名称：深入理解JVM虚拟机-序章, 天数：1
 - 名称：深入理解JVM虚拟机-JVM, 天数：1
 - 名称：Idea, 天数：1
+- 名称：鸟哥的Linux私房菜-文件系统与压缩指令, 天数：1
 
 
 共购买了 4 个商品，分别是
