@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reading note/宏观经济学/物价指数.md",
+            "file": "dailyTask/2022-01-28 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading note/宏观经济学/物价指数.md",
+                "file": "dailyTask/2022-01-28 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading note/宏观经济学/物价指数.md",
+                "file": "dailyTask/2022-01-28 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading note/宏观经济学/物价指数.md"
+                "file": "dailyTask/2022-01-28 📅.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
+    "dailyTask/2022-01-28 📅.md",
     "reading note/宏观经济学/物价指数.md",
     "reading note/宏观经济学/国民收入核算.md",
-    "dailyTask/2022-01-28 📅.md",
     "reading note/CST.md",
     "linux-learn/关闭休眠.md",
     "dailyTask/2022-01-27 📅.md",
