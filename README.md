@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 137 个task，完成的项目数量为 104，完成率为 75.91%。
+您一共完成了 141 个task，完成的项目数量为 106，完成率为 75.18%。
 共观看了 12 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -64,7 +64,7 @@
 - 名称：深入理解计算机系统-汇编指令-跳转指令-运算指令-switch指令, 天数：1
 - 名称：算法导论-二叉搜索树, 天数：1
 - 名称：Java-lambda表达式, 天数：1
-- 名称：鸟哥的Linux私房菜, 天数：1
+- 名称：鸟哥的Linux私房菜, 天数：2
 - 名称：automation on mac, 天数：1
 - 名称：AppleScript, 天数：1
 - 名称：JavaScript for Automation [here](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki), 天数：1
