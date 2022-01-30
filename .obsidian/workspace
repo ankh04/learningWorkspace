@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 432
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -187,14 +187,14 @@
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
     "dailyTask/2022-01-30 📅.md",
+    "java-learn/多线程/四种使用多线程的方式.md",
+    "java-learn/多线程/程序 线程 进程.md",
     "java-learn/类/匿名子类.md",
     "dailyTask/2022-01-29 📅.md",
     "java-learn/program details/对齐.md",
     "java-learn/数组.md",
     "dailyTask/2022-01-28 📅.md",
     "README.md",
-    "reading note/宏观经济学/物价指数.md",
-    "reading note/宏观经济学/国民收入核算.md",
-    "reading note/CST.md"
+    "reading note/宏观经济学/物价指数.md"
   ]
 }
