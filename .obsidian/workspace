@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据库/MySQL/安装.md",
+            "file": "dailyTask/2022-02-03 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/安装.md",
+                "file": "dailyTask/2022-02-03 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL/安装.md",
+                "file": "dailyTask/2022-02-03 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/安装.md"
+                "file": "dailyTask/2022-02-03 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
-    "数据库/MySQL/安装.md",
     "dailyTask/2022-02-03 📅.md",
+    "数据库/MySQL/导入SQL.md",
+    "数据库/MySQL/安装.md",
     "dailyTask/2022-02-02 📅.md",
     "java-learn/库函数/String/StringBuffer.md",
     "java-learn/库函数/String/String.md",
     "dailyTask/2022-02-01 📅.md",
     "dailyTask/2022-01-31 📅.md",
     "dailyTask/2022-01-30 📅.md",
-    "java-learn/多线程/四种使用多线程的方式.md",
-    "java-learn/多线程/程序 线程 进程.md"
+    "java-learn/多线程/四种使用多线程的方式.md"
   ]
 }
