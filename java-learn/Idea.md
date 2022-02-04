@@ -29,3 +29,11 @@ for (int j = 0; j < arr.length; j++) {
 ```
 
 在 `Live Templates` 中使用 `$VAR1$`,`$VAR2$`这样的字符表示光标的位置。
+
+
+### 查看接口实现类
+`option`+`command`+`B`
+
+### 导入jar包
+快捷键`command`+`;`打开项目结构，在dependencies选项卡中添加jar包
+![[Pasted image 20220204180658.png]]
