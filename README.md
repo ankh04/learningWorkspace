@@ -39,7 +39,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 71 个项目，分别是
+共学习了 72 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -111,6 +111,7 @@
 - 名称："Java-Spring框架", 天数：1
 - 名称："React-事件绑定", 天数：1
 - 名称："React-State", 天数：1
+- 名称："吉他-六线谱", 天数：1
 
 
 共购买了 4 个商品，分别是
