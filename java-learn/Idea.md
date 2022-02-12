@@ -37,3 +37,6 @@ for (int j = 0; j < arr.length; j++) {
 ### 导入jar包
 快捷键`command`+`;`打开项目结构，在dependencies选项卡中添加jar包
 ![[Pasted image 20220204180658.png]]
+
+### 查看方法的参数信息
+快捷键 `command`+`p`

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-02-10 📅.md",
+            "file": "dailyTask/2022-02-12 📅.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 426
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-02-10 📅.md",
+                "file": "dailyTask/2022-02-12 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-02-10 📅.md",
+                "file": "dailyTask/2022-02-12 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-02-10 📅.md"
+                "file": "dailyTask/2022-02-12 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
+    "dailyTask/2022-02-12 📅.md",
+    "java-learn/Idea.md",
+    "dailyTask/2022-02-11 📅.md",
     "dailyTask/2022-02-10 📅.md",
     "dailyTask/2022-02-09 📅.md",
     "dailyTask/2022-02-07 📅.md",
     "dailyTask/2022-02-08 📅.md",
     "todo list.md",
     "dailyTask/2022-01-01 📅.md",
-    "dailyTask/2022-01-02 📅.md",
-    "dailyTask/2022-01-05 📅.md",
-    "dailyTask/2022-01-06 📅.md",
-    "dailyTask/2022-01-24 📅.md"
+    "dailyTask/2022-01-02 📅.md"
   ]
 }
