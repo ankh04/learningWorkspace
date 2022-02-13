@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9ba8d79370fb53",
+        "id": "5c83079b179f6b8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/异常/异常.md",
-            "mode": "source",
+            "file": "java-learn/JavaWeb/Servlet/解析传递过来的参数.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/异常/异常.md",
+                "file": "java-learn/JavaWeb/Servlet/解析传递过来的参数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/异常/异常.md",
+                "file": "java-learn/JavaWeb/Servlet/解析传递过来的参数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/异常/异常.md"
+                "file": "java-learn/JavaWeb/Servlet/解析传递过来的参数.md"
               }
             }
           },
@@ -184,17 +184,17 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "ad9ba8d79370fb53",
+  "active": "5c83079b179f6b8c",
   "lastOpenFiles": [
-    "java-learn/异常/异常.md",
-    "java-learn/配置文件/配置文件.md",
-    "java-learn/JavaWeb/http/http.md",
-    "java-learn/JavaWeb/http/响应状态码.md",
-    "java-learn/JavaWeb/http/请求方式.md",
-    "java-learn/JavaWeb/http/媒体类型.md",
+    "java-learn/JavaWeb/Servlet/解析传递过来的参数.md",
+    "java-learn/JavaWeb/Servlet/使用idea创建servlet.md",
+    "java-learn/JavaWeb/Servlet/HelloWorld.md",
+    "java-learn/JavaWeb/Servlet/Servlet.md",
+    "attachment/04.服务器内部转发.png",
+    "attachment/Pasted image 20220213213129.png",
+    "java-learn/Idea.md",
+    "attachment/Pasted image 20220213212742.png",
     "dailyTask/2022-02-13 📅.md",
-    "java-learn/jdbc/Druid连接池.md",
-    "attachment/Pasted image 20220213083946.png",
-    "java-learn/jdbc/下载mysql驱动.md"
+    "dailyTask/2022-02-09 📅.md"
   ]
 }

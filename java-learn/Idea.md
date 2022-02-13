@@ -40,3 +40,7 @@ for (int j = 0; j < arr.length; j++) {
 
 ### 查看方法的参数信息
 快捷键 `command`+`p`
+### 查看继承结构
+快捷键`command` + `option` + `U`
+### 查看该类中所有的方法
+快捷键`command` + 7
