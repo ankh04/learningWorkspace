@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-02-12 📅.md",
+            "file": "java-learn/异常/异常.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "请求方式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-02-12 📅.md",
+                "file": "java-learn/异常/异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-02-12 📅.md",
+                "file": "java-learn/异常/异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-02-12 📅.md"
+                "file": "java-learn/异常/异常.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "ad9ba8d79370fb53",
   "lastOpenFiles": [
-    "dailyTask/2022-02-12 📅.md",
-    "java-learn/Idea.md",
-    "dailyTask/2022-02-11 📅.md",
-    "dailyTask/2022-02-10 📅.md",
-    "dailyTask/2022-02-09 📅.md",
-    "dailyTask/2022-02-07 📅.md",
-    "dailyTask/2022-02-08 📅.md",
-    "todo list.md",
-    "dailyTask/2022-01-01 📅.md",
-    "dailyTask/2022-01-02 📅.md"
+    "java-learn/异常/异常.md",
+    "java-learn/配置文件/配置文件.md",
+    "java-learn/JavaWeb/http/http.md",
+    "java-learn/JavaWeb/http/响应状态码.md",
+    "java-learn/JavaWeb/http/请求方式.md",
+    "java-learn/JavaWeb/http/媒体类型.md",
+    "dailyTask/2022-02-13 📅.md",
+    "java-learn/jdbc/Druid连接池.md",
+    "attachment/Pasted image 20220213083946.png",
+    "java-learn/jdbc/下载mysql驱动.md"
   ]
 }
