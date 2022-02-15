@@ -44,3 +44,11 @@ for (int j = 0; j < arr.length; j++) {
 快捷键`command` + `option` + `U`
 ### 查看该类中所有的方法
 快捷键`command` + 7
+
+### 设置编译选项,让实际参数传递进来
+正常情况下,通过`Method`类的对象调用的`getParameters()`返回的参数列表并没有实际的值:
+![[Pasted image 20220215212404.png]]
+如果想知道方法里的形参名字叫什么(比如在servlet控制层就有这个需求),就需要进行以下设置
+![[Pasted image 20220215212215.png]]
+在这里添加`-paramters`参数.
+需要注意的是,在做完这个操作后,整个项目需要重新编译,所有应该删除out文件下的所有class文件.
