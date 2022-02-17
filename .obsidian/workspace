@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "请求方式",
+                "query": "后台",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,14 +187,14 @@
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
     "dailyTask/2022-02-17 📅.md",
+    "数据库/ElasticSearch/基本使用.md",
+    "数据库/ElasticSearch/安装.md",
+    "linux-learn/守护进程.md",
+    "数据库/MySQL/安装.md",
     "数据库/redis/安装与使用.md",
     "dailyTask/2022-02-16 📅.md",
     "javascript-learn/react/事件处理.md",
     "javascript-learn/react/refs.md",
-    "javascript-learn/react/props.md",
-    "Untitled.md",
-    "attachment/Pasted image 20220216191454.png",
-    "javascript-learn/react/router/js跳转.md",
-    "dailyTask/2022-02-15 📅.md"
+    "javascript-learn/react/props.md"
   ]
 }
