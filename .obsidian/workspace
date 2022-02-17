@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-02-16 📅.md",
+            "file": "dailyTask/2022-02-17 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-02-16 📅.md",
+                "file": "dailyTask/2022-02-17 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-02-16 📅.md",
+                "file": "dailyTask/2022-02-17 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-02-16 📅.md"
+                "file": "dailyTask/2022-02-17 📅.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
+    "dailyTask/2022-02-17 📅.md",
+    "数据库/redis/安装与使用.md",
     "dailyTask/2022-02-16 📅.md",
     "javascript-learn/react/事件处理.md",
     "javascript-learn/react/refs.md",
@@ -193,8 +195,6 @@
     "Untitled.md",
     "attachment/Pasted image 20220216191454.png",
     "javascript-learn/react/router/js跳转.md",
-    "dailyTask/2022-02-15 📅.md",
-    "dailyTask/2022-02-01 📅.md",
-    "dailyTask/2022-02-02 📅.md"
+    "dailyTask/2022-02-15 📅.md"
   ]
 }
