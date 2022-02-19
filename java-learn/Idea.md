@@ -52,3 +52,19 @@ for (int j = 0; j < arr.length; j++) {
 ![[Pasted image 20220215212215.png]]
 在这里添加`-paramters`参数.
 需要注意的是,在做完这个操作后,整个项目需要重新编译,所有应该删除out文件下的所有class文件.
+
+## 使用别人的项目编译时报不支持发行版本错误
+首先需要设置这个地方和本地jdk版本一致
+![[Pasted image 20220219161220.png]]
+改了这里下面可能会有警告出现,最好在pom.xml中再指定jdk版本
+```xml
+<properties>  
+  
+ <maven.compiler.source>11</maven.compiler.source>  
+  
+ <maven.compiler.target>11</maven.compiler.target>  
+  
+</properties>
+```
+最后还需要在这里设置字节码的版本号
+![[Pasted image 20220219161400.png]]
