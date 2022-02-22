@@ -187,6 +187,7 @@
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
     "dailyTask/2022-02-22 📅.md",
+    "java-learn/log4j漏洞.md",
     "java-learn/踩坑记录.md",
     "java-learn/Idea.md",
     "java-learn/Spring Framework/IOC.md",
@@ -194,7 +195,6 @@
     "java-learn/Spring Framework/引入Spring.md",
     "java-learn/Spring Framework/依赖注入.md",
     "java-learn/Spring Framework/控制反转容器&依赖注入模式.md",
-    "java-learn/Spring Framework/基本概念.md",
-    "linux-learn/挂载硬盘.md"
+    "java-learn/Spring Framework/基本概念.md"
   ]
 }
