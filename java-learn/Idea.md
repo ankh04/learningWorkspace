@@ -68,3 +68,7 @@ for (int j = 0; j < arr.length; j++) {
 ```
 最后还需要在这里设置字节码的版本号
 ![[Pasted image 20220219161400.png]]
+
+## 如果父模块需要调用子模块的类
+在`dependencies`中加入对应的标签即可
+![[Pasted image 20220222161602.png]]

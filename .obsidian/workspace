@@ -187,14 +187,14 @@
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
     "dailyTask/2022-02-22 📅.md",
-    "linux-learn/挂载硬盘.md",
-    "linux-learn/添加用户.md",
-    "dailyTask/2022-02-21 📅.md",
-    "数据库/ElasticSearch/安装.md",
-    "数据库/ElasticSearch/基本使用.md",
-    "数据库/MySQL/安装.md",
-    "java-learn/多线程/程序 线程 进程.md",
-    "java-learn/多线程/四种使用多线程的方式.md",
-    "java-learn/反射/反射存在的意义.md"
+    "java-learn/踩坑记录.md",
+    "java-learn/Idea.md",
+    "java-learn/Spring Framework/IOC.md",
+    "java-learn/Spring Framework/bean作用域.md",
+    "java-learn/Spring Framework/引入Spring.md",
+    "java-learn/Spring Framework/依赖注入.md",
+    "java-learn/Spring Framework/控制反转容器&依赖注入模式.md",
+    "java-learn/Spring Framework/基本概念.md",
+    "linux-learn/挂载硬盘.md"
   ]
 }
