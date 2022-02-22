@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-02-21 📅.md",
+            "file": "dailyTask/2022-02-22 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-02-21 📅.md",
+                "file": "dailyTask/2022-02-22 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-02-21 📅.md",
+                "file": "dailyTask/2022-02-22 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-02-21 📅.md"
+                "file": "dailyTask/2022-02-22 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
+    "dailyTask/2022-02-22 📅.md",
+    "linux-learn/挂载硬盘.md",
+    "linux-learn/添加用户.md",
     "dailyTask/2022-02-21 📅.md",
     "数据库/ElasticSearch/安装.md",
     "数据库/ElasticSearch/基本使用.md",
     "数据库/MySQL/安装.md",
     "java-learn/多线程/程序 线程 进程.md",
     "java-learn/多线程/四种使用多线程的方式.md",
-    "java-learn/反射/反射存在的意义.md",
-    "java-learn/继承/覆盖方法.md",
-    "java-learn/继承/多态.md",
-    "java-learn/继承/超类和子类.md"
+    "java-learn/反射/反射存在的意义.md"
   ]
 }
