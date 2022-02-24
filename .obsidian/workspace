@@ -187,14 +187,14 @@
   "active": "68f0cba094c2a3ae",
   "lastOpenFiles": [
     "dailyTask/2022-02-24 📅.md",
-    "linux-learn/内网穿透.md",
-    "linux-learn/守护进程.md",
-    "dailyTask/2022-01-27 📅.md",
     "dailyTask/2022-02-23 📅.md",
-    "java-learn/Docker/安装.md",
-    "java-learn/SpringMVC/idea tomcat 404错误.md",
-    "java-learn/SpringMVC/处理json.md",
     "java-learn/SpringMVC/接受json参数的四种方式.md",
-    "java-learn/踩坑记录.md"
+    "javascript-learn/跨域.md",
+    "javascript-learn/react/router/spa.md",
+    "javascript-learn/react/组件间通信.md",
+    "javascript-learn/react/模块化css.md",
+    "javascript-learn/react/事件处理.md",
+    "javascript-learn/react/refs.md",
+    "javascript-learn/react/props.md"
   ]
 }
