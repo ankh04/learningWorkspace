@@ -7,9 +7,11 @@
         "id": "1381f189fd7c5c79",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachment/Pasted image 20220226111205.png"
+            "file": "dailyTask/2022-02-26 📅.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/Pasted image 20220226111205.png",
+                "file": "dailyTask/2022-02-26 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/Pasted image 20220226111205.png",
+                "file": "dailyTask/2022-02-26 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/Pasted image 20220226111205.png"
+                "file": "dailyTask/2022-02-26 📅.md"
               }
             }
           },
@@ -184,15 +186,15 @@
   },
   "active": "1381f189fd7c5c79",
   "lastOpenFiles": [
+    "dailyTask/2022-02-26 📅.md",
+    "linux-learn/hosts配置.md",
+    "javascript-learn/react/router/路由原理.md",
+    "javascript-learn/react/router/spa.md",
+    "linux-learn/远程编辑代码.md",
+    "dailyTask/2022-02-24 📅.md",
     "attachment/Pasted image 20220226111205.png",
     "linux-learn/shell/neovim和vim的区别.md",
     "etc/更改浏览器的样式.md",
-    "linux-learn/shell/将当前目录的所有文件移动到上一级目录.md",
-    "attachment/Pasted image 20220223145956.png",
-    "linux-learn/tar命令.md",
-    "linux-learn/shell/更改命令行模式.md",
-    "dailyTask/2022-02-25 📅.md",
-    "java-learn/Docker/docker 使用jenkins.md",
-    "javascript-learn/node/npm chahe.md"
+    "linux-learn/shell/将当前目录的所有文件移动到上一级目录.md"
   ]
 }
