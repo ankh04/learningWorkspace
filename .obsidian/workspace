@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript-learn/react/router/路由原理.md",
+            "file": "linux-learn/命令行连接网络.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript-learn/react/router/路由原理.md",
+                "file": "linux-learn/命令行连接网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript-learn/react/router/路由原理.md",
+                "file": "linux-learn/命令行连接网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript-learn/react/router/路由原理.md"
+                "file": "linux-learn/命令行连接网络.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "1381f189fd7c5c79",
   "lastOpenFiles": [
-    "javascript-learn/react/router/路由原理.md",
-    "linux-learn/nginx/nginx配置文件.md",
-    "java-learn/Docker/docker 使用jenkins.md",
+    "linux-learn/命令行连接网络.md",
+    "java-learn/SpringMVC/接受json参数的四种方式.md",
+    "dailyTask/2022-02-27 📅.md",
     "dailyTask/2022-02-26 📅.md",
-    "linux-learn/hosts配置.md",
-    "javascript-learn/react/router/spa.md",
-    "linux-learn/远程编辑代码.md",
-    "dailyTask/2022-02-24 📅.md",
-    "attachment/Pasted image 20220226111205.png",
-    "linux-learn/shell/neovim和vim的区别.md"
+    "dailyTask/2022-03-05 📅.md",
+    "javascript-learn/react/router/路由原理.md",
+    "linux-learn/shell/配置zsh.md",
+    "linux-learn/shell/neovim和vim的区别.md",
+    "linux-learn/命令行翻墙.md",
+    "etc/调整启动台布局.md"
   ]
 }
