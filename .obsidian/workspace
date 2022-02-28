@@ -7,9 +7,11 @@
         "id": "1381f189fd7c5c79",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachment/Pasted image 20220227223849.png"
+            "file": "dailyTask/2022-02-28 📅.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/Pasted image 20220227223849.png",
+                "file": "dailyTask/2022-02-28 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/Pasted image 20220227223849.png",
+                "file": "dailyTask/2022-02-28 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/Pasted image 20220227223849.png"
+                "file": "dailyTask/2022-02-28 📅.md"
               }
             }
           },
@@ -184,15 +186,15 @@
   },
   "active": "1381f189fd7c5c79",
   "lastOpenFiles": [
-    "attachment/Pasted image 20220227223849.png",
-    "etc/更改键盘功能键.md",
     "dailyTask/2022-02-28 📅.md",
-    "dailyTask/2022-02-27 📅.md",
-    "java-learn/MyBatis/MyBatis处理In语句.md",
-    "linux-learn/shell/更改命令行模式.md",
-    "java-learn/SpringMVC/接受json参数的四种方式.md",
-    "linux-learn/命令行连接网络.md",
+    "java-learn/Docker/docker使用nginx.md",
+    "java-learn/Docker/docker 使用jenkins.md",
+    "linux-learn/cd权限不够.md",
+    "java-learn/Docker/数据卷.md",
+    "linux-learn/nginx/nginx配置文件.md",
     "dailyTask/2022-02-26 📅.md",
-    "dailyTask/2022-03-05 📅.md"
+    "dailyTask/2022-02-27 📅.md",
+    "attachment/Pasted image 20220227223849.png",
+    "etc/更改键盘功能键.md"
   ]
 }
