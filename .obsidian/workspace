@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-03-02 📅.md",
+            "file": "dailyTask/2022-03-03 📅.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-03-02 📅.md",
+                "file": "dailyTask/2022-03-03 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-03-02 📅.md",
+                "file": "dailyTask/2022-03-03 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-03-02 📅.md"
+                "file": "dailyTask/2022-03-03 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
-    "dailyTask/2022-03-02 📅.md",
+    "dailyTask/2022-03-03 📅.md",
+    "linux-learn/命令行翻墙.md",
+    "linux-learn/命令行连接网络.md",
+    "linux-learn/查看流量统计.md",
+    "javascript-learn/react/router/嵌套路由.md",
     "javascript-learn/react/router/编程式导航.md",
+    "javascript-learn/react/router/路由原理.md",
+    "dailyTask/2022-03-02 📅.md",
     "dailyTask/2022-03-01 📅.md",
-    "dailyTask/2022-02-28 📅.md",
-    "javascript-learn/jwt.md",
-    "java-learn/JavaWeb/tomcat.md",
-    "javascript-learn/跨域.md",
-    "java-learn/Docker/docker使用nginx.md",
-    "linux-learn/nginx/nginx配置文件.md",
-    "dailyTask/2022-02-27 📅.md"
+    "dailyTask/2022-02-28 📅.md"
   ]
 }
