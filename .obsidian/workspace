@@ -7,11 +7,9 @@
         "id": "f3aef5061d2e7b56",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "dailyTask/2022-03-09 📅.md",
-            "mode": "source",
-            "source": false
+            "file": "Snipaste_2022-03-10_21-11-44.jpg"
           }
         }
       }
@@ -61,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556
+    "width": 239
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-03-09 📅.md",
+                "file": "Snipaste_2022-03-10_21-11-44.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-03-09 📅.md",
+                "file": "Snipaste_2022-03-10_21-11-44.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-03-09 📅.md"
+                "file": "Snipaste_2022-03-10_21-11-44.jpg"
               }
             }
           },
@@ -186,15 +184,15 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
+    "Snipaste_2022-03-10_21-11-44.jpg",
+    "dailyTask/2022-03-10 📅.md",
     "dailyTask/2022-03-09 📅.md",
+    "dailyTask/2022-03-11 📅.md",
+    "java-learn/SpringMVC/servlet.md",
     "javascript-learn/TypeScript/React与ts.md",
     "javascript-learn/TypeScript/TypeScript手册.md",
     "dailyTask/2022-03-08 📅.md",
     "java-learn/设计模式/代理模式.md",
-    "java-learn/踩坑记录.md",
-    "linux-learn/ranger配置.md",
-    "java-learn/SpringMVC/接受json参数的四种方式.md",
-    "todo list.md",
-    "learning plan.md"
+    "java-learn/踩坑记录.md"
   ]
 }
