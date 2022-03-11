@@ -72,3 +72,7 @@ for (int j = 0; j < arr.length; j++) {
 ## 如果父模块需要调用子模块的类
 在`dependencies`中加入对应的标签即可
 ![[Pasted image 20220222161602.png]]
+
+## 条件断点
+![[Pasted image 20220311221532.png]]
+条件语句也是java语法,需要返回一个布尔值做判断

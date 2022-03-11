@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-03-11 📅.md",
+            "file": "java-learn/Idea.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-03-11 📅.md",
+                "file": "java-learn/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-03-11 📅.md",
+                "file": "java-learn/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-03-11 📅.md"
+                "file": "java-learn/Idea.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
+    "java-learn/Idea.md",
     "dailyTask/2022-03-11 📅.md",
     "java-learn/Docker/docker 使用jenkins.md",
     "linux-learn/命令行翻墙.md",
@@ -194,7 +195,6 @@
     "dailyTask/2022-03-09 📅.md",
     "Snipaste_2022-03-10_21-11-44.jpg",
     "java-learn/SpringMVC/servlet.md",
-    "javascript-learn/TypeScript/React与ts.md",
-    "javascript-learn/TypeScript/TypeScript手册.md"
+    "javascript-learn/TypeScript/React与ts.md"
   ]
 }
