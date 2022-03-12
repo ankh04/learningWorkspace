@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 320 个task，完成的项目数量为 229，完成率为 71.56%。
+您一共完成了 321 个task，完成的项目数量为 232，完成率为 72.27%。
 共观看了 18 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -41,7 +41,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 143 个项目，分别是
+共学习了 146 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -185,6 +185,9 @@
 - 名称："JavaScript-前端工程化", 天数：1
 - 名称："Java-Redis", 天数：1
 - 名称："Java-Java编程思想", 天数：1
+- 名称："Java-spring boot starter data redis", 天数：1
+- 名称："Java-MongoDB", 天数：1
+- 名称："Java-Spring5原理-IOC容器", 天数：1
 
 
 共购买了 4 个商品，分别是
