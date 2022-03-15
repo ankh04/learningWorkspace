@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/并查集.md",
+            "file": "dailyTask/2022-03-15 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dbeaver",
+                "query": "swagger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/并查集.md",
+                "file": "dailyTask/2022-03-15 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/并查集.md",
+                "file": "dailyTask/2022-03-15 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/并查集.md"
+                "file": "dailyTask/2022-03-15 📅.md"
               }
             }
           },
@@ -186,15 +187,15 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
-    "algorithm/并查集.md",
     "dailyTask/2022-03-15 📅.md",
+    "java-learn/踩坑记录.md",
+    "algorithm/并查集.md",
     "dailyTask/2022-03-14 📅.md",
     "algorithm/位图.md",
     "algorithm/完全二叉树.md",
     "algorithm/哈希表.md",
     "algorithm/数据结构/链表.md",
     "algorithm/数据结构/二叉树.md",
-    "algorithm/数据结构/数组.md",
-    "algorithm/leetcode/总结/链表.md"
+    "algorithm/数据结构/数组.md"
   ]
 }
