@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,9 +187,9 @@
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
     "dailyTask/2022-03-15 📅.md",
-    "java-learn/踩坑记录.md",
     "algorithm/并查集.md",
     "dailyTask/2022-03-14 📅.md",
+    "java-learn/踩坑记录.md",
     "algorithm/位图.md",
     "algorithm/完全二叉树.md",
     "algorithm/哈希表.md",
