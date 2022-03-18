@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/确定有限状态自动机(DFA).md",
-            "mode": "preview",
+            "file": "java-learn/语言基础/泛型.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/确定有限状态自动机(DFA).md",
+                "file": "java-learn/语言基础/泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/确定有限状态自动机(DFA).md",
+                "file": "java-learn/语言基础/泛型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/确定有限状态自动机(DFA).md"
+                "file": "java-learn/语言基础/泛型.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
-    "algorithm/确定有限状态自动机(DFA).md",
-    "dailyTask/2022-03-18 📅.md",
-    "dailyTask/2022-03-17 📅.md",
-    "algorithm/数据结构/前缀树(Tire).md",
-    "algorithm/数据结构/并查集(UnionFindSet).md",
-    "dailyTask/2022-03-16 📅.md",
-    "dailyTask/2022-03-13 📅.md",
-    "dailyTask/2022-03-14 📅.md",
-    "dailyTask/2022-03-15 📅.md",
-    "java-learn/踩坑记录.md"
+    "java-learn/语言基础/泛型.md",
+    "java-learn/语言基础/数组.md",
+    "java-learn/Idea.md",
+    "java-learn/log4j漏洞.md",
+    "java-learn/NIO模式.md",
+    "java-learn/POJO.md",
+    "java-learn/配置文件/配置文件.md",
+    "java-learn/语言基础/多线程/四种使用多线程的方式.md",
+    "java-learn/语言基础/多线程/程序 线程 进程.md",
+    "java-learn/语言基础/反射/反射存在的意义.md"
   ]
 }
