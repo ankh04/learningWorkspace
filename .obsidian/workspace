@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/语言基础/泛型.md",
+            "file": "dailyTask/2022-03-19 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/语言基础/泛型.md",
+                "file": "dailyTask/2022-03-19 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/语言基础/泛型.md",
+                "file": "dailyTask/2022-03-19 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/语言基础/泛型.md"
+                "file": "dailyTask/2022-03-19 📅.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
-    "java-learn/语言基础/泛型.md",
     "dailyTask/2022-03-19 📅.md",
+    "java-learn/语言基础/泛型.md",
     "dailyTask/2022-03-18 📅.md",
     "dailyTask/2022-03-17 📅.md",
     "java-learn/语言基础/数组.md",
