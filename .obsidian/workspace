@@ -187,6 +187,7 @@
   "active": "f3aef5061d2e7b56",
   "lastOpenFiles": [
     "dailyTask/2022-03-19 📅.md",
+    "java-learn/SpringMVC/接受json参数的四种方式.md",
     "java-learn/语言基础/泛型.md",
     "dailyTask/2022-03-18 📅.md",
     "dailyTask/2022-03-17 📅.md",
@@ -194,7 +195,6 @@
     "java-learn/Idea.md",
     "java-learn/log4j漏洞.md",
     "java-learn/NIO模式.md",
-    "java-learn/POJO.md",
-    "java-learn/配置文件/配置文件.md"
+    "java-learn/POJO.md"
   ]
 }
