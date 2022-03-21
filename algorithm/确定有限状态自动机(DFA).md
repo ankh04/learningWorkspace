@@ -34,3 +34,7 @@ $\Sigma^\star$ :属于符号集$\Sigma$的字符所组成所有字符串集合(�
 因此我们可以得出结论,上述DFA描述的是只接受**偶数个0**的字符串的自动机
 上述状态转移函数也可以用图形的方式表述出来
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/2560px-DFAexample.svg.png)
+
+### 应用
+[[字符串匹配算法#有限状态自动机算法 DFA|模式匹配]]
+
