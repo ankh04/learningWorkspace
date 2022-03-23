@@ -24,3 +24,11 @@
 再看react和vue源码
 
 spring看一段时间后需要接着看"tomcat和javaweb"
+
+### reading list
+7周7语言(可以了解更多的编程语言,可能对编译原理的理解有益)
+sass与compass实战(css进阶)
+C语言(了解+复习, 快速过一下即可)
+
+## Life
+下载switch 极乐迪斯科
