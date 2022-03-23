@@ -8,6 +8,8 @@
 - [ ] 做上大人!
 - [ ] 做自己的编译器(面向对象,有垃圾回收,有web服务器功能)
 
+- [ ] 用swift开发一个OCR软件,使用开源的[OCR项目](https://github.com/alisen39/TrWebOCR/wiki/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3)
+
 
 
 ## 近期
