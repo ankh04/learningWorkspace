@@ -76,3 +76,6 @@ for (int j = 0; j < arr.length; j++) {
 ## 条件断点
 ![[Pasted image 20220311221532.png]]
 条件语句也是java语法,需要返回一个布尔值做判断
+
+## 提取相同部分
+windows: `alt`+`ctrl`+`v`

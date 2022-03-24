@@ -25,6 +25,17 @@
 
 spring看一段时间后需要接着看"tomcat和javaweb"
 
+**Spring 路径**
+Spring基本api与流程 --- 见黑马程序员
+Spring源码阅读 --- Spring5源码分析的书
+UML大象书(用于画各种UML图做准备)
+设计模式(更好的体会Spring5)
+画Spring时序图
+手写Spring
+
+最后是关于spring的web部分
+spring的数据库部分jdbc
+
 ### reading list
 7周7语言(可以了解更多的编程语言,可能对编译原理的理解有益)
 sass与compass实战(css进阶)
