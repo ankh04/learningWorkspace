@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/压缩算法/哈夫曼编码.md",
+            "file": "java-learn/JavaWeb/Web的运作原理/Web的概念.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/压缩算法/哈夫曼编码.md",
+                "file": "java-learn/JavaWeb/Web的运作原理/Web的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/压缩算法/哈夫曼编码.md",
+                "file": "java-learn/JavaWeb/Web的运作原理/Web的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/压缩算法/哈夫曼编码.md"
+                "file": "java-learn/JavaWeb/Web的运作原理/Web的概念.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "fd57d38fc081659d",
   "lastOpenFiles": [
+    "java-learn/JavaWeb/Web的运作原理/Web的概念.md",
+    "java-learn/JavaWeb/Web的运作原理/Java实现简易服务器.md",
+    "java-learn/JavaWeb/Tomcat简介/tomcat.md",
+    "java-learn/JavaWeb/Web的运作原理/Java实现简易客户端.md",
+    "java-learn/JavaWeb/http/http.md",
+    "dailyTask/2022-03-26 📅.md",
     "algorithm/压缩算法/哈夫曼编码.md",
     "dailyTask/2022-03-25 📅.md",
     "dailyTask/2022-03-27 📅.md",
-    "dailyTask/2022-03-26 📅.md",
-    "java-learn/JavaWeb/http/媒体类型.md",
-    "java-learn/JavaWeb/http/http.md",
-    "java-learn/JavaWeb/http/响应状态码.md",
-    "java-learn/JavaWeb/http/请求方式.md",
-    "java-learn/UML/建模基础.md",
-    "java-learn/UML/为什么需要UML.md"
+    "java-learn/JavaWeb/http/媒体类型.md"
   ]
 }
