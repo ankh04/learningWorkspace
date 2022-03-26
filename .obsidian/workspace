@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-03-25 📅.md",
+            "file": "dailyTask/2022-03-26 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-03-25 📅.md",
+                "file": "dailyTask/2022-03-26 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-03-25 📅.md",
+                "file": "dailyTask/2022-03-26 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-03-25 📅.md"
+                "file": "dailyTask/2022-03-26 📅.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "fd57d38fc081659d",
   "lastOpenFiles": [
+    "dailyTask/2022-03-26 📅.md",
     "dailyTask/2022-03-25 📅.md",
     "reading note/computer/ssd原理.md",
     "dailyTask/2022-03-24 📅.md",
@@ -194,7 +195,6 @@
     "todo list.md",
     "reading note/computer/语法糖(Syntax Suger).md",
     "编译器/小知识.md",
-    "dailyTask/2022-03-22 📅.md",
-    "数组列表.md"
+    "dailyTask/2022-03-22 📅.md"
   ]
 }
