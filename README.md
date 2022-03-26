@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 380 个task，完成的项目数量为 280，完成率为 73.68%。
+您一共完成了 386 个task，完成的项目数量为 280，完成率为 72.54%。
 共观看了 18 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -41,7 +41,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 180 个项目，分别是
+共学习了 182 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -130,7 +130,7 @@
 - 名称："Redis", 天数：1
 - 名称："ElasticSearch", 天数：1
 - 名称："Java-MyBatis", 天数：2
-- 名称："Java-Spring", 天数：2
+- 名称："Java-Spring", 天数：3
 - 名称："Java-Spring-AOP", 天数：1
 - 名称："Docker", 天数：1
 - 名称："React", 天数：1
@@ -190,7 +190,7 @@
 - 名称："Java-Spring5原理-IOC容器", 天数：1
 - 名称："Java-Spring5-IOC容器初始化", 天数：1
 - 名称："Algorithm-并查集", 天数：1
-- 名称："Java-JVM", 天数：3
+- 名称："Java-JVM", 天数：4
 - 名称："Java-Spring5-OfficalDoc-IOC_Container" , 天数：1
 - 名称："Java-JVM-ClassLoader", 天数：1
 - 名称："Java-Spring5-基于注解的IOC容器初始化", 天数：1
@@ -217,11 +217,13 @@
 - 名称："Java-JavaWeb", 天数：1
 - 名称："Regex", 天数：2
 - 名称："Ruby", 天数：2
-- 名称："Algorithm", 天数：1
+- 名称："Algorithm-Manacher", 天数：1
 - 名称："UML", 天数：2
+- 名称："Algorithm-哈夫曼编码", 天数：1
 - 名称："SSD", 天数：1
 - 名称："Memory", 天数：1
 - 名称："DeepLearning", 天数：1
+- 名称："Algorithm-manacher", 天数：1
 
 
 共购买了 4 个商品，分别是
