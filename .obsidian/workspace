@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md",
+            "file": "dailyTask/2022-03-28 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md",
+                "file": "dailyTask/2022-03-28 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md",
+                "file": "dailyTask/2022-03-28 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md"
+                "file": "dailyTask/2022-03-28 📅.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "742a2957933e63b3",
   "lastOpenFiles": [
+    "dailyTask/2022-03-28 📅.md",
+    "todo list.md",
     "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md",
     "java-learn/Spring Framework/源码分析/7.Aware接口.md",
     "java-learn/Spring Framework/源码分析/5.BeanFactory后处理器.md",
@@ -193,8 +195,6 @@
     "java-learn/Spring Framework/源码分析/1.BeanFactory接口和ApplicationContext接口.md",
     "java-learn/Spring Framework/源码分析/2.BeanFactory的实现.md",
     "java-learn/Spring Framework/源码分析/3.Bean的声明周期.md",
-    "java-learn/UML/建模基础.md",
-    "java-learn/Spring Framework/基本概念.md",
-    "java-learn/Spring Framework/控制反转容器&依赖注入模式.md"
+    "java-learn/UML/建模基础.md"
   ]
 }
