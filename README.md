@@ -41,7 +41,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 184 个项目，分别是
+共学习了 185 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -226,6 +226,7 @@
 - 名称："Algorithm-滑动窗口", 天数：1
 - 名称："Go", 天数：1
 - 名称："IO", 天数：1
+- 名称："Compilers-上下文无关文法", 天数：1
 
 
 共购买了 4 个商品，分别是
