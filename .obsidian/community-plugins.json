@@ -14,5 +14,8 @@
   "mdx-as-md-obsidian",
   "obsidian-git",
   "obsidian-mind-map",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-image-toolkit",
+  "obsidian-style-settings"
 ]
