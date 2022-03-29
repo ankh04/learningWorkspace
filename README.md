@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 391 个task，完成的项目数量为 289，完成率为 73.91%。
+您一共完成了 396 个task，完成的项目数量为 293，完成率为 73.99%。
 共观看了 18 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -41,7 +41,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 185 个项目，分别是
+共学习了 186 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -194,7 +194,7 @@
 - 名称："Java-Spring5-OfficalDoc-IOC_Container" , 天数：1
 - 名称："Java-JVM-ClassLoader", 天数：1
 - 名称："Java-Spring5-基于注解的IOC容器初始化", 天数：1
-- 名称："Compilers", 天数：6
+- 名称："Compilers", 天数：7
 - 名称："Algorithm-KMP", 天数：1
 - 名称："Java-JVM-PC寄存器", 天数：1
 - 名称："Algorithm-Tire", 天数：1
@@ -215,18 +215,19 @@
 - 名称："Network-HTTP", 天数：1
 - 名称："Programming Language", 天数：1
 - 名称："Java-JavaWeb", 天数：1
-- 名称："Regex", 天数：2
+- 名称："Regex", 天数：3
 - 名称："Ruby", 天数：2
 - 名称："Algorithm-Manacher", 天数：1
-- 名称："UML", 天数：2
+- 名称："UML", 天数：3
 - 名称："Algorithm-哈夫曼编码", 天数：1
 - 名称："SSD", 天数：1
 - 名称："Memory", 天数：1
-- 名称："DeepLearning", 天数：1
+- 名称："DeepLearning", 天数：2
 - 名称："Algorithm-滑动窗口", 天数：1
 - 名称："Go", 天数：1
 - 名称："IO", 天数：1
 - 名称："Compilers-上下文无关文法", 天数：1
+- 名称："Webkit", 天数：1
 
 
 共购买了 4 个商品，分别是
