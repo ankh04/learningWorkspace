@@ -1,5 +1,5 @@
 # 数据面板
-您一共完成了 423 个task，完成的项目数量为 313，完成率为 74%。
+您一共完成了 426 个task，完成的项目数量为 315，完成率为 73.94%。
 共观看了 18 部剧集，分别是
 - 名称：水浒传, 天数：8
 - 名称：叶问, 天数：1
@@ -41,7 +41,7 @@
 - 名称：uncommited, read commited(解决脏读), repeateable read(解决脏读和重复读),serialization(解决脏读,重复读以及幻读) , 天数：1
 
 
-共学习了 197 个项目，分别是
+共学习了 198 个项目，分别是
 - 名称：java-Object and Class Basic , 天数：1
 - 名称：some ornithology, 天数：1
 - 名称：劳动法-劳动合同, 天数：1
@@ -190,7 +190,7 @@
 - 名称："Java-Spring5原理-IOC容器", 天数：1
 - 名称："Java-Spring5-IOC容器初始化", 天数：1
 - 名称："Algorithm-并查集", 天数：1
-- 名称："Java-JVM", 天数：4
+- 名称："Java-JVM", 天数：5
 - 名称："Java-Spring5-OfficalDoc-IOC_Container" , 天数：1
 - 名称："Java-JVM-ClassLoader", 天数：1
 - 名称："Java-Spring5-基于注解的IOC容器初始化", 天数：1
@@ -224,7 +224,7 @@
 - 名称："Memory", 天数：1
 - 名称："DeepLearning", 天数：2
 - 名称："Algorithm-滑动窗口", 天数：1
-- 名称："Go", 天数：3
+- 名称："Go", 天数：4
 - 名称："IO", 天数：1
 - 名称："Compilers-上下文无关文法", 天数：1
 - 名称："Webkit", 天数：1
@@ -233,12 +233,13 @@
 - 名称："Compiler-lexing", 天数：1
 - 名称："Prolog", 天数：1
 - 名称："Java-Concurrency", 天数：2
-- 名称："Rust", 天数：2
+- 名称："Rust", 天数：3
 - 名称："Scala", 天数：1
 - 名称："网络", 天数：1
 - 名称："Regex Engine", 天数：1
 - 名称："rust", 天数：1
 - 名称："符号逻辑", 天数：1
+- 名称："Algorithm-Morris遍历", 天数：1
 
 
 共购买了 4 个商品，分别是
