@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-04 📅.md",
+            "file": "dailyTask/2022-04-05 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-04 📅.md",
+                "file": "dailyTask/2022-04-05 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-04 📅.md",
+                "file": "dailyTask/2022-04-05 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-04 📅.md"
+                "file": "dailyTask/2022-04-05 📅.md"
               }
             }
           },
@@ -186,15 +186,15 @@
   },
   "active": "a64594a0f9747470",
   "lastOpenFiles": [
+    "dailyTask/2022-04-05 📅.md",
     "dailyTask/2022-04-04 📅.md",
+    "linux-learn/shell/zshrc配置.md",
+    "reading note/算法导论/导论.md",
     "dailyTask/2022-04-03 📅.md",
     "编译器/词法分析/正则引擎.md",
     "编译器/词法分析/词法分析.md",
     "javascript-learn/你不知道的JS/作用域.md",
     "dailyTask/2022-04-02 📅.md",
-    "javascript-learn/你不知道的JS/JS的特殊性.md",
-    "javascript-learn/js中的IOC.md",
-    "javascript-learn/jwt.md",
-    "javascript-learn/跨域.md"
+    "javascript-learn/你不知道的JS/JS的特殊性.md"
   ]
 }

@@ -1,0 +1,1 @@
+如果需要在zshrc中source文件, 需要放在zshrc文件的最后.
