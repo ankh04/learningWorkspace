@@ -1,0 +1,2 @@
+"Title#string"	"Author#string"	"Publisher#string"	"Volume#string"	"Series#string"	"Address#text"	"Edition#string"	"ISBN/ISSN#uuid"	"Year#int"	"Month#int"	"Note#text"	"URL#url"
+""	""	""	""	""	""	""	""	""	""	""	""

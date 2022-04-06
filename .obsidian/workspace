@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a64594a0f9747470",
+        "id": "e266248a8cc394c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-05 📅.md",
+            "file": "dailyTask/2022-04-06 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swagger",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-05 📅.md",
+                "file": "dailyTask/2022-04-06 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-05 📅.md",
+                "file": "dailyTask/2022-04-06 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-05 📅.md"
+                "file": "dailyTask/2022-04-06 📅.md"
               }
             }
           },
@@ -184,17 +185,17 @@
     "direction": "horizontal",
     "width": 337
   },
-  "active": "a64594a0f9747470",
+  "active": "e266248a8cc394c6",
   "lastOpenFiles": [
-    "dailyTask/2022-04-05 📅.md",
     "dailyTask/2022-04-06 📅.md",
-    "dailyTask/2022-03-29 📅.md",
-    "dailyTask/2022-04-04 📅.md",
-    "linux-learn/shell/zshrc配置.md",
-    "reading note/算法导论/导论.md",
-    "dailyTask/2022-04-03 📅.md",
-    "编译器/词法分析/正则引擎.md",
+    "todo list.md",
     "编译器/词法分析/词法分析.md",
-    "javascript-learn/你不知道的JS/作用域.md"
+    "algorithm/排序算法/快速排序.md",
+    "编译器/编译器概述.md",
+    "h.md",
+    "java-learn/JVM/字节码.md",
+    "NP完全问题.md",
+    "编译器/词法分析/正则引擎.md",
+    "algorithm/NP问题.md"
   ]
 }
