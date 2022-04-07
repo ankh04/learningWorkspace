@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e266248a8cc394c6",
+        "id": "f770cd1df2212a67",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pacman",
+                "query": "竞态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,17 +184,17 @@
     "direction": "horizontal",
     "width": 337
   },
-  "active": "e266248a8cc394c6",
+  "active": "f770cd1df2212a67",
   "lastOpenFiles": [
     "dailyTask/2022-04-07 📅.md",
-    "dailyTask/2022-04-06 📅.md",
-    "java-learn/Docker/安装.md",
-    "数据库/redis/redis安装与使用.md",
-    "操作系统/80386概述.md",
-    "我的服务.md",
-    "linux-learn/查看端口占用情况.md",
-    "todo list.md",
-    "编译器/词法分析/词法分析.md",
-    "algorithm/排序算法/快速排序.md"
+    "计算机网络/计算机网络概述/计算机网络概述.md",
+    "计算机网络/计算机网络概述/计算机网络的历史.md",
+    "Excalidraw/计算机网络的定义.md",
+    "Excalidraw/计算机网络历史1.md",
+    "计算机网络/http&https/浏览器不支持Put,delete,options?.md",
+    "计算机网络/mac地址.md",
+    "计算机网络/ip地址.md",
+    "计算机网络/计算机网络小知识.md",
+    "操作系统/什么是操作系统/操作系统的特征.md"
   ]
 }
