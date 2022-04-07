@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-06 📅.md",
+            "file": "dailyTask/2022-04-07 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "pacman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-06 📅.md",
+                "file": "dailyTask/2022-04-07 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-06 📅.md",
+                "file": "dailyTask/2022-04-07 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-06 📅.md"
+                "file": "dailyTask/2022-04-07 📅.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "e266248a8cc394c6",
   "lastOpenFiles": [
+    "dailyTask/2022-04-07 📅.md",
     "dailyTask/2022-04-06 📅.md",
+    "java-learn/Docker/安装.md",
+    "数据库/redis/redis安装与使用.md",
+    "操作系统/80386概述.md",
+    "我的服务.md",
+    "linux-learn/查看端口占用情况.md",
     "todo list.md",
     "编译器/词法分析/词法分析.md",
-    "algorithm/排序算法/快速排序.md",
-    "编译器/编译器概述.md",
-    "h.md",
-    "java-learn/JVM/字节码.md",
-    "NP完全问题.md",
-    "编译器/词法分析/正则引擎.md",
-    "algorithm/NP问题.md"
+    "algorithm/排序算法/快速排序.md"
   ]
 }
