@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "42c5188b1331c22b",
+        "id": "22c592ce992b92f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "竞态",
+                "query": "bfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -78,14 +77,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c52b21ce168375b3",
-            "type": "leaf",
-            "state": {
-              "type": "BC-down",
               "state": {}
             }
           }
@@ -147,22 +138,6 @@
             }
           },
           {
-            "id": "a337aa162761b609",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e204915596acb39",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
             "id": "4fbdc0b4bf9ac4b0",
             "type": "leaf",
             "state": {
@@ -179,23 +154,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 337
+    "width": 252
   },
-  "active": "42c5188b1331c22b",
+  "active": "22c592ce992b92f9",
   "lastOpenFiles": [
     "dailyTask/2022-04-09 📅.md",
     "dailyTask/2022-04-07 📅.md",
-    "reading note/计算机历史/AT&T公司.md",
-    "dailyTask/2022-04-08 📅.md",
-    "编译器/词法分析/正则/Thompson正则引擎.md",
+    "algorithm/树的遍历/Morris遍历图解.md",
+    "algorithm/树的遍历/Morris遍历.md",
     "编译器/词法分析/正则/基于回溯的正则引擎.md",
-    "我的服务.md",
-    "Untitled.md",
-    "learning plan.md",
-    "编译器/词法分析/词法分析.md"
+    "dailyTask/2022-03-20 📅.md",
+    "编译器/词法分析/正则/Thompson正则引擎.md",
+    "dailyTask/2022-04-08 📅.md",
+    "algorithm/排序算法/归并排序.md",
+    "algorithm/排序算法/堆排序.md"
   ]
 }

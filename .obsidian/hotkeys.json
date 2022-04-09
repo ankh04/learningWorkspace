@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}

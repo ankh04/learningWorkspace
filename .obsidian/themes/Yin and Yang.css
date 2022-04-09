@@ -3842,20 +3842,10 @@ CUSTOM/READABLE LINE WIDTH
 .markdown-source-view.mod-cm6 {
   height: 100%;
   max-width: var(--max-width);
-  /* width: var(--line-width) !important; */
-  width: 80% !important;
+  width: var(--line-width) !important;
   margin-left: auto;
   margin-right: auto;
 }
-
-.cm-contentContainer,
-.cm-content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
 
 .markdown-embed-content .markdown-preview-sizer {
   padding-top: 0;
@@ -5842,7 +5832,7 @@ DOCUMENT SEARCH
   width: 100%;
   position: absolute;
   height: unset;
-  bottom: unset;
+  bottom: unset !important;
   top: 0;
   padding: 6px 10px;
   border-top: 1px solid var(--background-modifier-border);

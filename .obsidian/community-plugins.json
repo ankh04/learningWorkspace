@@ -1,22 +1,23 @@
 [
   "table-editor-obsidian",
-  "breadcrumbs",
   "calendar",
   "obsidian-vimrc-support",
   "obsidian-admonition",
-  "obsidian-minimal-settings",
   "mx-bili-plugin",
   "media-extended",
   "obsidian-outliner",
   "obsidian-kanban",
   "note-refactor-obsidian",
-  "sliding-panes-obsidian",
-  "mdx-as-md-obsidian",
   "obsidian-git",
   "obsidian-mind-map",
   "obsidian-markmind",
   "obsidian-image-auto-upload-plugin",
   "obsidian-image-toolkit",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "cycle-through-panes",
+  "obsidian-icon-folder",
+  "obsidian-tabs",
+  "lapel",
+  "obsidian-hider"
 ]
