@@ -4,7 +4,9 @@
     "iconPacksPath": "plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "📅"
+    ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
       "top": 2,
@@ -12,5 +14,6 @@
       "bottom": 2,
       "left": 2
     }
-  }
+  },
+  "dailyTask": "📅"
 }
