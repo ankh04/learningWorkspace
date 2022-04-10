@@ -6,28 +6,16 @@
 
 
 ## Resources
-
+[国防科技大学-编译原理课程](https://www.icourse163.org/learn/NUDT-1003101005?tid=1467085462#/learn/content): 思路清晰, 课件完整, 值得学习
+[华东交通大学-编译原理课程](https://www.icourse163.org/learn/ECJTU-1463143168?tid=1467136475#/learn/content): 有待考察, 据说老师上课呢很有激情
 
 ## Progress
 
-```timeline
-+ 13th April 1969
-+ Enim sit amet venenatis urna
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-+ 16:30<br> 29th June 2000
-+ Tempor commodo ullamcorper a<br> lacus vestibulum sed arcu
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-```
-
-```timeline-labeled
-date: 13th April 1969
-title: Enim sit amet venenatis urna
-content:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-date: 16:30<br> 29th June 2000
-title: Tempor commodo ullamcorper a<br> lacus vestibulum sed arcu
-content:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-```
+### [[2022-04-10 📅]]
+语法分析:
+- [x] 上下文无关法
+- [x] 左递归导致无线循环
+- [x] 回溯导致效率下降
+- [x] 使用==右递归==消除左递归
+- [x] 建立 First集 和 FOLLOW集 消除回溯
+- [x] 上述过程就是LL(1)的过程
