@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-09 📅.md",
+            "file": "dailyTask/2022-04-10 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bfs",
+                "query": "模板",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-09 📅.md",
+                "file": "dailyTask/2022-04-10 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-09 📅.md",
+                "file": "dailyTask/2022-04-10 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-09 📅.md"
+                "file": "dailyTask/2022-04-10 📅.md"
               }
             }
           },
@@ -171,15 +170,15 @@
   },
   "active": "a06d45546b120568",
   "lastOpenFiles": [
+    "dailyTask/2022-04-10 📅.md",
+    "java-learn/Spring Framework/源码分析/9. Bean 的作用域 Scope.md",
+    "java-learn/Spring Framework/源码分析/4.Bean后处理器.md",
+    "java-learn/Spring Framework/bean作用域.md",
+    "java-learn/Spring Framework/源码分析/8.初始化和销毁.md",
+    "java-learn/Spring Framework/源码分析/7.Aware接口.md",
+    "编译器/编译器Project.md",
     "dailyTask/2022-04-09 📅.md",
     "reading note/学习方法/时间笔记.md",
-    "dailyTask/2022-04-07 📅.md",
-    "java-learn/JVM/堆.md",
-    "java-learn/JVM/程序计数器(Program Counter Register).md",
-    "java-learn/JVM/本地方法.md",
-    "java-learn/JVM/字节码.md",
-    "java-learn/JVM/虚拟机栈.md",
-    "java-learn/log4j漏洞.md",
-    "java-learn/POJO.md"
+    "dailyTask/2022-04-07 📅.md"
   ]
 }
