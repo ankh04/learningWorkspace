@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a06d45546b120568",
+        "id": "850b0814fc6b5d82",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "模板",
+                "query": "tag:#Project/Spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,17 +168,17 @@
     "direction": "horizontal",
     "width": 290.5
   },
-  "active": "a06d45546b120568",
+  "active": "850b0814fc6b5d82",
   "lastOpenFiles": [
     "dailyTask/2022-04-10 📅.md",
+    "编译器/编译器Project.md",
+    "java-learn/Spring Framework/手写Spring/Project-手写Spring.md",
+    "java-learn/语言基础/泛型.md",
+    "reading note/计算机历史/IBM.md",
+    "todo list.md",
     "java-learn/Spring Framework/源码分析/9. Bean 的作用域 Scope.md",
     "java-learn/Spring Framework/源码分析/4.Bean后处理器.md",
     "java-learn/Spring Framework/bean作用域.md",
-    "java-learn/Spring Framework/源码分析/8.初始化和销毁.md",
-    "java-learn/Spring Framework/源码分析/7.Aware接口.md",
-    "编译器/编译器Project.md",
-    "dailyTask/2022-04-09 📅.md",
-    "reading note/学习方法/时间笔记.md",
-    "dailyTask/2022-04-07 📅.md"
+    "java-learn/Spring Framework/源码分析/8.初始化和销毁.md"
   ]
 }

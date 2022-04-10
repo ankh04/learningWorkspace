@@ -62,3 +62,4 @@ jieba分词 ---> 处理obsidian的打卡记录 ---> 更进一步的做IOS端的�
 
 ### watch list
 - [ ] 弹子球游戏
+- [ ] 咒
