@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-11 📅.md",
+            "file": "dailyTask/2022-04-12 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-11 📅.md",
+                "file": "dailyTask/2022-04-12 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-11 📅.md",
+                "file": "dailyTask/2022-04-12 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-11 📅.md"
+                "file": "dailyTask/2022-04-12 📅.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "701d581b31cd77ef",
   "lastOpenFiles": [
+    "dailyTask/2022-04-12 📅.md",
     "dailyTask/2022-04-11 📅.md",
     "java-learn/并发/并发基础概念/并发基础概念.md",
-    "java-learn/并发/并发基础概念/对象的共享程序实例.md",
     "java-learn/并发/并发基础概念/线程安全性.md",
+    "java-learn/并发/并发基础概念/对象的共享程序实例.md",
     "java-learn/并发/并发基础概念/Untitled.md",
     "java-learn/并发/并发简介.md",
     "dailyTask/2022-04-10 📅.md",
     "编译器/编译器Project.md",
-    "java-learn/Spring Framework/手写Spring/Project-手写Spring.md",
-    "java-learn/语言基础/泛型.md"
+    "java-learn/Spring Framework/手写Spring/Project-手写Spring.md"
   ]
 }
