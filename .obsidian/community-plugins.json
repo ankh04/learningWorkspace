@@ -23,5 +23,6 @@
   "graph-analysis",
   "obsidian-timeline",
   "templater-obsidian",
-  "tag-page-preview"
+  "tag-page-preview",
+  "cm-chs-patch"
 ]
