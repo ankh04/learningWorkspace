@@ -7,8 +7,12 @@
         "id": "7e41798121700680",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "dailyTask/2022-04-15 📅.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Project/Spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dailyTask/2022-04-15 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dailyTask/2022-04-15 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dailyTask/2022-04-15 📅.md"
+              }
             }
           },
           {
@@ -163,14 +172,14 @@
   "active": "7e41798121700680",
   "lastOpenFiles": [
     "dailyTask/2022-04-15 📅.md",
+    "java-learn/Spring Framework/手写Spring/Project-手写Spring.md",
+    "dailyTask/2022-04-10 📅.md",
     "编译器/编译器Project.md",
     "编译器/语法分析/问题/编译器-语法分析.md",
     "Daily-Journal-Prompts.md",
     "编译器/语法分析/自顶向下的语法分析/预测分析器.md",
     "编译器/语法分析/自顶向下的语法分析/FIRST 和 FOLLOW 集合.md",
     "编译器/语法分析/自顶向下的语法分析/自顶向下的语法分析.md",
-    "编译器/语法分析/自顶向下的语法分析/左递归.md",
-    "编译器/语法分析/推导.md",
-    "编译器/语法分析/文法.md"
+    "编译器/语法分析/自顶向下的语法分析/左递归.md"
   ]
 }

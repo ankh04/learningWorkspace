@@ -30,3 +30,11 @@ DI注入代码:
 - [ ] initiateBean --- 将 BeanDefinition 转化成实例, 并存入 IOC
 - [ ] postProcessor --- 后处理器
 - [ ] poluteBean --- 对Autowired注解的变量进行注入
+
+### [[2022-04-15 📅]]
+DI注入代码:
+实现了DI部分
+- [x] getBean --- DI核心
+- [x] initiateBean --- 将 BeanDefinition 转化成实例, 并存入 IOC
+- [x] postProcessor --- 后处理器
+- [x] populateBean --- 对Autowired注解的变量进行注入
