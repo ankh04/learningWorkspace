@@ -17,6 +17,7 @@ for(i=0;i<numberOfPrompts;i++) {
 
 ## Regular Task  🤡
 - [ ] leetcode
+- [ ] practice "声乐"
 
 ## Learning Task 🎯
 
