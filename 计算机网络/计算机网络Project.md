@@ -1,0 +1,17 @@
+#Project/Network
+## Target
+深入理解计算机网络的各个层次
+深入理解TCP/IP
+深入理解HTTP/1.1 ~ 2.0
+
+熟练使用各种网络抓包工具,
+
+进一步的学会爬虫, 学会分析数据包
+
+## Resources
+[计算机网络知识点速通](https://www.icourse163.org/learn/kaopei-1463813161?tid=1464659442#/learn/announce) 速通计算机网络主干知识
+[计算机网络实验](https://www.icourse163.org/course/BUAA-1002744004?from=searchPage)
+
+## Progress
+- [ ] #todo 阅读"计算机网络"网络层章节
+- [ ] #todo 记笔记 计算机网络 网络层章节

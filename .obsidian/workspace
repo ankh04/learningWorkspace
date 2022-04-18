@@ -11,11 +11,9 @@
             "id": "a5c1769181759ae9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily-Journal-Prompts.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/计算机网络分层体系结构.md"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/问题/操作系统概论.md",
+                "file": "操作系统/操作系统Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/Spring",
+                "query": "tag:#Project/OperatingSystem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Journal-Prompts.md",
+                "file": "Excalidraw/计算机网络分层体系结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Journal-Prompts.md",
+                "file": "Excalidraw/计算机网络分层体系结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Journal-Prompts.md"
+                "file": "Excalidraw/计算机网络分层体系结构.md"
               }
             }
           },
@@ -189,15 +187,15 @@
   },
   "active": "a5c1769181759ae9",
   "lastOpenFiles": [
-    "Daily-Journal-Prompts.md",
-    "操作系统/问题/操作系统概论.md",
-    "操作系统/1.应用程序与基本执行环境/2. 计算机启动的第一条指令.md",
-    "操作系统/1.应用程序与基本执行环境/1. 让操作系统输出hello world.md",
-    "操作系统/0.什么是操作系统/系统软件.md",
-    "操作系统/1.应用程序与基本执行环境/3. 程序内存布局.md",
-    "操作系统/1.应用程序与基本执行环境/程序内存布局图示.md",
-    "dailyTask/2022-04-18 📅.md",
+    "Excalidraw/计算机网络分层体系结构.md",
+    "计算机网络/计算机网络概述/计算机网络的分层结构.md",
+    "计算机网络/计算机网络概述/计算机网络的分类.md",
+    "计算机网络/计算机网络Project.md",
     "操作系统/操作系统Project.md",
-    "操作系统/1.应用程序与基本执行环境/应用软件执行环境图示.md"
+    "编译器/编译器Project.md",
+    "dailyTask/2022-04-16 📅.md",
+    "操作系统/问题/操作系统概论.md",
+    "dailyTask/2022-04-17 📅.md",
+    "dailyTask/2022-04-18 📅.md"
   ]
 }
