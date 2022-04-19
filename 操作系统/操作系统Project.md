@@ -7,6 +7,10 @@
 [MIT的操作系统课笔记](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/lec05-calling-conventions-and-stack-frames-risc-v/5.1-introduction-to-lecture05) 也是基于 risc-v 的操作系统, 可供参考
 [基于riscv的计算机组成原理](x-devonthink-item://FD00F261-7D67-4B99-8A89-E2BDC3F9921E)
 
+[计算机组成原理riscv补充材料](https://www.elsevier.com/books-and-journals/book-companion/9780128122754) 干货满满, 强烈建议看看
+[怎样制作一块CPU](https://cpushack.com/MakingWafers.html) 图文并茂(英语 可以试图翻译成中文)
+[历史上的CPU](https://www.cpushack.com/CPU/cpu.html) 从英特尔的4004到msp430, 很详细, 很全面的说明
+
 ## Progress
 - [ ] #todo 第一章笔记 --- rustSBI的作用
 - [ ] #todo 初步了解riscv
