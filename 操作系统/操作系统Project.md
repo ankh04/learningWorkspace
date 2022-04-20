@@ -11,6 +11,10 @@
 [怎样制作一块CPU](https://cpushack.com/MakingWafers.html) 图文并茂(英语 可以试图翻译成中文)
 [历史上的CPU](https://www.cpushack.com/CPU/cpu.html) 从英特尔的4004到msp430, 很详细, 很全面的说明
 
+[这篇文章描述了Java这样的面向对象的语言在汇编层次是怎么是实现的](x-devonthink-item://EF1E0DF9-0D0C-4BEE-ABE2-444A825E6833)
+[riscv指令集cheetsheet](x-devonthink-item://52215B90-589F-453E-90C9-844AAC00FFB9)
+
+
 ## Progress
 - [ ] #todo 第一章笔记 --- rustSBI的作用
 - [ ] #todo 初步了解riscv
