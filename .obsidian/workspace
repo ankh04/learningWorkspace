@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2f671ad2206efc3e",
+        "id": "9e43623c7e439b8b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "9e43623c7e439b8b",
+        "id": "859f49edc564ca5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#Project/OperatingSystem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,17 +181,17 @@
     "direction": "horizontal",
     "width": 290.5
   },
-  "active": "9e43623c7e439b8b",
+  "active": "859f49edc564ca5d",
   "lastOpenFiles": [
     "dailyTask/2022-04-21 📅.md",
-    "英语/听写/2022-04-21.md",
+    "操作系统/问题/操作系统概论.md",
+    "dailyTask/2022-04-19 📅.md",
+    "dailyTask/2022-04-20 📅.md",
+    "操作系统/操作系统Project.md",
     "计算机网络/计算机网络Project.md",
+    "英语/听写/2022-04-21.md",
     "template/dailyTask.md",
     "英语/听写/2022-04-20.md",
-    "计算机网络/网络层/为什么组最大为1500比特.md",
-    "template/dailyEnglish.md",
-    "attachment/2022-04-20_S.mp3",
-    "伪音/伪音Project.md",
-    "伪音/伪音.md"
+    "计算机网络/网络层/为什么组最大为1500比特.md"
   ]
 }
