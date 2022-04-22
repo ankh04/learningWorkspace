@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9e43623c7e439b8b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dailyTask/2022-04-21 📅.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "859f49edc564ca5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-04-21 📅.md",
+            "file": "dailyTask/2022-04-22 📅.md",
             "mode": "source",
             "source": false
           }
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-21 📅.md",
+                "file": "dailyTask/2022-04-22 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-21 📅.md",
+                "file": "dailyTask/2022-04-22 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-21 📅.md"
+                "file": "dailyTask/2022-04-22 📅.md"
               }
             }
           },
@@ -183,6 +171,7 @@
   },
   "active": "859f49edc564ca5d",
   "lastOpenFiles": [
+    "dailyTask/2022-04-22 📅.md",
     "dailyTask/2022-04-21 📅.md",
     "操作系统/问题/操作系统概论.md",
     "dailyTask/2022-04-19 📅.md",
@@ -191,7 +180,6 @@
     "计算机网络/计算机网络Project.md",
     "英语/听写/2022-04-21.md",
     "template/dailyTask.md",
-    "英语/听写/2022-04-20.md",
-    "计算机网络/网络层/为什么组最大为1500比特.md"
+    "英语/听写/2022-04-20.md"
   ]
 }
