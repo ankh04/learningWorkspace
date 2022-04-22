@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/OperatingSystem",
+                "query": "tag:#Project/Spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,14 +172,14 @@
   "active": "859f49edc564ca5d",
   "lastOpenFiles": [
     "dailyTask/2022-04-22 📅.md",
-    "英语/听写/202-04-22.md",
+    "java-learn/Spring Framework/手写Spring/Project-手写Spring.md",
+    "java-learn/Spring Framework/源码分析/9. Bean 的作用域 Scope.md",
     "英语/听写/2022-04-21.md",
+    "英语/听写/2022-04-22.md",
+    "attachment/2022_04_22-Z1.mp3",
+    "英语/听写/2022-04-20.md",
     "dailyTask/2022-04-21 📅.md",
     "操作系统/问题/操作系统概论.md",
-    "dailyTask/2022-04-19 📅.md",
-    "dailyTask/2022-04-20 📅.md",
-    "操作系统/操作系统Project.md",
-    "计算机网络/计算机网络Project.md",
-    "template/dailyTask.md"
+    "dailyTask/2022-04-19 📅.md"
   ]
 }

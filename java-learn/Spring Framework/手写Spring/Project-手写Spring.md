@@ -38,3 +38,9 @@ DI注入代码:
 - [x] initiateBean --- 将 BeanDefinition 转化成实例, 并存入 IOC
 - [x] postProcessor --- 后处理器
 - [x] populateBean --- 对Autowired注解的变量进行注入
+
+### [[2022-04-22 📅]]
+- [x] MVC的基本框架
+- [x] MVC 的入口 --- MyDispatcherServlet
+- [x] init方法中的九大组件进行解析
+- [x] doGet doPost 的委派
