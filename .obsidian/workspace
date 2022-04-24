@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "445ca5c20e2453a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dailyTask/2022-04-24 📅.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/Spring",
+                "query": "tag:#Project/OperatingSystem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,17 +181,17 @@
     "direction": "horizontal",
     "width": 290.5
   },
-  "active": "f1619012c1db54ea",
+  "active": "445ca5c20e2453a3",
   "lastOpenFiles": [
     "dailyTask/2022-04-24 📅.md",
-    "attachment/2022_04_24-S1.mp3",
-    "英语/听写/2022-04-23.md",
-    "dailyTask/2022-04-23 📅.md",
-    "dailyTask/2022-04-18 📅.md",
-    "dailyTask/2022-04-19 📅.md",
+    "操作系统/操作系统Project.md",
     "dailyTask/2022-04-20 📅.md",
+    "dailyTask/2022-04-19 📅.md",
     "dailyTask/2022-04-21 📅.md",
     "dailyTask/2022-04-22 📅.md",
-    "编译器/编译器Project.md"
+    "dailyTask/2022-04-23 📅.md",
+    "操作系统/riscv/riscv.md",
+    "操作系统/原码和补码.md",
+    "attachment/2022_04_24-S1.mp3"
   ]
 }
