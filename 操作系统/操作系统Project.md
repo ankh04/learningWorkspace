@@ -16,9 +16,6 @@
 
 
 ## Progress
-- [ ] #todo 第一章笔记 --- rustSBI的作用
-- [ ] #todo 初步了解riscv
-- [ ] #todo 自己实现一遍第一章的代码
 ### [[2022-04-17 📅]]
 - [x] 跑通了第一章的代码
 - [x] 阅读了第一章"hello world", 初步了解了bootloader, rustSBI 以及函数调用相关的知识
@@ -37,3 +34,10 @@
 
 ### [[2022-04-24 📅]]
 - [x] 做了riscv的笔记 [[riscv|图解计算机组成原理]]
+
+### [[2022-04-25 📅]]
+- [x] gdb调试riscv环境配置
+	[调试rCore的效果](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220425222817.png)
+- [x] #done 自己实现一遍第一章的代码
+- [x] #done 初步了解riscv
+- [x] #done 第一章笔记 --- rustSBI的作用
