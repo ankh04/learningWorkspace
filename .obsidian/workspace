@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "英语/听写/2020-04-24.md",
+            "file": "dailyTask/2022-04-25 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/听写/2020-04-24.md",
+                "file": "dailyTask/2022-04-25 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/听写/2020-04-24.md",
+                "file": "dailyTask/2022-04-25 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/听写/2020-04-24.md"
+                "file": "dailyTask/2022-04-25 📅.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "261f50efd0e346e7",
   "lastOpenFiles": [
-    "英语/听写/2020-04-24.md",
-    "dailyTask/2022-04-24 📅.md",
     "dailyTask/2022-04-25 📅.md",
+    "dailyTask/2022-04-24 📅.md",
+    "attachment/Pasted Image 20220424201006_206.png",
+    "格理论.md",
+    "英语/听写/2020-04-24.md",
     "Daily-Journal-Prompts.md",
     "操作系统/问题/操作系统概论.md",
     "编译器/动态链接库和静态链接库.md",
     "操作系统/riscv/riscv.md",
-    "操作系统/riscv/同步的汇编实现.md",
-    "java-learn/并发/并发基础概念/线程安全性.md",
-    "操作系统/操作系统Project.md"
+    "操作系统/riscv/同步的汇编实现.md"
   ]
 }
