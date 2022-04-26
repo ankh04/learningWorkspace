@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c76e7fbc83c09d77",
-        "type": "split",
-        "children": [
-          {
-            "id": "261f50efd0e346e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailyTask/2022-04-25 📅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e0bcc7f52c19f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/问题/操作系统概论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "261f50efd0e346e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dailyTask/2022-04-26 📅.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -59,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/OperatingSystem",
+                "query": "因特网",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-04-25 📅.md",
+                "file": "dailyTask/2022-04-26 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-04-25 📅.md",
+                "file": "dailyTask/2022-04-26 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-04-25 📅.md"
+                "file": "dailyTask/2022-04-26 📅.md"
               }
             }
           },
@@ -189,15 +170,15 @@
   },
   "active": "261f50efd0e346e7",
   "lastOpenFiles": [
-    "dailyTask/2022-04-25 📅.md",
-    "Daily-Journal-Prompts.md",
-    "操作系统/问题/操作系统概论.md",
-    "操作系统/操作系统Project.md",
-    "操作系统/riscv/riscv指示符.md",
-    "操作系统/riscv/同步的汇编实现.md",
-    "操作系统/riscv/riscv.md",
-    "操作系统/1.应用程序与基本执行环境/Qemu.md",
-    "我的服务.md",
-    "操作系统/1.应用程序与基本执行环境/2. 计算机启动的第一条指令.md"
+    "dailyTask/2022-04-26 📅.md",
+    "计算机网络/网络层/网络地址转换NAT.md",
+    "计算机网络/网络层/获取主机地址的方式.md",
+    "计算机网络/网络层/IPv4和IPv6.md",
+    "计算机网络/网络层/网络层的功能.md",
+    "计算机网络/网络层/路由器原理.md",
+    "计算机网络/计算机网络概述/计算机网络的历史.md",
+    "计算机网络/链路层和局域网/差错检测和纠正技术.md",
+    "计算机网络/网络层/为什么组最大为1500比特.md",
+    "dailyTask/2022-04-25 📅.md"
   ]
 }
