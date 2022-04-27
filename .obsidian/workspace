@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17227bb71ebd214c",
-        "type": "split",
-        "children": [
-          {
-            "id": "261f50efd0e346e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailyTask/2022-04-27 📅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe6fe1ea6d9630c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript-learn/react/创建TypeScript版的React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "261f50efd0e346e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dailyTask/2022-04-27 📅.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -190,14 +171,14 @@
   "active": "261f50efd0e346e7",
   "lastOpenFiles": [
     "dailyTask/2022-04-27 📅.md",
-    "我的服务.md",
-    "dailyTask/2022-01-14 📅.md",
-    "project/music player/music player.md",
-    "project/music player/设计准则.md",
-    "javascript-learn/react/创建TypeScript版的React.md",
+    "英语/听写/2022-04-26.md",
+    "英语/听写/2022-04-27.md",
+    "attachment/2022_04_26-S.mp3",
     "dailyTask/2022-04-28 📅.md",
+    "计算机网络/计算机网络Project.md",
     "dailyTask/2022-04-26 📅.md",
-    "linux-learn/cd权限不够.md",
-    "template/dailyTask.md"
+    "javascript-learn/react/创建TypeScript版的React.md",
+    "我的服务.md",
+    "dailyTask/2022-01-14 📅.md"
   ]
 }
