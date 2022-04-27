@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "因特网",
+                "query": "ncm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,14 +190,14 @@
   "active": "261f50efd0e346e7",
   "lastOpenFiles": [
     "dailyTask/2022-04-27 📅.md",
-    "linux-learn/cd权限不够.md",
-    "template/dailyTask.md",
-    "reading note/others/switch  problem.md",
-    "reading note/others/others.md",
-    "reading note/劳动法/住房公积金.md",
-    "reading note/劳动法/劳动合同.md",
-    "reading note/劳动法/劳动争议.md",
+    "我的服务.md",
+    "dailyTask/2022-01-14 📅.md",
+    "project/music player/music player.md",
     "project/music player/设计准则.md",
-    "project/music player/music player.md"
+    "javascript-learn/react/创建TypeScript版的React.md",
+    "dailyTask/2022-04-28 📅.md",
+    "dailyTask/2022-04-26 📅.md",
+    "linux-learn/cd权限不够.md",
+    "template/dailyTask.md"
   ]
 }
