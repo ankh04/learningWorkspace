@@ -13,8 +13,6 @@
 [LL(1)文法的Java实现](https://blog.51cto.com/u_2837193/4956710?b=totalstatistic), 详细直接, 而且可以部署到web
 
 ## Progress
-- [ ] #todo note "编译原理-自底向上的语法分析"
-- [ ] #todo 实现LL(1)文法解析器
 ### [[2022-04-10 📅]]
 语法分析:
 - [x] 上下文无关法
@@ -47,3 +45,6 @@
 - [x] #coding FIRST集合
 - [x] #coding FOLLOW集合
 - [x] #coding LL1分析
+
+### [[2022-05-01 📅]]
+- [x] #coding [算符优先文法分析](https://github.com/ankh04/ILoveBuildWheel/commit/1eeff2027b12bc5f07453220cf24d3e895245397)
