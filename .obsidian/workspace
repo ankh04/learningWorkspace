@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "89d5307a7cab2fba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dailyTask/2022-05-02 📅.md",
-            "mode": "source",
-            "source": false
+        "id": "acc89ed65664c2df",
+        "type": "split",
+        "children": [
+          {
+            "id": "89d5307a7cab2fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailyTask/2022-05-02 📅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d43dcd5269972fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -171,14 +190,14 @@
   "active": "89d5307a7cab2fba",
   "lastOpenFiles": [
     "dailyTask/2022-05-02 📅.md",
+    "操作系统/操作系统Project.md",
+    "操作系统/2.批处理系统/row.md",
+    "英语/听力材料.md",
     "dailyTask/2022-05-01 📅.md",
     "英语/听写/2022-05-01.md",
     "英语/听写/2022-04-30.md",
     "编译器/编译器Project.md",
     "algorithm/排序算法/堆排序.md",
-    "dailyTask/2022-04-30 📅.md",
-    "英语/听写/2022-04-29.md",
-    "dailyTask/2022-04-29 📅.md",
-    "伪音/伪音.md"
+    "dailyTask/2022-04-30 📅.md"
   ]
 }
