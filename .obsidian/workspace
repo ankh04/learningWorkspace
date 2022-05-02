@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-01 📅.md",
+            "file": "dailyTask/2022-05-02 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-01 📅.md",
+                "file": "dailyTask/2022-05-02 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-01 📅.md",
+                "file": "dailyTask/2022-05-02 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-01 📅.md"
+                "file": "dailyTask/2022-05-02 📅.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "89d5307a7cab2fba",
   "lastOpenFiles": [
+    "dailyTask/2022-05-02 📅.md",
     "dailyTask/2022-05-01 📅.md",
     "英语/听写/2022-05-01.md",
     "英语/听写/2022-04-30.md",
@@ -178,7 +179,6 @@
     "dailyTask/2022-04-30 📅.md",
     "英语/听写/2022-04-29.md",
     "dailyTask/2022-04-29 📅.md",
-    "伪音/伪音.md",
-    "伪音/伪音Project.md"
+    "伪音/伪音.md"
   ]
 }
