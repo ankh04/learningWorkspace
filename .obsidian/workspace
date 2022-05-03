@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ae65dbef8deac9cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dailyTask/2022-05-03 📅.md",
-            "mode": "source",
-            "source": false
+        "id": "66baae67184f53df",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae65dbef8deac9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailyTask/2022-05-03 📅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d5200fcaa002aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -171,14 +190,14 @@
   "active": "ae65dbef8deac9cd",
   "lastOpenFiles": [
     "dailyTask/2022-05-03 📅.md",
-    "dailyTask/2022-05-02 📅.md",
-    "编译器/编译器Project.md",
     "操作系统/操作系统Project.md",
-    "操作系统/2.批处理系统/row.md",
+    "操作系统/2.批处理系统/批处理系统row.md",
+    "编译器/编译器Project.md",
     "英语/听力材料.md",
-    "dailyTask/2022-05-01 📅.md",
-    "英语/听写/2022-05-01.md",
-    "英语/听写/2022-04-30.md",
-    "algorithm/排序算法/堆排序.md"
+    "操作系统/riscv/riscv指示符.md",
+    "操作系统/1.应用程序与基本执行环境/2. 计算机启动的第一条指令.md",
+    "操作系统/1.应用程序与基本执行环境/3. 程序内存布局.md",
+    "操作系统/1.应用程序与基本执行环境/程序内存布局图示.md",
+    "操作系统/1.应用程序与基本执行环境/应用软件执行环境图示.md"
   ]
 }
