@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-04 📅.md",
+            "file": "dailyTask/2022-05-06 📅.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-04 📅.md",
+                "file": "dailyTask/2022-05-06 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-04 📅.md",
+                "file": "dailyTask/2022-05-06 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-04 📅.md"
+                "file": "dailyTask/2022-05-06 📅.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "ae65dbef8deac9cd",
   "lastOpenFiles": [
+    "dailyTask/2022-05-06 📅.md",
+    "dailyTask/2022-05-05 📅.md",
     "dailyTask/2022-05-04 📅.md",
     "计算机网络/计算机网络Project.md",
     "Daily-Journal-Prompts.md",
@@ -177,8 +179,6 @@
     "algorithm/约瑟夫环.md",
     "dailyTask/2022-05-03 📅.md",
     "操作系统/操作系统Project.md",
-    "操作系统/2.批处理系统/批处理系统row.md",
-    "编译器/编译器Project.md",
-    "英语/听力材料.md"
+    "操作系统/2.批处理系统/批处理系统row.md"
   ]
 }
