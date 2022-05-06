@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ae65dbef8deac9cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dailyTask/2022-05-06 📅.md",
-            "mode": "source",
-            "source": false
+        "id": "8932cd257dcebbf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae65dbef8deac9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailyTask/2022-05-06 📅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd240cb343688bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Journal-Prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -171,14 +190,14 @@
   "active": "ae65dbef8deac9cd",
   "lastOpenFiles": [
     "dailyTask/2022-05-06 📅.md",
+    "algorithm/问题/算法.md",
+    "Daily-Journal-Prompts.md",
+    "algorithm/算法Project.md",
+    "操作系统/操作系统Project.md",
+    "java-learn/配置文件/配置文件.md",
     "编程语言/Rust/视频笔记row.md",
     "dailyTask/2022-05-05 📅.md",
     "dailyTask/2022-05-04 📅.md",
-    "计算机网络/计算机网络Project.md",
-    "Daily-Journal-Prompts.md",
-    "algorithm/问题/算法.md",
-    "algorithm/约瑟夫环.md",
-    "dailyTask/2022-05-03 📅.md",
-    "操作系统/操作系统Project.md"
+    "计算机网络/计算机网络Project.md"
   ]
 }
