@@ -69,4 +69,155 @@ Vec是可变长度的
 #### 控制流
 建议多使用for而不是while
 
-#### 
+## Struct
+\#[derive(Debug)]表示派生
+被这个注解修饰的struct可以有打印功能, 但是需要使用特殊的占位符`{:?}`或`{:#?}`
+
+### 方法
+使用`impl`关键词定义方法
+方法的第一个参数是`self`, 如果是借用就用`&self`
+
+关联函数的定义和普通方法的定义是一致的, 但是关联函数不能使用self参数
+
+## 枚举
+可以将数据附加到枚举的变体中
+```rust
+enum IpAddr {
+	V4(String),
+	V6(String)
+}
+```
+
+使用时是这样的
+```rust
+let home = IpAddr::v4(String::from("127.0.0.1"));
+```
+
+枚举也可以使用impl关键字定义*枚举的方法*
+
+**枚举很适合和match一起使用**
+
+## Option枚举
+Rust中没有null, null的问题在于: 当你尝试像使用非null值那样使用null值的时候, 就会出现错误
+
+但是null的概念还是有用的, 即变量因为某种原因处于无效或缺失的状态.
+
+Option枚举就是类似于null概念的枚举
+
+Option枚举, Some枚举, None枚举是prelude中的枚举
+
+标准库中的Option枚举定义如下:
+```rust
+enum Option<T> {
+	Some(T),
+	None,
+	}
+```
+
+### Option枚举比null好在哪里?
+Option\<T\>不能直接当做T使用
+```rust
+let x: i8 = 5;
+let y: Option<i8> = Some(5);
+
+let sum = x + y;
+```
+最后一行会报错, 不能直接让x和y相加
+
+如果需要使用y, 则需要将y转化成i8类型的, 在这个转化过程中会对None的情况进行讨论(从而强制要求了必须有检查非空的操作)
+
+## match匹配
+match匹配必须穷举所有的可能(也可以使用_通配符, 适配其他的所有情况)
+
+match很适合和枚举一起使用, 对于带有数据的枚举, 也可以match
+
+## if let匹配
+match匹配需要考虑所有情况, 而if let匹配只考虑一种情况
+
+```rust
+let v = 0u8;
+
+match v {
+	3 => println!("three"),
+	_ => (),
+}
+
+// 下面的if let和上面的match是等价的
+if let 3 = v {
+	println!("three");
+}
+```
+
+## package crate module
+crate有两种类型: binary library
+
+一个package至少要有一个crate, library最多只能有一个, binary可以有任意多个
+
+#### cargo的约定:
+cargo默认会创建一个binary crate, 它的入口文件为 `src/main.rs`
+这个binary crate的名和package名相同
+
+如果有library crate, 它的默认入口文件为 `src/lib.rs` (Cargo 并不会默认创建library crate), 这个library crate的名也和package名相同 
+
+#### module
+module用来在一个 crate 内对代码进行分组
+使用 mod 关键字建立module
+module可以嵌套
+
+模块的另一个重要作用是定义*私有边界*
+模块中的内容默认是私有的    使用 `pub`关键词将某些条目标记为公共的
+
+子模块可以使用父模块的所有条目
+但是父模块不能使用子模块的私有条目
+
+struct使用pub修饰后, 这个struct就是公共的了, 但是如果想在外部访问里边的字段, 还需要对对应的字段设置pub(pub struct里的字段默认是是有的)
+
+enum也可以加pub, 但是 pub enum 里的变体默认是公共的
+
+可以通过文件目录的方式将一个module拆分成多个rs文件
+
+## 字符串
+字符串拼接
+
+push_str方法, 用来拼接两个字符串, 需要注意的是传入的参数应该是字符串切片
+
+push方法, 用来在一个字符串后添加一个字符
+
++运算符, 将两个字符串拼接, 注意 + 后的参数应该是一个字符串切片, + 前的字符串的使用权将交给 + 运算的结果
+
+format!宏: `let new_str = format!("{}-{}-{}", a, b, c);`  值得注意的是, format宏并不会取得 a b c 的所有权
+
+## collect()
+这个方法可以把元组, 迭代器等数据类型转化成集合类型(比如HashMap等)
+
+## HashMap
+如果HashMap的key的类型实现了Copy trait, 那么就会把值复制进hashmap的key
+
+如果没有实现(比如像String这样的), 就会移动所有权
+
+如果不是直接传值, 而是传引用, 所有权就不会变化
+
+## unwrap
+使用unwrap简化switch处理错误
+
+如果Result结果是 Ok, 则返回 Ok 里的结果
+如果Result结果是 Err, 则调用 panic! 宏
+
+## expect
+expect和unwrap差不多, 不过expect可以指定错误信息
+
+## ?运算符
+?运算符可以*简化*传播错误的代码
+和unwrap expect类似, 如果结果是Ok, 直接返回结果, 如果结果是 Err, 则传播错误
+
+#### from函数与?运算符
+from可以把错误类型进行转换, ?运算符内置了form操作
+
+#### main函数与?运算符
+main函数的默认返回类型是 (). 也可以把main函数的返回类型修改成 Result.
+```rust
+fn main() -> Result<(), Box<dyn Error>> {
+  File::open("hello.txt")?
+}
+
+```
