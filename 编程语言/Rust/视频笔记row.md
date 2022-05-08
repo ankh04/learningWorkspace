@@ -221,3 +221,43 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 
 ```
+
+## trait
+实现trait
+```rust
+impl SomeTrait for SomeStruct {...}
+```
+
+impl Trait 可以作为函数参数类型
+```rust
+	fn h(x: impl SomeTrait) {...}
+```
+
+Trait bound
+```rust
+	fn h<T: SomeTrait>(x: T) {...}
+```
+
+如果需要同时实现多个trait, 使用+连接
+```rust
+	fn h(x: impl SomeTrait + OtherTrait) {...}
+```
+
+where关键字用来简化签名:
+```rust
+// 这种写法函数签名太长了, 不是很直观
+fn h<T: Trait1 + Trait2, U: Trait3 + Trait4>(x: T, y: U) -> String {...}
+
+
+// 使用where关键词简化函数签名
+fn h<t, U>(x: T, y: U) -> String 
+where 
+	T: Trait1 + Trait2,
+	U: Trait3 + Trait4,
+{...}
+```
+
+
+## 测试
+单元测试: \#\[cfg(test)\]
+集成测试: 不需要上面的标注(在tests目录下创建集成测试文件)(只有library crate才能创建集成测试)

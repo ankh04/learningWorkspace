@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-07 📅.md",
+            "file": "dailyTask/2022-05-08 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ncm",
+                "query": "tag:#Project/伪音",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-07 📅.md",
+                "file": "dailyTask/2022-05-08 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-07 📅.md",
+                "file": "dailyTask/2022-05-08 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-07 📅.md"
+                "file": "dailyTask/2022-05-08 📅.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,6 +171,8 @@
   },
   "active": "8c9c8a3d67bf9a83",
   "lastOpenFiles": [
+    "dailyTask/2022-05-08 📅.md",
+    "伪音/伪音Project.md",
     "dailyTask/2022-05-07 📅.md",
     "编程语言/Rust/视频笔记row.md",
     "编程语言/Rust/所有权.md",
@@ -177,8 +180,6 @@
     "操作系统/操作系统Project.md",
     "操作系统/2.批处理系统/实现特权级切换.md",
     "操作系统/2.批处理系统/批处理系统row.md",
-    "操作系统/2.批处理系统/实现批处理系统.md",
-    "操作系统/2.批处理系统/特权级机制.md",
-    "操作系统/2.批处理系统/批处理系统.md"
+    "操作系统/2.批处理系统/实现批处理系统.md"
   ]
 }
