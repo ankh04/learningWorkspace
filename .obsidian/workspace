@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9c8a3d67bf9a83",
+        "id": "7c6665e90d27b17e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-08 📅.md",
+            "file": "dailyTask/2022-05-09 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/伪音",
+                "query": "gdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,9 +56,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5c3ebb436d365454",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-08 📅.md",
+                "file": "dailyTask/2022-05-09 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-08 📅.md",
+                "file": "dailyTask/2022-05-09 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-08 📅.md"
+                "file": "dailyTask/2022-05-09 📅.md"
               }
             }
           },
@@ -163,23 +170,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 290.5
   },
-  "active": "8c9c8a3d67bf9a83",
+  "active": "7c6665e90d27b17e",
   "lastOpenFiles": [
-    "dailyTask/2022-05-08 📅.md",
-    "伪音/伪音Project.md",
-    "dailyTask/2022-05-07 📅.md",
-    "编程语言/Rust/视频笔记row.md",
-    "编程语言/Rust/所有权.md",
-    "编程语言/Rust/问题/Rust-所有权.md",
+    "dailyTask/2022-05-09 📅.md",
+    "操作系统/链接/链接概述.md",
+    "Daily-Journal-Prompts.md",
+    "操作系统/问题/链接器.md",
+    "操作系统/链接技术row.md",
+    "操作系统/80386概述.md",
     "操作系统/操作系统Project.md",
-    "操作系统/2.批处理系统/实现特权级切换.md",
-    "操作系统/2.批处理系统/批处理系统row.md",
-    "操作系统/2.批处理系统/实现批处理系统.md"
+    "编译器/动态链接库和静态链接库.md",
+    "操作系统/1.应用程序与基本执行环境/2. 计算机启动的第一条指令.md",
+    "操作系统/汇编/c语言的汇编表示.md"
   ]
 }

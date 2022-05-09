@@ -1,0 +1,1 @@
+nvim的配置文件在`~/.config/nvim/init.vim`里.  而不是根录目下的`.vimrc`

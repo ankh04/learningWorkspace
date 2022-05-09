@@ -24,5 +24,7 @@
   "obsidian-timeline",
   "templater-obsidian",
   "tag-page-preview",
-  "cm-chs-patch"
+  "cm-chs-patch",
+  "obsidian-hover-editor",
+  "recent-files-obsidian"
 ]
