@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-05-13 📅.md"
     },
     {
+      "basename": "堆排序",
+      "path": "algorithm/排序算法/堆排序.md"
+    },
+    {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "算法",
+      "path": "algorithm/问题/算法.md"
+    },
+    {
       "basename": "switch  problem",
       "path": "reading note/others/switch  problem.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "链接概述",
       "path": "操作系统/链接/链接概述.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "链接器",
