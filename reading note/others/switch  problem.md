@@ -6,3 +6,10 @@
 >Connect your sd card to a windows PC and select everything inside.  
    Right click, properties, advanced, disable "folder/file is ready for archiving". Done.
   
+
+
+可以用win虚拟机进行操作
+
+tf卡用久了可能会卡, 可以考虑换一张快的, 换卡的教程在[这里](https://www.bilibili.com/read/cv8858116)
+
+switch 转大气层, 可以支持更高的系统(从而适配更多的游戏)

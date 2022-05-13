@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-11 📅.md",
+            "file": "dailyTask/2022-05-13 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gdb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-11 📅.md",
+                "file": "dailyTask/2022-05-13 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-11 📅.md",
+                "file": "dailyTask/2022-05-13 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-11 📅.md"
+                "file": "dailyTask/2022-05-13 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "f71615bbf7890de6",
   "lastOpenFiles": [
-    "dailyTask/2022-05-11 📅.md",
-    "操作系统/k210/流水灯.md",
-    "操作系统/k210/k210踩坑.md",
+    "dailyTask/2022-05-13 📅.md",
+    "reading note/others/switch  problem.md",
+    "dailyTask/2022-05-12 📅.md",
+    "dailyTask/2022-01-20 📅.md",
+    "java-learn/并发/并发基础概念/并发基础概念.md",
+    "dailyTask/2022-01-16 📅.md",
     "编程语言/Rust/rust视频笔记row.md",
-    "dailyTask/2022-05-10 📅.md",
+    "操作系统/k210/k210资料.md",
     "操作系统/操作系统Project.md",
-    "dailyTask/2022-05-09 📅.md",
-    "操作系统/链接/链接概述.md",
-    "Daily-Journal-Prompts.md",
-    "操作系统/问题/链接器.md"
+    "dailyTask/2022-05-11 📅.md"
   ]
 }
