@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏列表.md",
+            "file": "dailyTask/2022-05-14 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏列表.md",
+                "file": "dailyTask/2022-05-14 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏列表.md",
+                "file": "dailyTask/2022-05-14 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏列表.md"
+                "file": "dailyTask/2022-05-14 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "f71615bbf7890de6",
   "lastOpenFiles": [
+    "dailyTask/2022-05-14 📅.md",
+    "linux-learn/dns.md",
+    "编程语言/Rust/rust视频笔记row.md",
     "游戏列表.md",
     "todo list.md",
     "algorithm/排序算法/堆排序.md",
     "dailyTask/2022-05-13 📅.md",
     "Daily-Journal-Prompts.md",
     "algorithm/问题/算法.md",
-    "reading note/others/switch  problem.md",
-    "dailyTask/2022-05-12 📅.md",
-    "dailyTask/2022-01-20 📅.md",
-    "java-learn/并发/并发基础概念/并发基础概念.md"
+    "reading note/others/switch  problem.md"
   ]
 }
