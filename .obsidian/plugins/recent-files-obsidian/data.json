@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-05-17 📅.md"
     },
     {
+      "basename": "家庭食物管理系统",
+      "path": "project/家庭食物管理系统.md"
+    },
+    {
       "basename": "编译器Project",
       "path": "编译器/编译器Project.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2022-05-16 📅",
       "path": "dailyTask/2022-05-16 📅.md"
-    },
-    {
-      "basename": "家庭食物管理系统",
-      "path": "project/家庭食物管理系统.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
