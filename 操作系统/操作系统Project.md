@@ -15,6 +15,10 @@
 [riscv指令集cheetsheet](x-devonthink-item://52215B90-589F-453E-90C9-844AAC00FFB9)
 
 
+[分时系统, 进程控制](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter3/index.html)
+[洛佳rust操作系统](https://github.com/rustcc/writing-an-os-in-rust)
+[用rust编写操作系统](https://os.phil-opp.com/zh-CN/)
+
 ## Progress
 ### [[2022-04-17 📅]]
 - [x] 跑通了第一章的代码

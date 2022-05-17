@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-05-17 📅.md"
     },
     {
+      "basename": "编译器Project",
+      "path": "编译器/编译器Project.md"
+    },
+    {
+      "basename": "操作系统Project",
+      "path": "操作系统/操作系统Project.md"
+    },
+    {
+      "basename": "游戏列表",
+      "path": "游戏列表.md"
+    },
+    {
       "basename": "2022-05-16 📅",
       "path": "dailyTask/2022-05-16 📅.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
-    },
-    {
-      "basename": "游戏列表",
-      "path": "游戏列表.md"
     },
     {
       "basename": "nginx配置文件",
@@ -83,10 +91,6 @@
     {
       "basename": "k210资料",
       "path": "操作系统/k210/k210资料.md"
-    },
-    {
-      "basename": "操作系统Project",
-      "path": "操作系统/操作系统Project.md"
     },
     {
       "basename": "2022-05-11 📅",
