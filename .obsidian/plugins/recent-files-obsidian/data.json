@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-05-18 📅.md"
     },
     {
+      "basename": "摩托罗拉公司",
+      "path": "reading note/计算机历史/摩托罗拉公司.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "计算机网络/传输层/TCP.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "计算机网络/传输层/UDP.md"
+    },
+    {
       "basename": "算法笔记",
       "path": "algorithm/算法笔记.md"
     },
