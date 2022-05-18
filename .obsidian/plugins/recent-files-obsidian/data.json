@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
       "basename": "2022-05-18 📅",
       "path": "dailyTask/2022-05-18 📅.md"
+    },
+    {
+      "basename": "确定有限状态自动机(DFA)",
+      "path": "algorithm/确定有限状态自动机(DFA).md"
     },
     {
       "basename": "摩托罗拉公司",
@@ -19,10 +27,6 @@
     {
       "basename": "算法笔记",
       "path": "algorithm/算法笔记.md"
-    },
-    {
-      "basename": "片单",
-      "path": "片单.md"
     },
     {
       "basename": "1. 让操作系统输出hello world",
