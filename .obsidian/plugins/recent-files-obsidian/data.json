@@ -5,6 +5,22 @@
       "path": "dailyTask/2022-05-20 📅.md"
     },
     {
+      "basename": "2022-05-19 📅",
+      "path": "dailyTask/2022-05-19 📅.md"
+    },
+    {
+      "basename": "尼采",
+      "path": "reading note/哲学/尼采.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "价值哲学",
+      "path": "reading note/哲学/价值哲学.md"
+    },
+    {
       "basename": "二分查找",
       "path": "algorithm/leetcode/二分查找.md"
     },
@@ -31,14 +47,6 @@
     {
       "basename": "游戏列表",
       "path": "游戏列表.md"
-    },
-    {
-      "basename": "2022-05-19 📅",
-      "path": "dailyTask/2022-05-19 📅.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
     },
     {
       "basename": "文法",
@@ -191,14 +199,6 @@
     {
       "basename": "k210资料",
       "path": "操作系统/k210/k210资料.md"
-    },
-    {
-      "basename": "2022-05-11 📅",
-      "path": "dailyTask/2022-05-11 📅.md"
-    },
-    {
-      "basename": "流水灯",
-      "path": "操作系统/k210/流水灯.md"
     }
   ],
   "omittedPaths": [],
