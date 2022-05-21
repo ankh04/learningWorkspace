@@ -5,16 +5,32 @@
       "path": "dailyTask/2022-05-21 📅.md"
     },
     {
-      "basename": "翻译模式",
-      "path": "编译器/语法分析/03.属性文法与语义分析/翻译模式.md"
+      "basename": "叔本华",
+      "path": "reading note/哲学/叔本华.md"
+    },
+    {
+      "basename": "超人",
+      "path": "reading note/哲学/尼采/超人.md"
     },
     {
       "basename": "查拉图斯特拉如是说",
-      "path": "reading note/哲学/查拉图斯特拉如是说.md"
+      "path": "reading note/哲学/尼采/查拉图斯特拉如是说.md"
     },
     {
       "basename": "尼采",
       "path": "reading note/哲学/尼采.md"
+    },
+    {
+      "basename": "搜索引擎",
+      "path": "机器学习/NLP/搜索引擎.md"
+    },
+    {
+      "basename": "概述",
+      "path": "机器学习/NLP/概述.md"
+    },
+    {
+      "basename": "翻译模式",
+      "path": "编译器/语法分析/03.属性文法与语义分析/翻译模式.md"
     },
     {
       "basename": "伊壁鸠鲁",
@@ -183,22 +199,6 @@
     {
       "basename": "堆排序",
       "path": "algorithm/排序算法/堆排序.md"
-    },
-    {
-      "basename": "2022-05-13 📅",
-      "path": "dailyTask/2022-05-13 📅.md"
-    },
-    {
-      "basename": "算法",
-      "path": "algorithm/问题/算法.md"
-    },
-    {
-      "basename": "switch  problem",
-      "path": "reading note/others/switch  problem.md"
-    },
-    {
-      "basename": "2022-05-12 📅",
-      "path": "dailyTask/2022-05-12 📅.md"
     }
   ],
   "omittedPaths": [],
