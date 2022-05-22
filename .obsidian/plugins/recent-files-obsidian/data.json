@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-22 📅",
+      "path": "dailyTask/2022-05-22 📅.md"
+    },
+    {
+      "basename": "操作系统概论",
+      "path": "操作系统/问题/操作系统概论.md"
+    },
+    {
       "basename": "2022-05-21 📅",
       "path": "dailyTask/2022-05-21 📅.md"
+    },
+    {
+      "basename": "概述",
+      "path": "机器学习/NLP/概述.md"
     },
     {
       "basename": "叔本华",
@@ -23,10 +35,6 @@
     {
       "basename": "搜索引擎",
       "path": "机器学习/NLP/搜索引擎.md"
-    },
-    {
-      "basename": "概述",
-      "path": "机器学习/NLP/概述.md"
     },
     {
       "basename": "翻译模式",
@@ -191,14 +199,6 @@
     {
       "basename": "rust视频笔记row",
       "path": "编程语言/Rust/rust视频笔记row.md"
-    },
-    {
-      "basename": "todo list",
-      "path": "todo list.md"
-    },
-    {
-      "basename": "堆排序",
-      "path": "algorithm/排序算法/堆排序.md"
     }
   ],
   "omittedPaths": [],

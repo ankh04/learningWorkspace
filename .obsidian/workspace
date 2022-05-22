@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-21 📅.md",
+            "file": "dailyTask/2022-05-22 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-21 📅.md",
+                "file": "dailyTask/2022-05-22 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-21 📅.md",
+                "file": "dailyTask/2022-05-22 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-21 📅.md"
+                "file": "dailyTask/2022-05-22 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "ba4e311e70c1a385",
   "lastOpenFiles": [
+    "dailyTask/2022-05-22 📅.md",
+    "操作系统/问题/操作系统概论.md",
     "dailyTask/2022-05-21 📅.md",
+    "机器学习/NLP/概述.md",
     "reading note/哲学/叔本华.md",
     "reading note/哲学/尼采/超人.md",
     "reading note/哲学/尼采/查拉图斯特拉如是说.md",
     "reading note/哲学/尼采.md",
     "机器学习/NLP/搜索引擎.md",
-    "机器学习/NLP/概述.md",
-    "Untitled.md",
-    "编译器/语法分析/03.属性文法与语义分析/翻译模式.md",
-    "reading note/哲学/伊壁鸠鲁.md"
+    "Untitled.md"
   ]
 }
