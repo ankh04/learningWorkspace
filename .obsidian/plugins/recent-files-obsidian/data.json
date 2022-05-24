@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-24 📅",
+      "path": "dailyTask/2022-05-24 📅.md"
+    },
+    {
+      "basename": "2022-05-23 📅",
+      "path": "dailyTask/2022-05-23 📅.md"
+    },
+    {
+      "basename": "语言学的邀请",
+      "path": "reading note/语言学的邀请.md"
+    },
+    {
+      "basename": "概述",
+      "path": "机器学习/NLP/概述.md"
+    },
+    {
       "basename": "2022-05-22 📅",
       "path": "dailyTask/2022-05-22 📅.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "2022-05-21 📅",
       "path": "dailyTask/2022-05-21 📅.md"
-    },
-    {
-      "basename": "概述",
-      "path": "机器学习/NLP/概述.md"
     },
     {
       "basename": "叔本华",
@@ -187,18 +199,6 @@
     {
       "basename": "2022-05-16 📅",
       "path": "dailyTask/2022-05-16 📅.md"
-    },
-    {
-      "basename": "nginx配置文件",
-      "path": "linux-learn/nginx/nginx配置文件.md"
-    },
-    {
-      "basename": "docker使用nginx",
-      "path": "java-learn/Docker/docker使用nginx.md"
-    },
-    {
-      "basename": "2022-05-15 📅",
-      "path": "dailyTask/2022-05-15 📅.md"
     }
   ],
   "omittedPaths": [],
