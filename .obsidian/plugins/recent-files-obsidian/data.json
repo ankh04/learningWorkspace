@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "2022-05-24 📅",
       "path": "dailyTask/2022-05-24 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "算法笔记",
       "path": "algorithm/算法笔记.md"
-    },
-    {
-      "basename": "1. 让操作系统输出hello world",
-      "path": "操作系统/1.应用程序与基本执行环境/1. 让操作系统输出hello world.md"
     }
   ],
   "omittedPaths": [],

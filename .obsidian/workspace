@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-24 📅.md",
+            "file": "template/dailyTask.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-24 📅.md",
+                "file": "template/dailyTask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-24 📅.md",
+                "file": "template/dailyTask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-24 📅.md"
+                "file": "template/dailyTask.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "ba4e311e70c1a385",
   "lastOpenFiles": [
+    "template/dailyTask.md",
     "dailyTask/2022-05-24 📅.md",
     "Daily-Journal-Prompts.md",
     "机器学习/NLP/问题/NLP.md",
@@ -186,7 +187,6 @@
     "机器学习/NLP/单词的分布式表示.md",
     "机器学习/NLP/概述.md",
     "algorithm/问题/算法.md",
-    "algorithm/哈希表.md",
-    "dailyTask/2022-05-23 📅.md"
+    "algorithm/哈希表.md"
   ]
 }
