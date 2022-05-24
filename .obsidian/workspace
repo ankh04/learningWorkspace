@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/dailyTask.md",
+            "file": "dailyTask/2022-05-24 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-05-24 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-05-24 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/dailyTask.md"
+                "file": "dailyTask/2022-05-24 📅.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "ba4e311e70c1a385",
   "lastOpenFiles": [
-    "template/dailyTask.md",
     "dailyTask/2022-05-24 📅.md",
+    "template/dailyTask.md",
     "Daily-Journal-Prompts.md",
     "机器学习/NLP/问题/NLP.md",
     "游戏列表.md",
