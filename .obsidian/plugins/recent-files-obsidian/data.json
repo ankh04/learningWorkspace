@@ -5,6 +5,14 @@
       "path": "dailyTask/2022-05-24 📅.md"
     },
     {
+      "basename": "NLP",
+      "path": "机器学习/NLP/问题/NLP.md"
+    },
+    {
+      "basename": "单词的分布式表示",
+      "path": "机器学习/NLP/单词的分布式表示.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -13,20 +21,12 @@
       "path": "Daily-Journal-Prompts.md"
     },
     {
-      "basename": "NLP",
-      "path": "机器学习/NLP/问题/NLP.md"
-    },
-    {
       "basename": "游戏列表",
       "path": "游戏列表.md"
     },
     {
       "basename": "learning plan",
       "path": "learning plan.md"
-    },
-    {
-      "basename": "单词的分布式表示",
-      "path": "机器学习/NLP/单词的分布式表示.md"
     },
     {
       "basename": "概述",
