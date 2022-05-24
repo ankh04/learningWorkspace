@@ -5,16 +5,44 @@
       "path": "dailyTask/2022-05-24 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "NLP",
+      "path": "机器学习/NLP/问题/NLP.md"
+    },
+    {
+      "basename": "游戏列表",
+      "path": "游戏列表.md"
+    },
+    {
+      "basename": "learning plan",
+      "path": "learning plan.md"
+    },
+    {
+      "basename": "单词的分布式表示",
+      "path": "机器学习/NLP/单词的分布式表示.md"
+    },
+    {
+      "basename": "概述",
+      "path": "机器学习/NLP/概述.md"
+    },
+    {
+      "basename": "算法",
+      "path": "algorithm/问题/算法.md"
+    },
+    {
+      "basename": "哈希表",
+      "path": "algorithm/哈希表.md"
+    },
+    {
       "basename": "2022-05-23 📅",
       "path": "dailyTask/2022-05-23 📅.md"
     },
     {
       "basename": "语言学的邀请",
       "path": "reading note/语言学的邀请.md"
-    },
-    {
-      "basename": "概述",
-      "path": "机器学习/NLP/概述.md"
     },
     {
       "basename": "2022-05-22 📅",
@@ -109,10 +137,6 @@
       "path": "reading note/others/aria2.md"
     },
     {
-      "basename": "游戏列表",
-      "path": "游戏列表.md"
-    },
-    {
       "basename": "文法",
       "path": "编译器/语法分析/文法.md"
     },
@@ -149,10 +173,6 @@
       "path": "计算机网络/传输层/TCP.md"
     },
     {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "1. 让操作系统输出hello world",
       "path": "操作系统/1.应用程序与基本执行环境/1. 让操作系统输出hello world.md"
-    },
-    {
-      "basename": "2022-05-17 📅",
-      "path": "dailyTask/2022-05-17 📅.md"
-    },
-    {
-      "basename": "家庭食物管理系统",
-      "path": "project/家庭食物管理系统.md"
-    },
-    {
-      "basename": "编译器Project",
-      "path": "编译器/编译器Project.md"
-    },
-    {
-      "basename": "操作系统Project",
-      "path": "操作系统/操作系统Project.md"
-    },
-    {
-      "basename": "2022-05-16 📅",
-      "path": "dailyTask/2022-05-16 📅.md"
     }
   ],
   "omittedPaths": [],
