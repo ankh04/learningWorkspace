@@ -5,7 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📅"
+      "🎤",
+      "☕️",
+      "📅",
+      "⌨️",
+      "🪩"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -15,5 +19,9 @@
       "left": 2
     }
   },
-  "dailyTask": "📅"
+  "dailyTask": "📅",
+  "编程语言": "⌨️",
+  "java-learn": "☕️",
+  "javascript-learn": "🪩",
+  "伪音": "🎤"
 }
