@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-25 📅",
+      "path": "dailyTask/2022-05-25 📅.md"
+    },
+    {
+      "basename": "2022-05-26 📅",
+      "path": "dailyTask/2022-05-26 📅.md"
+    },
+    {
+      "basename": "dailyEnglish",
+      "path": "template/dailyEnglish.md"
+    },
+    {
       "basename": "性分化",
       "path": "trans/内分泌/性分化.md"
     },
     {
       "basename": "性功能相关的激素",
       "path": "trans/内分泌/性功能相关的激素.md"
-    },
-    {
-      "basename": "2022-05-25 📅",
-      "path": "dailyTask/2022-05-25 📅.md"
     },
     {
       "basename": "伪音Project",
@@ -191,14 +199,6 @@
     {
       "basename": "可靠数据传输原理",
       "path": "计算机网络/传输层/可靠数据传输原理.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "计算机网络/传输层/TCP.md"
-    },
-    {
-      "basename": "2022-05-18 📅",
-      "path": "dailyTask/2022-05-18 📅.md"
     }
   ],
   "omittedPaths": [],

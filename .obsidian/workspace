@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trans/内分泌/性分化.md",
+            "file": "dailyTask/2022-05-25 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trans/内分泌/性分化.md",
+                "file": "dailyTask/2022-05-25 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trans/内分泌/性分化.md",
+                "file": "dailyTask/2022-05-25 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trans/内分泌/性分化.md"
+                "file": "dailyTask/2022-05-25 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "ba4e311e70c1a385",
   "lastOpenFiles": [
+    "dailyTask/2022-05-25 📅.md",
+    "dailyTask/2022-05-26 📅.md",
+    "template/dailyEnglish.md",
     "trans/内分泌/性分化.md",
     "trans/内分泌/性功能相关的激素.md",
-    "dailyTask/2022-05-25 📅.md",
     "trans/伪音/伪音Project.md",
     "Daily-Journal-Prompts.md",
     "java-learn/语言基础/问题/Java语言基础.md",
     "template/dailyTask.md",
-    "dailyTask/2022-05-24 📅.md",
-    "机器学习/NLP/问题/NLP.md",
-    "机器学习/NLP/单词的分布式表示.md"
+    "dailyTask/2022-05-24 📅.md"
   ]
 }
