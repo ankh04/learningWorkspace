@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
       "basename": "2022-05-25 📅",
       "path": "dailyTask/2022-05-25 📅.md"
+    },
+    {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "dailyTask",
@@ -23,10 +27,6 @@
     {
       "basename": "单词的分布式表示",
       "path": "机器学习/NLP/单词的分布式表示.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "游戏列表",
