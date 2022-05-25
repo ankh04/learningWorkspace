@@ -16,7 +16,7 @@ for(i=0;i<numberOfPrompts;i++) {
 ## Program Task  💻
 
 ## Regular Task  🤡
-- [ ] leetcode
+- [ ] [leetcode](https://leetcode.cn/study-plan/algorithms/?progress=tyz0ksg)
 - [ ] practice "声乐"
 - [ ] [java基础](https://javaguide.cn/java/basis/java-basic-questions-01.html#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 

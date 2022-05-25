@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "2022-05-25 📅",
+      "path": "dailyTask/2022-05-25 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "2022-05-24 📅",
       "path": "dailyTask/2022-05-24 📅.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "单词的分布式表示",
       "path": "机器学习/NLP/单词的分布式表示.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -177,10 +185,6 @@
       "path": "计算机网络/传输层/TCP.md"
     },
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
       "basename": "2022-05-18 📅",
       "path": "dailyTask/2022-05-18 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UDP",
       "path": "计算机网络/传输层/UDP.md"
-    },
-    {
-      "basename": "算法笔记",
-      "path": "algorithm/算法笔记.md"
     }
   ],
   "omittedPaths": [],

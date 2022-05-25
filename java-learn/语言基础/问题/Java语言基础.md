@@ -61,3 +61,5 @@ Animal animal = new Cat();
 ![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220519101316.png)
 
 
+
+## Java语言有哪些特点?
