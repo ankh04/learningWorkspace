@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "性分化",
+      "path": "trans/内分泌/性分化.md"
+    },
+    {
+      "basename": "性功能相关的激素",
+      "path": "trans/内分泌/性功能相关的激素.md"
+    },
+    {
       "basename": "2022-05-25 📅",
       "path": "dailyTask/2022-05-25 📅.md"
     },
     {
       "basename": "伪音Project",
-      "path": "伪音/伪音Project.md"
+      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -74,7 +82,7 @@
     },
     {
       "basename": "泛音",
-      "path": "伪音/泛音.md"
+      "path": "trans/伪音/泛音.md"
     },
     {
       "basename": "片单",
@@ -191,14 +199,6 @@
     {
       "basename": "2022-05-18 📅",
       "path": "dailyTask/2022-05-18 📅.md"
-    },
-    {
-      "basename": "确定有限状态自动机(DFA)",
-      "path": "algorithm/确定有限状态自动机(DFA).md"
-    },
-    {
-      "basename": "摩托罗拉公司",
-      "path": "reading note/计算机历史/摩托罗拉公司.md"
     }
   ],
   "omittedPaths": [],
