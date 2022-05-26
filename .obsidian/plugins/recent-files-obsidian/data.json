@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-05-26 📅.md"
     },
     {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "戴锦华",
+      "path": "trans/女性主义/戴锦华.md"
+    },
+    {
       "basename": "2022-05-25 📅",
       "path": "dailyTask/2022-05-25 📅.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "2022-05-24 📅",
@@ -195,10 +199,6 @@
     {
       "basename": "构成主义",
       "path": "reading note/苏联/构成主义.md"
-    },
-    {
-      "basename": "可靠数据传输原理",
-      "path": "计算机网络/传输层/可靠数据传输原理.md"
     }
   ],
   "omittedPaths": [],

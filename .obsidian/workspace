@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -179,14 +180,14 @@
   "active": "ba4e311e70c1a385",
   "lastOpenFiles": [
     "dailyTask/2022-05-26 📅.md",
+    "java-learn/语言基础/问题/Java语言基础.md",
+    "template/dailyTask.md",
+    "trans/女性主义/戴锦华.md",
     "dailyTask/2022-05-25 📅.md",
     "template/dailyEnglish.md",
     "trans/内分泌/性分化.md",
     "trans/内分泌/性功能相关的激素.md",
     "trans/伪音/伪音Project.md",
-    "Daily-Journal-Prompts.md",
-    "java-learn/语言基础/问题/Java语言基础.md",
-    "template/dailyTask.md",
-    "dailyTask/2022-05-24 📅.md"
+    "Daily-Journal-Prompts.md"
   ]
 }
