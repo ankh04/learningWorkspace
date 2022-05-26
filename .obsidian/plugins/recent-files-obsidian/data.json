@@ -5,8 +5,20 @@
       "path": "dailyTask/2022-05-26 📅.md"
     },
     {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "learning plan",
+      "path": "learning plan.md"
     },
     {
       "basename": "Java语言基础",
@@ -15,10 +27,6 @@
     {
       "basename": "片单",
       "path": "片单.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "戴锦华",
@@ -59,10 +67,6 @@
     {
       "basename": "游戏列表",
       "path": "游戏列表.md"
-    },
-    {
-      "basename": "learning plan",
-      "path": "learning plan.md"
     },
     {
       "basename": "概述",
@@ -195,10 +199,6 @@
     {
       "basename": "预测分析器",
       "path": "编译器/语法分析/02.自顶向下的语法分析/预测分析器.md"
-    },
-    {
-      "basename": "构成主义",
-      "path": "reading note/苏联/构成主义.md"
     }
   ],
   "omittedPaths": [],
