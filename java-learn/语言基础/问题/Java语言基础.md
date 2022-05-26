@@ -178,11 +178,62 @@ int n = i.intValue()
 只有\=\=可以用于基本类型的比较, 在这种情况下只比较值是否相等.
 
 ## String, StringBuffer, StringBuilder 的区别?
+StringBuffer StringBuilder 都是继承自 `AbstractStringBuilder`类, `AbstractStringBuilder`提供了很多修改字符串的方法
+
 **可变性**
 String是不可变的 StringBuffer和StringBuilder是可变的.
 
 **线程安全性**
+String是不可变的, 因此是线程安全的
+StringBuffer加了同步锁, 是线程安全的
+StringBuilder没有加同步锁, 不是线程安全的
 
 **性能**
+每次对String进行改变的时候, 都会生成一个新的 String 对象, 速度会比较慢
+StringBuffer StringBuilder 则会对现有的对象进行更改, 而不会生成新对象, 速度会更快
+StringBuilder因为没有加同步锁, 速度比StringBuffer快10%~15%
+
+**连接字符串**
+对于String类型, 可以使用 "+" 运算符, 这是Java中仅有的两个重载过的运算符之一(另一个是 "+=")
+
+不过重载后的 "+" 运算符只不过是调用了 StringBuilder 的 append() 方法完成了连接操作, 然后再使用 toString() 方法得到一个 String 对象.
+
+从上面的分析可以看出, + 运算符连接字符串的效率很低
+
+如果需要大量连接字符串, 建议使用 StringBuilder 和 StringBuffer
 
 
+## 什么是字符串常量池? intern()方法有什么作用?
+字符串常量池是 JVM 为了提升性能减少内存消耗针对字符串开辟的一块区域, 目的是避免字符串的重复创建:
+```java
+// 在堆中创建字符串对象”ab“
+// 将字符串对象”ab“的引用保存在字符串常量池中
+String aa = "ab";
+// 直接返回字符串常量池中字符串对象”ab“的引用
+String bb = "ab";
+System.out.println(aa==bb);// true
+```
+
+
+intern方法可以将字符串对象的引用保存在字符串常量池中, 可以分为两种情况:
+-   如果字符串常量池中保存了对应的字符串对象的引用，就直接返回该引用。
+-   如果字符串常量池中没有保存了对应的字符串对象的引用，那就在常量池中创建一个指向该字符串对象的引用并返回。
+
+```java
+// 在堆中创建字符串对象”Java“
+// 将字符串对象”Java“的引用保存在字符串常量池中
+String s1 = "Java";
+// 直接返回字符串常量池中字符串对象”Java“对应的引用
+String s2 = s1.intern();
+// 会在堆中在单独创建一个字符串对象
+String s3 = new String("Java");
+// 直接返回字符串常量池中字符串对象”Java“对应的引用
+String s4 = s3.intern();
+// s1 和 s2 指向的是堆中的同一个对象
+System.out.println(s1 == s2); // true
+// s3 和 s4 指向的是堆中不同的对象
+System.out.println(s3 == s4); // false
+// s1 和 s4 指向的是堆中的同一个对象
+System.out.println(s1 == s4); //true
+
+```

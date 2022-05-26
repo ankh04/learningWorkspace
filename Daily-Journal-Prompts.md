@@ -191,3 +191,15 @@ Java语言基础#Java的基本数据类型有哪些?
 Java语言基础#基本类型和包装类型的区别?
 
 Java语言基础#自动拆箱和装箱是什么?
+
+Java语言基础#什么是字符串常量池? intern()方法有什么作用?
+
+Java语言基础#String, StringBuffer, StringBuilder 的区别?
+
+Java语言基础#\=\= 和 equals() 的区别
+
+Java语言基础#Object类中的方法有哪些?
+
+Java语言基础#深拷贝和浅拷贝的区别? 什么是引用拷贝?
+
+Java语言基础#创建对象用什么运算符? 对象实体和对象引用有什么区别?

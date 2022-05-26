@@ -5,8 +5,16 @@
       "path": "dailyTask/2022-05-26 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
     },
     {
       "basename": "dailyTask",
@@ -35,10 +43,6 @@
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "2022-05-24 📅",
@@ -95,10 +99,6 @@
     {
       "basename": "泛音",
       "path": "trans/伪音/泛音.md"
-    },
-    {
-      "basename": "片单",
-      "path": "片单.md"
     },
     {
       "basename": "搜索引擎",
