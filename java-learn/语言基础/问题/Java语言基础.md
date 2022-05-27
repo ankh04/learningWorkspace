@@ -237,3 +237,22 @@ System.out.println(s3 == s4); // false
 System.out.println(s1 == s4); //true
 
 ```
+
+
+## Exception 和 Error 有什么区别?
+Exception和Error都是`Throwable`的子类:
+
+Exception是可以处理的异常, 而Error是不可以处理的异常, 遇到Error, JVM会终止.
+
+Exception又分为 Checked Exception 和 Unchecked Exception.
+**Checked Exception** 即 受检查异常 ，Java 代码在编译过程中，如果受检查异常没有被 `catch`或者`throws` 关键字处理的话，就没办法通过编译。常见的受检查异常有： IO 相关的异常、`ClassNotFoundException` 、`SQLException`...。
+
+**Unchecked Exception** 即 **不受检查异常** ，Java 代码在编译过程中 ，我们即使不处理不受检查异常也可以正常通过编译。常见的不受检查异常有:
+-   `NullPointerException`(空指针错误)
+-   `IllegalArgumentException`(参数错误比如方法入参类型错误)
+-   `NumberFormatException`（字符串转换为数字格式错误，`IllegalArgumentException`的子类）
+-   `ArrayIndexOutOfBoundsException`（数组越界错误）
+-   `ClassCastException`（类型转换错误）
+-   `ArithmeticException`（算术错误）
+-   `SecurityException` （安全错误比如权限不够）
+-   `UnsupportedOperationException`(不支持的操作错误比如重复创建同一用户)
