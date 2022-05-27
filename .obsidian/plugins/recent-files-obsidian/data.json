@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-27 📅",
+      "path": "dailyTask/2022-05-27 📅.md"
+    },
+    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
-      "basename": "2022-05-27 📅",
-      "path": "dailyTask/2022-05-27 📅.md"
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "2022-05-26 📅",
@@ -19,10 +23,6 @@
     {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "learning plan",
