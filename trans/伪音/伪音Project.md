@@ -10,6 +10,14 @@
 
 [voice feminization](https://www.youtube.com/watch?v=BfCS01MkbIY&list=PLYJkVI7LLpknvBww07jnsxbz-_Lkynsry)
 
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220527153004.png)
+
+
+[patreon](https://www.patreon.com/m/2213555/posts)
+
+[学习资源](https://docs.google.com/spreadsheets/d/1F0zsAOoyfBXu63_U2zy0et0Ku1OxZ0DCDKUsEI5Ebjs/edit#gid=1676784532)
+
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 

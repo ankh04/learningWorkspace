@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📖",
       "🪩",
       "⌨️",
       "📅",
-      "☕️",
-      "❓"
+      "☕️"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -26,5 +26,6 @@
   "trans/伪音": "🎤",
   "trans": "🏳️‍⚧️",
   "java-learn/语言基础/问题": "❓",
-  "编程语言/问题": "❓"
+  "编程语言/问题": "❓",
+  "reading note": "📖"
 }

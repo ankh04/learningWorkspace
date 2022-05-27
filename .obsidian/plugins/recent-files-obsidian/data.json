@@ -5,6 +5,22 @@
       "path": "dailyTask/2022-05-27 📅.md"
     },
     {
+      "basename": "福柯",
+      "path": "reading note/哲学/福柯.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "戴锦华",
+      "path": "trans/女性主义/戴锦华.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
@@ -17,10 +33,6 @@
       "path": "dailyTask/2022-05-26 📅.md"
     },
     {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
-    },
-    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "片单",
       "path": "片单.md"
-    },
-    {
-      "basename": "戴锦华",
-      "path": "trans/女性主义/戴锦华.md"
     },
     {
       "basename": "2022-05-25 📅",
@@ -51,10 +59,6 @@
     {
       "basename": "性功能相关的激素",
       "path": "trans/内分泌/性功能相关的激素.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "2022-05-24 📅",
@@ -195,10 +199,6 @@
     {
       "basename": "算符文法",
       "path": "编译器/语法分析/01.自底向上的语法分析/算符文法.md"
-    },
-    {
-      "basename": "FIRST 和 FOLLOW 集合",
-      "path": "编译器/语法分析/02.自顶向下的语法分析/FIRST 和 FOLLOW 集合.md"
     }
   ],
   "omittedPaths": [],
