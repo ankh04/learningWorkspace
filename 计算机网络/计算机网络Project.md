@@ -10,7 +10,7 @@
 
 ## Resources
 [计算机网络知识点速通](https://www.icourse163.org/learn/kaopei-1463813161?tid=1464659442#/learn/announce) 速通计算机网络主干知识
-[计算机网络实验](https://www.icourse163.org/course/BUAA-1002744004?from=searchPage)
+[计算机网络实验](https://www.bilibili.com/video/BV1At411f7hJ?p=1&t=86)
 
 ## Progress
 - [ ] #todo 记笔记 计算机网络 网络层章节

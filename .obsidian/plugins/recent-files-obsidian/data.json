@@ -5,12 +5,16 @@
       "path": "dailyTask/2022-05-28 📅.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
       "basename": "trans资源",
       "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "计算机网络Project",
+      "path": "计算机网络/计算机网络Project.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "摘抄",
@@ -195,10 +199,6 @@
     {
       "basename": "语义规则",
       "path": "编译器/语法分析/03.属性文法与语义分析/语义规则.md"
-    },
-    {
-      "basename": "属性文法",
-      "path": "编译器/语法分析/03.属性文法与语义分析/属性文法.md"
     }
   ],
   "omittedPaths": [],

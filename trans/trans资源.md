@@ -61,4 +61,12 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 
 
 
+[巴特勒性别研究课(耶鲁)](https://www.youtube.com/watch?v=7bkFlJfxyF0)
+
+[恐跨](https://www.youtube.com/watch?v=yCxqdhZkxCo)
+
+
 [杜克大学的跨性别期刊](https://read.dukeupress.edu/tsq)
+
+## 名人
+跨性别哲学家[Talia Bettcher](https://philpeople.org/profiles/talia-bettcher)
