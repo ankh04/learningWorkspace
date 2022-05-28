@@ -59,3 +59,6 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 [福柯](https://www.bilibili.com/video/BV1vV411e7pt)
 [拉康](https://www.bilibili.com/video/BV1QD4y1X76m)
 
+
+
+[杜克大学的跨性别期刊](https://read.dukeupress.edu/tsq)

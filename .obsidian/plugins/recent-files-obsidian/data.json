@@ -5,6 +5,26 @@
       "path": "dailyTask/2022-05-28 📅.md"
     },
     {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "摘抄",
+      "path": "trans/跨性别历史/摘抄.md"
+    },
+    {
+      "basename": "福柯",
+      "path": "reading note/哲学/福柯.md"
+    },
+    {
+      "basename": "戴锦华",
+      "path": "trans/女性主义/戴锦华.md"
+    },
+    {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
     },
@@ -55,22 +75,6 @@
     {
       "basename": "2022-05-27 📅",
       "path": "dailyTask/2022-05-27 📅.md"
-    },
-    {
-      "basename": "福柯",
-      "path": "reading note/哲学/福柯.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "戴锦华",
-      "path": "trans/女性主义/戴锦华.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
     },
     {
       "basename": "2022-05-26 📅",
@@ -195,10 +199,6 @@
     {
       "basename": "属性文法",
       "path": "编译器/语法分析/03.属性文法与语义分析/属性文法.md"
-    },
-    {
-      "basename": "2022-05-20 📅",
-      "path": "dailyTask/2022-05-20 📅.md"
     }
   ],
   "omittedPaths": [],
