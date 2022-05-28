@@ -48,13 +48,15 @@ UML大象书(用于画各种UML图做准备)
 最后是关于spring的web部分
 spring的数据库部分jdbc
 
+## 项目
+[rpc](https://github.com/Snailclimb/guide-rpc-framework)
+
+
 ### reading list
 7周7语言(可以了解更多的编程语言,可能对编译原理的理解有益)
 sass与compass实战(css进阶)
 C语言(了解+复习, 快速过一下即可)
 
-## Life
-下载switch 极乐迪斯科
 
 
 ### 深度学习

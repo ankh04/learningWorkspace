@@ -256,3 +256,243 @@ Exception又分为 Checked Exception 和 Unchecked Exception.
 -   `ArithmeticException`（算术错误）
 -   `SecurityException` （安全错误比如权限不够）
 -   `UnsupportedOperationException`(不支持的操作错误比如重复创建同一用户)
+
+
+## Java是按值传递还是引用传递?
+C++这样的语言提供了按值传递和引用传递两种方式, 但Java中只有值传递.
+
+Java 中将实参传递给方法（或函数）的方式是 **值传递** ：
+-   如果参数是基本类型的话，传递的就是基本类型的字面量值的拷贝，会创建副本。
+-   如果参数是引用类型，传递的就是实参所引用的对象在堆中地址值的拷贝，同样也会创建副本。
+
+## 什么是序列化? 为什么要序列化?
+序列化就是将*数据结构或对象*转化成*二进制字节流*的过程
+**序列化的目的:** 持久化 Java 对象比如将 Java 对象保存在文件中，或者在网络传输 Java 对象
+
+**使用序列化的场景**
+- 对象在网络传输的时候需要先被序列化
+- 对象存储到文件的时候需要序列化
+- 对象存储到缓存数据库(redis)需要序列化
+
+**常见的序列化协议**
+先说两种常见的序列化:
+- java序列化: 这是JDK自带的序列化实现, 性能不佳
+- json序列化: 常用的库是阿里的fastjson, 但性能也不是最好的
+
+==高性能的二进制序列化==
+hessian序列化
+protobuf序列化
+protostuff序列化
+kryo序列化
+
+## Java中获取 Class 对象的方式有哪些?
+```java
+Class clazz = TargetClass.class;
+
+Class clazz1 = Class.forName("host.ankh.TargetClass");
+
+TargetClass o = new TargetClass();
+Class clazz2 = o.getClass(); // 这个是继承自Object类上的native方法
+
+ClassLoader.getSystemClassLoader().loadClass("host.ankh.TargetClass");
+```
+
+## Java的代理是什么?
+代理模式就是使用*代理对象*代替真实对象.
+好处: 可以在不修改原目标对象(或者是原对象不可更改)的情况下提供额外的功能, *扩展*目标对象的功能.
+
+代理可以分为静态代理和动态代理: 
+**静态代理:** 静态代理在编译时就将接口、实现类、代理类这些都变成了一个个实际的 class 文件。
+**动态代理:** 从 JVM 角度来说，动态代理是在运行时动态生成类字节码，并加载到 JVM 中的。
+
+#### 动态代理
+动态代理又可以分为 *JDK动态代理* 和 *CGLIB动态代理*
+
+JDK是基于接口的代理(就是说被代理的对象必须实现了某个接口, 因为代理是对接口的代理)
+而CGLIB代理这没有上面的限制, 它可以代理任何类, 即使没有实现接口.(原因在于CGLIB使用了ASM的字节码生成库)
+
+但另一方面, JDK速度会比CGLIB快
+
+==JDK代理示例:==
+**1.定义发送短信的接口**
+
+```
+public interface SmsService {
+    String send(String message);
+}
+```
+
+**2.实现发送短信的接口**
+
+```
+public class SmsServiceImpl implements SmsService {
+    public String send(String message) {
+        System.out.println("send message:" + message);
+        return message;
+    }
+}
+```
+
+**3.定义一个 JDK 动态代理类**
+
+```
+public class DebugInvocationHandler implements InvocationHandler {
+    /**
+     * 代理类中的真实对象
+     */
+    private final Object target;
+
+    public DebugInvocationHandler(Object target) {
+        this.target = target;
+    }
+
+
+    public Object invoke(Object proxy, Method method, Object[] args) throws InvocationTargetException, IllegalAccessException {
+        //调用方法之前，我们可以添加自己的操作
+        System.out.println("before method " + method.getName());
+        Object result = method.invoke(target, args);
+        //调用方法之后，我们同样可以添加自己的操作
+        System.out.println("after method " + method.getName());
+        return result;
+    }
+}
+
+```
+
+`invoke()` 方法: 当我们的动态代理对象调用原生方法的时候，最终实际上调用到的是 `invoke()` 方法，然后 `invoke()` 方法代替我们去调用了被代理对象的原生方法。
+
+**4.获取代理对象的工厂类**
+
+```
+public class JdkProxyFactory {
+    public static Object getProxy(Object target) {
+        return Proxy.newProxyInstance(
+                target.getClass().getClassLoader(), // 目标类的类加载
+                target.getClass().getInterfaces(),  // 代理需要实现的接口，可指定多个
+                new DebugInvocationHandler(target)   // 代理对象对应的自定义 InvocationHandler
+        );
+    }
+}
+```
+
+`getProxy()` ：主要通过`Proxy.newProxyInstance（）`方法获取某个类的代理对象
+
+**5.实际使用**
+
+```
+SmsService smsService = (SmsService) JdkProxyFactory.getProxy(new SmsServiceImpl());
+smsService.send("java");
+```
+
+运行上述代码之后，控制台打印出：
+
+```
+before method send
+send message:java
+after method send
+```
+
+==CGLIB代理示例==
+如果你要使用它的话，需要手动添加相关依赖。
+
+```
+<dependency>
+  <groupId>cglib</groupId>
+  <artifactId>cglib</artifactId>
+  <version>3.3.0</version>
+</dependency>
+```
+
+**1.实现一个使用阿里云发送短信的类**
+
+```
+package github.javaguide.dynamicProxy.cglibDynamicProxy;
+
+public class AliSmsService {
+    public String send(String message) {
+        System.out.println("send message:" + message);
+        return message;
+    }
+}
+```
+
+**2.自定义 `MethodInterceptor`（方法拦截器）**
+
+```
+/**
+ * 自定义MethodInterceptor
+ */
+public class DebugMethodInterceptor implements MethodInterceptor {
+
+
+    /**
+     * @param o           代理对象（增强的对象）
+     * @param method      被拦截的方法（需要增强的方法）
+     * @param args        方法入参
+     * @param methodProxy 用于调用原始方法
+     */
+    @Override
+    public Object intercept(Object o, Method method, Object[] args, MethodProxy methodProxy) throws Throwable {
+        //调用方法之前，我们可以添加自己的操作
+        System.out.println("before method " + method.getName());
+        Object object = methodProxy.invokeSuper(o, args);
+        //调用方法之后，我们同样可以添加自己的操作
+        System.out.println("after method " + method.getName());
+        return object;
+    }
+
+}
+```
+
+**3.获取代理类**
+
+```
+public class CglibProxyFactory {
+
+    public static Object getProxy(Class<?> clazz) {
+        // 创建动态代理增强类
+        Enhancer enhancer = new Enhancer();
+        // 设置类加载器
+        enhancer.setClassLoader(clazz.getClassLoader());
+        // 设置被代理类
+        enhancer.setSuperclass(clazz);
+        // 设置方法拦截器
+        enhancer.setCallback(new DebugMethodInterceptor());
+        // 创建代理类
+        return enhancer.create();
+    }
+}
+```
+
+**4.实际使用**
+
+```
+AliSmsService aliSmsService = (AliSmsService) CglibProxyFactory.getProxy(AliSmsService.class);
+aliSmsService.send("java");
+```
+
+运行上述代码之后，控制台打印出：
+
+```
+before method send
+send message:java
+after method send
+```
+
+
+## 介绍下Java的IO模型?
+
+平常开发过程中接触最多的就是 **磁盘 IO（读写文件）** 和 **网络 IO（网络请求和响应）**。
+
+**从应用程序的视角来看的话，应用程序对操作系统的内核发起 IO 调用（系统调用），操作系统负责的内核执行具体的 IO 操作。也就是说，应用程序实际上只是发起了 IO 操作的调用而已，具体 IO 的执行是由操作系统的内核来完成的。**
+
+当应用程序发起 I/O 调用后，会经历两个步骤：
+
+1.  内核等待 I/O 设备准备好数据
+2.  内核将数据从内核空间拷贝到用户空间。
+
+Java中有三种IO模型: BIO(阻塞IO), NIO(非阻塞IO), AIO(异步IO)
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220528113215.png)
+
+
+

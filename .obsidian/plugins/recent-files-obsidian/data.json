@@ -5,6 +5,50 @@
       "path": "dailyTask/2022-05-28 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Idea",
+      "path": "java-learn/Idea.md"
+    },
+    {
+      "basename": "定时任务",
+      "path": "linux-learn/定时任务.md"
+    },
+    {
+      "basename": "todo list",
+      "path": "todo list.md"
+    },
+    {
+      "basename": "利用mvn命令创建项目",
+      "path": "java-learn/Maven/利用mvn命令创建项目.md"
+    },
+    {
+      "basename": "踩坑记录",
+      "path": "java-learn/踩坑记录.md"
+    },
+    {
+      "basename": "2022-02-23 📅",
+      "path": "dailyTask/2022-02-23 📅.md"
+    },
+    {
+      "basename": "2022-02-22 📅",
+      "path": "dailyTask/2022-02-22 📅.md"
+    },
+    {
+      "basename": "2022-01-29 📅",
+      "path": "dailyTask/2022-01-29 📅.md"
+    },
+    {
       "basename": "片单",
       "path": "片单.md"
     },
@@ -27,14 +71,6 @@
     {
       "basename": "trans资源",
       "path": "trans/trans资源.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "2022-05-26 📅",
@@ -163,42 +199,6 @@
     {
       "basename": "2022-05-20 📅",
       "path": "dailyTask/2022-05-20 📅.md"
-    },
-    {
-      "basename": "2022-05-19 📅",
-      "path": "dailyTask/2022-05-19 📅.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
-    },
-    {
-      "basename": "价值哲学",
-      "path": "reading note/哲学/价值哲学.md"
-    },
-    {
-      "basename": "二分查找",
-      "path": "algorithm/leetcode/二分查找.md"
-    },
-    {
-      "basename": "建模基础",
-      "path": "java-learn/UML/建模基础.md"
-    },
-    {
-      "basename": "aria2",
-      "path": "reading note/others/aria2.md"
-    },
-    {
-      "basename": "文法",
-      "path": "编译器/语法分析/文法.md"
-    },
-    {
-      "basename": "自底向上的语法分析",
-      "path": "编译器/语法分析/01.自底向上的语法分析/自底向上的语法分析.md"
-    },
-    {
-      "basename": "短语",
-      "path": "编译器/语法分析/01.自底向上的语法分析/短语.md"
     }
   ],
   "omittedPaths": [],
