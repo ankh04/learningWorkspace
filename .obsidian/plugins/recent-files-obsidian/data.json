@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-05-29 📅.md"
     },
     {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "片单",
       "path": "片单.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "计算机网络Project",
       "path": "计算机网络/计算机网络Project.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "摘抄",
