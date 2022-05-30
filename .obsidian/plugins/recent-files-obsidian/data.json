@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-05-30 📅",
-      "path": "dailyTask/2022-05-30 📅.md"
-    },
-    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "前端资源",
+      "path": "javascript-learn/前端资源.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
     },
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
     },
     {
-      "basename": "我的服务",
-      "path": "我的服务.md"
+      "basename": "咽喉解剖",
+      "path": "trans/伪音/咽喉解剖.md"
+    },
+    {
+      "basename": "2022-05-30 📅",
+      "path": "dailyTask/2022-05-30 📅.md"
     },
     {
       "basename": "Java语言基础",
@@ -191,14 +199,6 @@
     {
       "basename": "超人",
       "path": "reading note/哲学/尼采/超人.md"
-    },
-    {
-      "basename": "查拉图斯特拉如是说",
-      "path": "reading note/哲学/尼采/查拉图斯特拉如是说.md"
-    },
-    {
-      "basename": "尼采",
-      "path": "reading note/哲学/尼采.md"
     }
   ],
   "omittedPaths": [],

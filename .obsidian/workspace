@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-05-30 📅.md",
+            "file": "template/dailyTask.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-05-30 📅.md",
+                "file": "template/dailyTask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-05-30 📅.md",
+                "file": "template/dailyTask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-05-30 📅.md"
+                "file": "template/dailyTask.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
-    "dailyTask/2022-05-30 📅.md",
     "template/dailyTask.md",
-    "trans/伪音/伪音Project.md",
+    "javascript-learn/前端资源.md",
     "我的服务.md",
+    "trans/伪音/伪音Project.md",
+    "trans/伪音/咽喉解剖.md",
+    "dailyTask/2022-05-30 📅.md",
     "java-learn/语言基础/问题/Java语言基础.md",
     "dailyTask/2022-05-29 📅.md",
     "片单.md",
-    "dailyTask/2022-05-28 📅.md",
-    "trans/trans资源.md",
-    "计算机网络/计算机网络Project.md"
+    "dailyTask/2022-05-28 📅.md"
   ]
 }

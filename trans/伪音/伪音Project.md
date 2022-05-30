@@ -30,6 +30,9 @@
 
 [四字歌](https://www.bilibili.com/video/BV19J411a7uB)
 
+
+[练习声音女性化的五个原则](https://www.patreon.com/posts/5-key-basics-for-34795850)
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 
