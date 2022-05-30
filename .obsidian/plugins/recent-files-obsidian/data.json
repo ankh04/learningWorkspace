@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-05-29 📅",
-      "path": "dailyTask/2022-05-29 📅.md"
+      "basename": "2022-05-30 📅",
+      "path": "dailyTask/2022-05-30 📅.md"
     },
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "2022-05-29 📅",
+      "path": "dailyTask/2022-05-29 📅.md"
     },
     {
       "basename": "片单",
@@ -195,10 +199,6 @@
     {
       "basename": "翻译模式",
       "path": "编译器/语法分析/03.属性文法与语义分析/翻译模式.md"
-    },
-    {
-      "basename": "伊壁鸠鲁",
-      "path": "reading note/哲学/伊壁鸠鲁.md"
     }
   ],
   "omittedPaths": [],
