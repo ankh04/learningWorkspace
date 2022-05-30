@@ -495,4 +495,186 @@ Java中有三种IO模型: BIO(阻塞IO), NIO(非阻塞IO), AIO(异步IO)
 ![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220528113215.png)
 
 
+## Java中常见的集合接口有哪些?
+大致可以分为两类:
+- Collection接口类: `List`, `Queue`, `Set`
+- Map接口类: `HashMap`, `Hashtable`, `TreeMap`
+它们的继承关系如下:
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220530132055.png)
 
+
+## 说下 List, Set, Queue, Map四者的区别?
+-   `List`(对付顺序的好帮手): 存储的元素是有序的、可重复的。
+-   `Set`(注重独一无二的性质): 存储的元素是无序的、不可重复的。
+-   `Queue`(实现排队功能的叫号机): 按特定的排队规则来确定先后顺序，存储的元素是有序的、可重复的。
+-   `Map`(用 key 来搜索的专家): 使用键值对（key-value）存储，类似于数学上的函数 y=f(x)，"x" 代表 key，"y" 代表 value，key 是无序的、不可重复的，value 是无序的、可重复的，每个键最多映射到一个值。
+
+
+## 简要介绍下List, Set, Queue, Map的底层数据结构?
+#### List
+
+-   `Arraylist`： `Object[]` 数组
+-   `Vector`：`Object[]` 数组
+-   `LinkedList`： 双向链表(JDK1.6 之前为循环链表，JDK1.7 取消了循环)
+
+####  Set
+
+-   `HashSet`(无序，唯一): 基于 `HashMap` 实现的，底层采用 `HashMap` 来保存元素
+-   `LinkedHashSet`: `LinkedHashSet` 是 `HashSet` 的子类，并且其内部是通过 `LinkedHashMap` 来实现的。有点类似于我们之前说的 `LinkedHashMap` 其内部是基于 `HashMap` 实现一样，不过还是有一点点区别的
+-   `TreeSet`(有序，唯一): 红黑树(自平衡的排序二叉树)
+
+#### Queue
+
+-   `PriorityQueue`: `Object[]` 数组来实现二叉堆
+-   `ArrayQueue`: `Object[]` 数组 + 双指针
+
+再来看看 `Map` 接口下面的集合。
+
+#### Map
+
+-   `HashMap`： JDK1.8 之前 `HashMap` 由数组+链表组成的，数组是 `HashMap` 的主体，链表则是主要为了解决哈希冲突而存在的（“拉链法”解决冲突）。JDK1.8 以后在解决哈希冲突时有了较大的变化，当链表长度大于阈值（默认为 8）（将链表转换成红黑树前会判断，如果当前数组的长度小于 64，那么会选择先进行数组扩容，而不是转换为红黑树）时，将链表转化为红黑树，以减少搜索时间
+-   `LinkedHashMap`： `LinkedHashMap` 继承自 `HashMap`，所以它的底层仍然是基于拉链式散列结构即由数组和链表或红黑树组成。另外，`LinkedHashMap` 在上面结构的基础上，增加了一条双向链表，使得上面的结构可以保持键值对的插入顺序。同时通过对链表进行相应的操作，实现了访问顺序相关逻辑。详细可以查看：[《LinkedHashMap 源码详细分析（JDK1.8）》](https://www.imooc.com/article/22931)
+
+-   `Hashtable`： 数组+链表组成的，数组是 `Hashtable` 的主体，链表则是主要为了解决哈希冲突而存在的
+-   `TreeMap`： 红黑树（自平衡的排序二叉树）
+
+
+## ArrayList和LinkedList的区别?
+- **都不保证线程安全**
+- ArrayList底层使用Object**数组**, LinkedList底层使用**双向链表**
+- ArrayList在中间**插入元素**的速度比较慢是O(N), LinkedList插入元素的速度会快一些
+- ArrayList由于基于数组, 所以天然支持**快速随机访问**, LinkedList不支持快速随机访问
+- **内存空间占用**: 由于ArrayList会留有数组的容量空间, 会有一定的浪费; 而LinkedList的每个元素需要存放前继和后继, 也会有空间的浪费
+
+## Comparable接口和Comparator接口的区别?
+- Comparator接口来自`java.lang`包, 有一个 `compareTo(Object obj)`方法,  常常和 `Collections.sort()`这样的方法一起使用
+- Comparable接口来自`java.util`包, 有一个`compare(Object obj1, Object obj2)`方法, 常常是entity类自己实现
+下面有两个例子:
+#### Comparator定制排序
+```java
+ArrayList<Integer> arrayList = new ArrayList<Integer>();
+arrayList.add(-1);
+arrayList.add(3);
+arrayList.add(3);
+arrayList.add(-5);
+arrayList.add(7);
+arrayList.add(4);
+arrayList.add(-9);
+arrayList.add(-7);
+
+// 定制排序的用法
+Collections.sort(arrayList, new Comparator<Integer>() {
+
+	@Override
+	public int compare(Integer o1, Integer o2) {
+		return o2.compareTo(o1);
+	}
+});
+System.out.println("定制排序后：");
+System.out.println(arrayList);
+```
+输出为:
+```
+定制排序后：
+[7, 4, 3, 3, -1, -5, -7, -9]
+```
+
+#### 重写CompareTO方法实现排序
+```java
+// person对象没有实现Comparable接口，所以必须实现，这样才不会出错，才可以使treemap中的数据按顺序排列
+// 前面一个例子的String类已经默认实现了Comparable接口，详细可以查看String类的API文档，另外其他
+// 像Integer类等都已经实现了Comparable接口，所以不需要另外实现了
+public  class Person implements Comparable<Person> {
+    private String name;
+    private int age;
+
+    public Person(String name, int age) {
+        super();
+        this.name = name;
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    /**
+     * T重写compareTo方法实现按年龄来排序
+     */
+    @Override
+    public int compareTo(Person o) {
+        if (this.age > o.getAge()) {
+            return 1;
+        }
+        if (this.age < o.getAge()) {
+            return -1;
+        }
+        return 0;
+    }
+}
+
+```
+调用
+```java
+    public static void main(String[] args) {
+        TreeMap<Person, String> pdata = new TreeMap<Person, String>();
+        pdata.put(new Person("张三", 30), "zhangsan");
+        pdata.put(new Person("李四", 20), "lisi");
+        pdata.put(new Person("王五", 10), "wangwu");
+        pdata.put(new Person("小红", 5), "xiaohong");
+        // 得到key的值的同时得到key所对应的值
+        Set<Person> keys = pdata.keySet();
+        for (Person key : keys) {
+            System.out.println(key.getAge() + "-" + key.getName());
+
+        }
+    }
+```
+
+输出:
+```
+5-小红
+10-王五
+20-李四
+30-张三
+```
+
+## Queue与Deque的区别?
+`Queue` 是单端队列，只能从一端插入元素，另一端删除元素，实现上一般遵循 **先进先出（FIFO）** 规则
+`Deque` 是双端队列，在队列的两端均可以插入或删除元素。`Deque` 扩展了 `Queue` 的接口, 增加了在队首和队尾进行插入和删除的方法，同样根据失败后处理方式的不同分为两类.
+
+| `Queue`接口 | 抛出异常    | 返回特殊值 |
+| ----------- | ----------- | ---------- |
+| 插入队尾    | add(E e)    | offer(E e) |
+| 删除队尾    | remove(E e) | poll(E e)  |
+| 查询队首    | element()   | peek()           |
+
+| `Deque`接口 | 抛出异常        | 返回特殊值     |
+| ----------- | --------------- | -------------- |
+| 插入队尾    | addLast(E e)    | offerLast(E e) |
+| 删除队尾    | removeLast(E e) | pollLast(E e)  |
+| 查询队尾    | getLast()       | peekLast()     |
+| 插入队首    | addFirst(E e)    | offerFirst(E e) |
+| 删除队首    | removeFirst(E e) | pollFirst(E e)  |
+| 查询队首    | getFirst()       | peekFirst()     |
+
+
+## 什么是PriorityQueue?
+`PriorityQueue` 是在 JDK1.5 中被引入的, 其与 `Queue` 的区别在于元素出队顺序是与优先级相关的，即总是优先级最高的元素先出队。
+
+-   `PriorityQueue` 利用了二叉堆的数据结构来实现的，底层使用可变长的数组来存储数据
+-   `PriorityQueue` 通过堆元素的上浮和下沉，实现了在 O(logn) 的时间复杂度内插入元素和删除堆顶元素。
+-   `PriorityQueue` 是非线程安全的，且不支持存储 `NULL` 和 `non-comparable` 的对象。
+-   `PriorityQueue` 默认是小顶堆，但可以接收一个 `Comparator` 作为构造参数，从而来自定义元素优先级的先后。
