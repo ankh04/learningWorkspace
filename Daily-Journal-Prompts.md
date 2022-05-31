@@ -215,3 +215,15 @@ Java语言基础#Java中获取 Class 对象的方式有哪些?
 Java语言基础#Java的代理是什么?
 
 Java语言基础#介绍下Java的IO模型?
+
+HTML基础#HTML是什么? 超文本是什么? 标记语言是什么?
+
+HTML基础#Web的特征是什么?
+
+HTML基础#HTML的历史是怎样的?
+
+HTML基础#html页面的文档声明头是什么?
+
+HTML基础#头标签head里会包含哪些配置?
+
+HTML基础#html中如何换行?

@@ -33,6 +33,8 @@
 
 [练习声音女性化的五个原则](https://www.patreon.com/posts/5-key-basics-for-34795850)
 
+[变细练习](https://docs.google.com/document/d/16Yv30tSd7qRvhULK-mdmw8jVWiiiVISGn0vPcmEgHtU/edit)
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 

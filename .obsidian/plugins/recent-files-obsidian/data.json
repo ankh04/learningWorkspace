@@ -5,6 +5,50 @@
       "path": "dailyTask/2022-05-31 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "HTML基础",
+      "path": "javascript-learn/问题/HTML基础.md"
+    },
+    {
+      "basename": "Web的概念",
+      "path": "java-learn/JavaWeb/Web的运作原理/Web的概念.md"
+    },
+    {
+      "basename": "什么是类数组",
+      "path": "javascript-learn/js面试题/什么是类数组.md"
+    },
+    {
+      "basename": "箭头函数与普通函数的实用场景",
+      "path": "javascript-learn/js面试题/箭头函数与普通函数的实用场景.md"
+    },
+    {
+      "basename": "检测是否是数组的方法",
+      "path": "javascript-learn/js面试题/检测是否是数组的方法.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "计算机网络Project",
+      "path": "计算机网络/计算机网络Project.md"
+    },
+    {
+      "basename": "喉咙的基本结构",
+      "path": "trans/伪音/喉咙的基本结构.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "优生学 生物主义论调",
       "path": "trans/随笔/优生学 生物主义论调.md"
     },
@@ -45,10 +89,6 @@
       "path": "我的服务.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
       "basename": "咽喉解剖",
       "path": "trans/伪音/咽喉解剖.md"
     },
@@ -57,24 +97,12 @@
       "path": "dailyTask/2022-05-30 📅.md"
     },
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
       "basename": "2022-05-29 📅",
       "path": "dailyTask/2022-05-29 📅.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "2022-05-28 📅",
       "path": "dailyTask/2022-05-28 📅.md"
-    },
-    {
-      "basename": "计算机网络Project",
-      "path": "计算机网络/计算机网络Project.md"
     },
     {
       "basename": "摘抄",
@@ -87,10 +115,6 @@
     {
       "basename": "戴锦华",
       "path": "trans/女性主义/戴锦华.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "README",
@@ -175,30 +199,6 @@
     {
       "basename": "概述",
       "path": "机器学习/NLP/概述.md"
-    },
-    {
-      "basename": "算法",
-      "path": "algorithm/问题/算法.md"
-    },
-    {
-      "basename": "哈希表",
-      "path": "algorithm/哈希表.md"
-    },
-    {
-      "basename": "2022-05-23 📅",
-      "path": "dailyTask/2022-05-23 📅.md"
-    },
-    {
-      "basename": "语言学的邀请",
-      "path": "reading note/语言学的邀请.md"
-    },
-    {
-      "basename": "2022-05-22 📅",
-      "path": "dailyTask/2022-05-22 📅.md"
-    },
-    {
-      "basename": "直播",
-      "path": "algorithm/leetcode/直播.md"
     }
   ],
   "omittedPaths": [],
