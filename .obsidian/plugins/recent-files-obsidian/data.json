@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-31 📅",
+      "path": "dailyTask/2022-05-31 📅.md"
+    },
+    {
+      "basename": "优生学 生物主义论调",
+      "path": "trans/随笔/优生学 生物主义论调.md"
+    },
+    {
+      "basename": "语法",
+      "path": "英语/翻译/语法.md"
+    },
+    {
+      "basename": "报刊资源",
+      "path": "英语/报刊资源.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "媒体对跨性别群体的报道(很多时候是负面的)",
+      "path": "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md"
+    },
+    {
+      "basename": "武汉天街杀人案件",
+      "path": "trans/随笔/武汉天街杀人案件.md"
+    },
+    {
+      "basename": "汉语中的性别称谓",
+      "path": "trans/随笔/汉语中的性别称谓.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -39,10 +71,6 @@
     {
       "basename": "2022-05-28 📅",
       "path": "dailyTask/2022-05-28 📅.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
     },
     {
       "basename": "计算机网络Project",
@@ -171,34 +199,6 @@
     {
       "basename": "直播",
       "path": "algorithm/leetcode/直播.md"
-    },
-    {
-      "basename": "单调栈",
-      "path": "algorithm/leetcode/总结/单调栈.md"
-    },
-    {
-      "basename": "泛音",
-      "path": "trans/伪音/泛音.md"
-    },
-    {
-      "basename": "搜索引擎",
-      "path": "机器学习/NLP/搜索引擎.md"
-    },
-    {
-      "basename": "操作系统概论",
-      "path": "操作系统/问题/操作系统概论.md"
-    },
-    {
-      "basename": "2022-05-21 📅",
-      "path": "dailyTask/2022-05-21 📅.md"
-    },
-    {
-      "basename": "叔本华",
-      "path": "reading note/哲学/叔本华.md"
-    },
-    {
-      "basename": "超人",
-      "path": "reading note/哲学/尼采/超人.md"
     }
   ],
   "omittedPaths": [],

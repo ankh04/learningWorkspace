@@ -70,3 +70,10 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 
 ## 名人
 跨性别哲学家[Talia Bettcher](https://philpeople.org/profiles/talia-bettcher)
+
+
+
+## 跨性别新闻
+[卫报](https://www.theguardian.com/commentisfree/commentisfree+society/transgender)
+
+[terf的历史](https://www.nytimes.com/2019/02/07/opinion/terf-trans-women-britain.html)

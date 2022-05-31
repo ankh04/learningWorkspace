@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/dailyTask.md",
+            "file": "dailyTask/2022-05-31 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-05-31 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-05-31 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/dailyTask.md"
+                "file": "dailyTask/2022-05-31 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
+    "dailyTask/2022-05-31 📅.md",
+    "trans/随笔/优生学 生物主义论调.md",
+    "英语/翻译/语法.md",
+    "英语/报刊资源.md",
+    "trans/trans资源.md",
+    "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md",
+    "trans/随笔/武汉天街杀人案件.md",
+    "trans/随笔/汉语中的性别称谓.md",
     "template/dailyTask.md",
-    "javascript-learn/前端资源.md",
-    "我的服务.md",
-    "trans/伪音/伪音Project.md",
-    "trans/伪音/咽喉解剖.md",
-    "dailyTask/2022-05-30 📅.md",
-    "java-learn/语言基础/问题/Java语言基础.md",
-    "dailyTask/2022-05-29 📅.md",
-    "片单.md",
-    "dailyTask/2022-05-28 📅.md"
+    "javascript-learn/前端资源.md"
   ]
 }
