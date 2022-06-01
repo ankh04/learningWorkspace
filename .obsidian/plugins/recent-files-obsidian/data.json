@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "时尚简史",
-      "path": "trans/化妆/时尚简史.md"
-    },
-    {
       "basename": "2022-06-01 📅",
       "path": "dailyTask/2022-06-01 📅.md"
+    },
+    {
+      "basename": "真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己",
+      "path": "trans/随笔/真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "化妆书籍",
       "path": "trans/化妆/化妆书籍.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
+      "basename": "时尚简史",
+      "path": "trans/化妆/时尚简史.md"
     },
     {
       "basename": "2022-05-31 📅",
@@ -27,10 +43,6 @@
     {
       "basename": "性功能相关的激素",
       "path": "trans/内分泌/性功能相关的激素.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
     },
     {
       "basename": "性分化",
@@ -73,10 +85,6 @@
       "path": "javascript-learn/js面试题/检测是否是数组的方法.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "汉语中的性别称谓",
       "path": "trans/随笔/汉语中的性别称谓.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "咽喉解剖",
@@ -195,10 +199,6 @@
     {
       "basename": "dailyEnglish",
       "path": "template/dailyEnglish.md"
-    },
-    {
-      "basename": "2022-05-24 📅",
-      "path": "dailyTask/2022-05-24 📅.md"
     }
   ],
   "omittedPaths": [],

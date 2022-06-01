@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trans/化妆/时尚简史.md",
+            "file": "dailyTask/2022-06-01 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trans/化妆/时尚简史.md",
+                "file": "dailyTask/2022-06-01 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trans/化妆/时尚简史.md",
+                "file": "dailyTask/2022-06-01 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trans/化妆/时尚简史.md"
+                "file": "dailyTask/2022-06-01 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
-    "trans/化妆/时尚简史.md",
     "dailyTask/2022-06-01 📅.md",
-    "trans/化妆/化妆书籍.md",
-    "trans/伪音/伪音Project.md",
-    "dailyTask/2022-05-31 📅.md",
-    "trans/伪音/为什么是正弦波?.md",
-    "trans/内分泌/性功能相关的激素.md",
+    "trans/随笔/真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己.md",
+    "片单.md",
     "trans/trans资源.md",
-    "trans/内分泌/性分化.md",
-    "英语/报刊资源.md"
+    "template/dailyTask.md",
+    "trans/伪音/伪音Project.md",
+    "trans/化妆/化妆书籍.md",
+    "trans/化妆/时尚简史.md",
+    "dailyTask/2022-05-31 📅.md",
+    "trans/伪音/为什么是正弦波?.md"
   ]
 }

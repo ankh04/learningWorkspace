@@ -83,3 +83,8 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 ## 名词
 飞天猫 -- ftm
 木桶饭 -- mtf
+
+
+## Reading LIst
+- 陶易的《古代“男扮女装”琐谈》
+- 中国历史上的同性恋研究: Matthew H． Sommer．“Was China Part of a Global Eighteenth-Century Homosexuality?”Historical Ｒeflections，Spring 2007，Vol． 33，No． 1，Eighteenth-Century Homosexuality in Global Perspective ( Spring 2007)
