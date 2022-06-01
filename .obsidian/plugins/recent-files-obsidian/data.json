@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "时尚简史",
+      "path": "trans/化妆/时尚简史.md"
+    },
+    {
+      "basename": "2022-06-01 📅",
+      "path": "dailyTask/2022-06-01 📅.md"
+    },
+    {
+      "basename": "化妆书籍",
+      "path": "trans/化妆/化妆书籍.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "2022-05-31 📅",
       "path": "dailyTask/2022-05-31 📅.md"
+    },
+    {
+      "basename": "为什么是正弦波?",
+      "path": "trans/伪音/为什么是正弦波?.md"
+    },
+    {
+      "basename": "性功能相关的激素",
+      "path": "trans/内分泌/性功能相关的激素.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "性分化",
+      "path": "trans/内分泌/性分化.md"
+    },
+    {
+      "basename": "报刊资源",
+      "path": "英语/报刊资源.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "前端资源",
+      "path": "javascript-learn/前端资源.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -45,24 +89,12 @@
       "path": "trans/伪音/喉咙的基本结构.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
       "basename": "优生学 生物主义论调",
       "path": "trans/随笔/优生学 生物主义论调.md"
     },
     {
       "basename": "语法",
       "path": "英语/翻译/语法.md"
-    },
-    {
-      "basename": "报刊资源",
-      "path": "英语/报刊资源.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
     },
     {
       "basename": "媒体对跨性别群体的报道(很多时候是负面的)",
@@ -79,14 +111,6 @@
     {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
-    },
-    {
-      "basename": "前端资源",
-      "path": "javascript-learn/前端资源.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
     },
     {
       "basename": "咽喉解剖",
@@ -173,32 +197,8 @@
       "path": "template/dailyEnglish.md"
     },
     {
-      "basename": "性分化",
-      "path": "trans/内分泌/性分化.md"
-    },
-    {
-      "basename": "性功能相关的激素",
-      "path": "trans/内分泌/性功能相关的激素.md"
-    },
-    {
       "basename": "2022-05-24 📅",
       "path": "dailyTask/2022-05-24 📅.md"
-    },
-    {
-      "basename": "NLP",
-      "path": "机器学习/NLP/问题/NLP.md"
-    },
-    {
-      "basename": "单词的分布式表示",
-      "path": "机器学习/NLP/单词的分布式表示.md"
-    },
-    {
-      "basename": "游戏列表",
-      "path": "游戏列表.md"
-    },
-    {
-      "basename": "概述",
-      "path": "机器学习/NLP/概述.md"
     }
   ],
   "omittedPaths": [],

@@ -54,3 +54,20 @@ he音, 舌头翘起来顶住上颚或许会比较好
 ![[0508S.mp3]]
 我的:
 ![[0508Z.mp3]]
+
+
+### [[2022-05-31 📅]]
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220531225758.png)
+男性和女性随着年龄增长基音都会下降
+
+在 Fundamental voice frequence during normal and abnormal growth, and after androgen treatment. 中, 他们在10岁前(青春期前)的孩子身上也发现了声音的性别差异, 男孩的SFF和LF都会更低. (作者猜测导致这样的原因有: 测量方法的问题, 语言学或文化上的原因)
+
+
+Quantifying the impact of androgen therapy on the female larynx
+雄性激素对喉咙的影响
+>Androgen exposure in female patients, such as is seen in congenital adrenal hyperplasia or from treatment with exogenous testosterone results in androglottia (masculine voice characteristics with typical male prominentia larynges) [3]. Histologically, testosterone administration produces thyroarytenoid muscle fiber hypertrophy and hyperplasia, epithelial parakeratosis and squamous metaplasia, and hyperplasia of seromucinous glands after 4 weeks and which is permanent after 8 weeks [4]. Perceptually, females undergoing gender reassignment have noted voice changes from anywhere from a few weeks to more than a year after starting testosterone therapy as well as decreased pitch range and singing ability, although these changes are not well quantified
+
+Voice in female-to-male transsexual persons after long-term androgen therapy: Voice in Female-to-Male Transsexuals 中提到经过激素治疗的FTM的声音也不都是没有问题的
+>Although FMT after long-term androgen therapy as a group display an acceptable male voice, individual results confirm the previous finding that voice change in FMT is not always totally unproblematic.
+
+**问题:** 什么是CAG repeat?

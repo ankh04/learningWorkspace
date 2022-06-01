@@ -77,3 +77,9 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 [卫报](https://www.theguardian.com/commentisfree/commentisfree+society/transgender)
 
 [terf的历史](https://www.nytimes.com/2019/02/07/opinion/terf-trans-women-britain.html)
+
+
+
+## 名词
+飞天猫 -- ftm
+木桶饭 -- mtf
