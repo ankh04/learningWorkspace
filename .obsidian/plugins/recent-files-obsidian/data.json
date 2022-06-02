@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-02 📅",
+      "path": "dailyTask/2022-06-02 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
       "basename": "2022-06-01 📅",
       "path": "dailyTask/2022-06-01 📅.md"
     },
@@ -9,16 +21,8 @@
       "path": "trans/随笔/真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "trans资源",
       "path": "trans/trans资源.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "伪音Project",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-05-25 📅",
       "path": "dailyTask/2022-05-25 📅.md"
-    },
-    {
-      "basename": "dailyEnglish",
-      "path": "template/dailyEnglish.md"
     }
   ],
   "omittedPaths": [],

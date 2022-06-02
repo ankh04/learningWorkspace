@@ -22,7 +22,6 @@ for(i=0;i<numberOfPrompts;i++) {
 - [ ] [跨性别文献](https://transreads.org/tag/article/)
 - [ ] [前端](https://web.qianguyihao.com)
 - [ ] [知识星球](http://svip.iocoder.cn/index/index.html)
-- [ ] [化妆](https://www.bilibili.com/video/BV1iU4y1L7G2?p=2)
 - [ ] [英语长难句](https://www.bilibili.com/video/BV1mC4y1p7Fh?p=154)
 
 ## Learning Task 🎯
