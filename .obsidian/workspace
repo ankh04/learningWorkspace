@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-06-02 📅.md",
+            "file": "trans/化妆/化妆书籍.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-06-02 📅.md",
+                "file": "trans/化妆/化妆书籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-06-02 📅.md",
+                "file": "trans/化妆/化妆书籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-06-02 📅.md"
+                "file": "trans/化妆/化妆书籍.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
+    "trans/化妆/化妆书籍.md",
     "dailyTask/2022-06-02 📅.md",
     "template/dailyTask.md",
     "片单.md",
@@ -185,7 +186,6 @@
     "trans/随笔/真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己.md",
     "trans/trans资源.md",
     "trans/伪音/伪音Project.md",
-    "trans/化妆/化妆书籍.md",
     "trans/化妆/时尚简史.md",
     "dailyTask/2022-05-31 📅.md"
   ]
