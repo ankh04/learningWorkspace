@@ -5,6 +5,30 @@
       "path": "dailyTask/2022-06-03 📅.md"
     },
     {
+      "basename": "堆",
+      "path": "java-learn/JVM/堆.md"
+    },
+    {
+      "basename": "字节码",
+      "path": "java-learn/JVM/字节码.md"
+    },
+    {
+      "basename": "虚拟机栈",
+      "path": "java-learn/JVM/虚拟机栈.md"
+    },
+    {
+      "basename": "类加载子系统",
+      "path": "java-learn/JVM/类加载子系统.md"
+    },
+    {
+      "basename": "程序计数器(Program Counter Register)",
+      "path": "java-learn/JVM/程序计数器(Program Counter Register).md"
+    },
+    {
+      "basename": "本地方法",
+      "path": "java-learn/JVM/本地方法.md"
+    },
+    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "踩坑记录",
       "path": "java-learn/踩坑记录.md"
-    },
-    {
-      "basename": "2022-02-23 📅",
-      "path": "dailyTask/2022-02-23 📅.md"
-    },
-    {
-      "basename": "2022-02-22 📅",
-      "path": "dailyTask/2022-02-22 📅.md"
-    },
-    {
-      "basename": "2022-01-29 📅",
-      "path": "dailyTask/2022-01-29 📅.md"
-    },
-    {
-      "basename": "2022-05-27 📅",
-      "path": "dailyTask/2022-05-27 📅.md"
-    },
-    {
-      "basename": "2022-05-26 📅",
-      "path": "dailyTask/2022-05-26 📅.md"
-    },
-    {
-      "basename": "learning plan",
-      "path": "learning plan.md"
     }
   ],
   "omittedPaths": [],
