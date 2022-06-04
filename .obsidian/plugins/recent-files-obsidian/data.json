@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-04 📅",
+      "path": "dailyTask/2022-06-04 📅.md"
+    },
+    {
+      "basename": "性激素与喉咙",
+      "path": "trans/内分泌/性激素与喉咙/性激素与喉咙.md"
+    },
+    {
+      "basename": "前端资源",
+      "path": "javascript-learn/前端资源.md"
+    },
+    {
       "basename": "2022-06-03 📅",
       "path": "dailyTask/2022-06-03 📅.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "我的服务",
       "path": "我的服务.md"
-    },
-    {
-      "basename": "前端资源",
-      "path": "javascript-learn/前端资源.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -191,14 +199,6 @@
     {
       "basename": "todo list",
       "path": "todo list.md"
-    },
-    {
-      "basename": "利用mvn命令创建项目",
-      "path": "java-learn/Maven/利用mvn命令创建项目.md"
-    },
-    {
-      "basename": "踩坑记录",
-      "path": "java-learn/踩坑记录.md"
     }
   ],
   "omittedPaths": [],
