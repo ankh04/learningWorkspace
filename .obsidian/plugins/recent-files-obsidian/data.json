@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-05 📅",
+      "path": "dailyTask/2022-06-05 📅.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
       "basename": "2022-06-04 📅",
       "path": "dailyTask/2022-06-04 📅.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2022-06-03 📅",
       "path": "dailyTask/2022-06-03 📅.md"
-    },
-    {
-      "basename": "片单",
-      "path": "片单.md"
     },
     {
       "basename": "堆",
@@ -195,10 +199,6 @@
     {
       "basename": "定时任务",
       "path": "linux-learn/定时任务.md"
-    },
-    {
-      "basename": "todo list",
-      "path": "todo list.md"
     }
   ],
   "omittedPaths": [],
