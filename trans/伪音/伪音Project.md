@@ -35,6 +35,9 @@
 
 [变细练习](https://docs.google.com/document/d/16Yv30tSd7qRvhULK-mdmw8jVWiiiVISGn0vPcmEgHtU/edit)
 
+
+[发声原理](https://newt.phys.unsw.edu.au/jw/voice.html)
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 
