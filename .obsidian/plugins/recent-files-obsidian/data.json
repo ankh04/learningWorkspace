@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-06-06 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "HTML基础",
+      "path": "javascript-learn/问题/HTML基础.md"
+    },
+    {
+      "basename": "1-3-2庸俗存在主义",
+      "path": "reading note/哲学/主义主义/1/1-3-2庸俗存在主义.md"
+    },
+    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
     },
@@ -117,14 +129,6 @@
       "path": "我的服务.md"
     },
     {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
-      "basename": "HTML基础",
-      "path": "javascript-learn/问题/HTML基础.md"
-    },
-    {
       "basename": "Web的概念",
       "path": "java-learn/JavaWeb/Web的运作原理/Web的概念.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "福柯",
       "path": "reading note/哲学/福柯.md"
-    },
-    {
-      "basename": "戴锦华",
-      "path": "trans/女性主义/戴锦华.md"
     }
   ],
   "omittedPaths": [],
