@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-06 📅",
+      "path": "dailyTask/2022-06-06 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "朴素唯心主义",
+      "path": "reading note/哲学/主义主义/1/朴素唯心主义.md"
+    },
+    {
+      "basename": "前端资源",
+      "path": "javascript-learn/前端资源.md"
+    },
+    {
+      "basename": "trans资源",
+      "path": "trans/trans资源.md"
+    },
+    {
+      "basename": "价值哲学",
+      "path": "reading note/哲学/价值哲学.md"
+    },
+    {
       "basename": "2022-06-05 📅",
       "path": "dailyTask/2022-06-05 📅.md"
     },
@@ -9,20 +37,12 @@
       "path": "trans/伪音/伪音Project.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "2022-06-04 📅",
       "path": "dailyTask/2022-06-04 📅.md"
     },
     {
       "basename": "性激素与喉咙",
       "path": "trans/内分泌/性激素与喉咙/性激素与喉咙.md"
-    },
-    {
-      "basename": "前端资源",
-      "path": "javascript-learn/前端资源.md"
     },
     {
       "basename": "2022-06-03 📅",
@@ -61,20 +81,12 @@
       "path": "trans/化妆/化妆书籍.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
       "basename": "2022-06-01 📅",
       "path": "dailyTask/2022-06-01 📅.md"
     },
     {
       "basename": "真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己",
       "path": "trans/随笔/真相是什么? 真相是我们都是孤独的, 我们只能自己拯救自己.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
     },
     {
       "basename": "时尚简史",
@@ -187,18 +199,6 @@
     {
       "basename": "戴锦华",
       "path": "trans/女性主义/戴锦华.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Idea",
-      "path": "java-learn/Idea.md"
-    },
-    {
-      "basename": "定时任务",
-      "path": "linux-learn/定时任务.md"
     }
   ],
   "omittedPaths": [],
