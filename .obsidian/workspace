@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trans/随笔/跨性别刻奇.md",
+            "file": "dailyTask/2022-06-07 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trans/随笔/跨性别刻奇.md",
+                "file": "dailyTask/2022-06-07 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trans/随笔/跨性别刻奇.md",
+                "file": "dailyTask/2022-06-07 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trans/随笔/跨性别刻奇.md"
+                "file": "dailyTask/2022-06-07 📅.md"
               }
             }
           },
@@ -178,11 +178,11 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
+    "dailyTask/2022-06-07 📅.md",
     "trans/随笔/跨性别刻奇.md",
     "reading note/哲学/主义主义/1/1-3-2/1-3-2-1 现代斯多葛主义 Modern Stoicism.md",
     "reading note/哲学/主义主义/1/1-3-2/1-3-2-2 现代犬儒主义.md",
     "编译器/语法分析/问题/编译器-语法分析.md",
-    "dailyTask/2022-06-07 📅.md",
     "java-learn/语言基础/问题/Java语言基础.md",
     "片单.md",
     "Daily-Journal-Prompts.md",
