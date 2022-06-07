@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-06 📅",
-      "path": "dailyTask/2022-06-06 📅.md"
+      "basename": "2022-06-07 📅",
+      "path": "dailyTask/2022-06-07 📅.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "2022-06-06 📅",
+      "path": "dailyTask/2022-06-06 📅.md"
     },
     {
       "basename": "HTML基础",
@@ -23,10 +31,6 @@
     {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
-    },
-    {
-      "basename": "片单",
-      "path": "片单.md"
     },
     {
       "basename": "朴素唯心主义",
@@ -195,10 +199,6 @@
     {
       "basename": "摘抄",
       "path": "trans/跨性别历史/摘抄.md"
-    },
-    {
-      "basename": "福柯",
-      "path": "reading note/哲学/福柯.md"
     }
   ],
   "omittedPaths": [],
