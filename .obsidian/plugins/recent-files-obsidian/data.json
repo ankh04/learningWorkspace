@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-06-07 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "HTML基础",
+      "path": "javascript-learn/问题/HTML基础.md"
+    },
+    {
       "basename": "当代网络文化",
       "path": "trans/随笔/当代网络文化.md"
     },
@@ -25,24 +37,12 @@
       "path": "编译器/语法分析/问题/编译器-语法分析.md"
     },
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
       "basename": "片单",
       "path": "片单.md"
     },
     {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
       "basename": "2022-06-06 📅",
       "path": "dailyTask/2022-06-06 📅.md"
-    },
-    {
-      "basename": "HTML基础",
-      "path": "javascript-learn/问题/HTML基础.md"
     },
     {
       "basename": "1-3-2庸俗存在主义",

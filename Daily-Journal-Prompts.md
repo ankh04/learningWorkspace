@@ -231,3 +231,15 @@ HTML基础#html中如何换行?
 HTML基础#a标签有哪些常用属性?
 
 HTML基础#img标签有哪些重要属性?
+
+Java语言基础#集合与数组之间怎么转换?
+
+Java语言基础#集合判空有哪几种方法?
+
+Java语言基础#Collections 工具类有哪些常用方法?
+
+Java语言基础#HashSet检查重复的方式?
+
+Java语言基础#HashMap和TreeMap的区别?
+
+Java语言基础#为什么HashMap的长度是2的幂次方?
