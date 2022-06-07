@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-06-07 📅.md"
     },
     {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
       "basename": "片单",
       "path": "片单.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "检测是否是数组的方法",
       "path": "javascript-learn/js面试题/检测是否是数组的方法.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "计算机网络Project",

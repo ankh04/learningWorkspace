@@ -678,3 +678,79 @@ public  class Person implements Comparable<Person> {
 -   `PriorityQueue` 通过堆元素的上浮和下沉，实现了在 O(logn) 的时间复杂度内插入元素和删除堆顶元素。
 -   `PriorityQueue` 是非线程安全的，且不支持存储 `NULL` 和 `non-comparable` 的对象。
 -   `PriorityQueue` 默认是小顶堆，但可以接收一个 `Comparator` 作为构造参数，从而来自定义元素优先级的先后。
+
+## 为什么HashMap的长度是2的幂次方?
+为了方便取余:
+hashcode % n == hashcode & (n - 1)
+如果n是2的幂次方, 上述等式成立
+
+## HashMap和TreeMap的区别?
+TreeMap底层是红黑树, 会比HashMap多一个搜索的能力.
+
+## HashSet检查重复的方式?
+先比较hashcode, 如果hashcode不同, 则两个值肯定不同
+如果hashcode相同, 再使用 equals() 方法比较两个值.
+
+## Collections 工具类有哪些常用方法?
+主要分为两大类, `排序`和`查找替换`
+**排序:**
+```java
+
+void reverse(List list)//反转
+void shuffle(List list)//随机排序
+void sort(List list)//按自然排序的升序排序
+void sort(List list, Comparator c)//定制排序，由Comparator控制排序逻辑
+void swap(List list, int i , int j)//交换两个索引位置的元素
+void rotate(List list, int distance)//旋转。当distance为正数时，将list后distance个元素整体移到前面。当distance为负数时，将 list的前distance个元素整体移到后面
+
+```
+
+**查找, 替换**
+```java
+int binarySearch(List list, Object key)//对List进行二分查找，返回索引，注意List必须是有序的
+int max(Collection coll)//根据元素的自然顺序，返回最大的元素。 类比int min(Collection coll)
+int max(Collection coll, Comparator c)//根据定制排序，返回最大元素，排序规则由Comparatator类控制。类比int min(Collection coll, Comparator c)
+void fill(List list, Object obj)//用指定的元素代替指定list中的所有元素
+int frequency(Collection c, Object o)//统计元素出现次数
+int indexOfSubList(List list, List target)//统计target在list中第一次出现的索引，找不到则返回-1，类比int lastIndexOfSubList(List source, list target)
+boolean replaceAll(List list, Object oldVal, Object newVal)//用新元素替换旧元素
+```
+
+## 集合判空有哪几种方法?
+- 通过 isEmpty()方法
+- 通过 size() == 0判断
+推荐使用第一种, 因为可读性更好, 而且时间复杂度为O(1), 在涉及到同步的集合中, 第二种方法的复杂度将不是O(1)
+
+
+## 集合与数组之间怎么转换?
+数组转集合
+```java
+String [] s= new String[]{
+    "dog", "lazy", "a", "over", "jumps", "fox", "brown", "quick", "A"
+};
+List<String> list = Arrays.asList(s);
+```
+```ad-note
+注意, 在使用asList的时候, 传递的数组必须是对象数组, 而不是基本类型数组
+
+另外, asList转换得到的结果并不是`ArrayList`, 而是普通的 Arrays. 进而不能使用 remove add 这样的方法. 可以使用下面的方法转换成 ArrayList
+new ArrayList<>(Arrays.asList(s));
+或者是
+List.of(s); // java9
+```
+*错误:*
+```java
+int[] myArray = {1, 2, 3};
+List myList = Arrays.asList(myArray);
+```
+*正确:*
+```java
+Integer[] myArray = {1, 2, 3};
+List myList = Arrays.asList(myArray);
+```
+
+集合转数组
+```java
+List<Strig> list = new ArrayList<>();
+String[] s=list.toArray(new String[0]);
+```
