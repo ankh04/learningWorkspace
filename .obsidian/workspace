@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily-Journal-Prompts.md",
+            "file": "dailyTask/2022-06-08 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Journal-Prompts.md",
+                "file": "dailyTask/2022-06-08 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Journal-Prompts.md",
+                "file": "dailyTask/2022-06-08 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Journal-Prompts.md"
+                "file": "dailyTask/2022-06-08 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "fa6d357073db5525",
   "lastOpenFiles": [
+    "dailyTask/2022-06-08 📅.md",
+    "trans/人权.md",
+    "trans/历史事件/中国.md",
     "Daily-Journal-Prompts.md",
     "java-learn/并发/问题/Java并发.md",
     "javascript-learn/问题/HTML基础.md",
     "java-learn/语言基础/问题/Java语言基础.md",
     "java-learn/语言基础/多线程/程序 线程 进程.md",
     "操作系统/0.什么是操作系统/操作系统提供的接口.md",
-    "java-learn/并发/并发简介.md",
-    "java-learn/并发/并发基础概念/并发基础概念.md",
-    "java-learn/JVM/本地方法.md",
-    "dailyTask/2022-06-08 📅.md"
+    "java-learn/并发/并发简介.md"
   ]
 }

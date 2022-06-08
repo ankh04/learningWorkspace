@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-08 📅",
+      "path": "dailyTask/2022-06-08 📅.md"
+    },
+    {
+      "basename": "人权",
+      "path": "trans/人权.md"
+    },
+    {
+      "basename": "中国",
+      "path": "trans/历史事件/中国.md"
+    },
+    {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "本地方法",
       "path": "java-learn/JVM/本地方法.md"
-    },
-    {
-      "basename": "2022-06-08 📅",
-      "path": "dailyTask/2022-06-08 📅.md"
     },
     {
       "basename": "2022-06-07 📅",
@@ -191,14 +199,6 @@
     {
       "basename": "箭头函数与普通函数的实用场景",
       "path": "javascript-learn/js面试题/箭头函数与普通函数的实用场景.md"
-    },
-    {
-      "basename": "检测是否是数组的方法",
-      "path": "javascript-learn/js面试题/检测是否是数组的方法.md"
-    },
-    {
-      "basename": "计算机网络Project",
-      "path": "计算机网络/计算机网络Project.md"
     }
   ],
   "omittedPaths": [],
