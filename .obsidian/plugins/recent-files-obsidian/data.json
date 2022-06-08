@@ -5,6 +5,42 @@
       "path": "dailyTask/2022-06-08 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Spring基础",
+      "path": "java-learn/Spring Framework/问题/Spring基础.md"
+    },
+    {
+      "basename": "SpringIoC",
+      "path": "java-learn/Spring Framework/问题/SpringIoC.md"
+    },
+    {
+      "basename": "2.BeanFactory的实现",
+      "path": "java-learn/Spring Framework/源码分析/2.BeanFactory的实现.md"
+    },
+    {
+      "basename": "1.BeanFactory接口和ApplicationContext接口",
+      "path": "java-learn/Spring Framework/源码分析/1.BeanFactory接口和ApplicationContext接口.md"
+    },
+    {
+      "basename": "依赖注入",
+      "path": "java-learn/Spring Framework/依赖注入.md"
+    },
+    {
+      "basename": "bean作用域",
+      "path": "java-learn/Spring Framework/bean作用域.md"
+    },
+    {
+      "basename": "源码测试",
+      "path": "java-learn/Spring Framework/源码测试.md"
+    },
+    {
+      "basename": "基本概念",
+      "path": "java-learn/Spring Framework/基本概念.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "中国",
       "path": "trans/历史事件/中国.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "Java并发",
@@ -167,38 +199,6 @@
     {
       "basename": "2022-05-31 📅",
       "path": "dailyTask/2022-05-31 📅.md"
-    },
-    {
-      "basename": "为什么是正弦波?",
-      "path": "trans/伪音/为什么是正弦波?.md"
-    },
-    {
-      "basename": "性功能相关的激素",
-      "path": "trans/内分泌/性功能相关的激素.md"
-    },
-    {
-      "basename": "性分化",
-      "path": "trans/内分泌/性分化.md"
-    },
-    {
-      "basename": "报刊资源",
-      "path": "英语/报刊资源.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
-    },
-    {
-      "basename": "Web的概念",
-      "path": "java-learn/JavaWeb/Web的运作原理/Web的概念.md"
-    },
-    {
-      "basename": "什么是类数组",
-      "path": "javascript-learn/js面试题/什么是类数组.md"
-    },
-    {
-      "basename": "箭头函数与普通函数的实用场景",
-      "path": "javascript-learn/js面试题/箭头函数与普通函数的实用场景.md"
     }
   ],
   "omittedPaths": [],
