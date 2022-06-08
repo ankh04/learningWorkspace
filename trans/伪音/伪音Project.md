@@ -38,6 +38,10 @@
 
 [发声原理](https://newt.phys.unsw.edu.au/jw/voice.html)
 
+[messa di voce](https://www.youtube.com/watch?v=3wYQOF2ltig)
+
+[manim](https://github.com/3b1b/manim)
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 
@@ -74,3 +78,35 @@ Voice in female-to-male transsexual persons after long-term androgen therapy: Vo
 >Although FMT after long-term androgen therapy as a group display an acceptable male voice, individual results confirm the previous finding that voice change in FMT is not always totally unproblematic.
 
 **问题:** 什么是CAG repeat?
+
+
+## [[2022-06-08 📅]]
+[messa di voce](https://www.youtube.com/watch?v=3wYQOF2ltig)
+
+吉他振动的动力学分析
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220608171446.png)
+
+[共振峰](https://zhuanlan.zhihu.com/p/58506683)
+
+**共振**
+当激励频率等于弹簧振子固有频率时，
+
+力的作用方向将和
+
+振子运动方向一直保持一致，
+
+这就意味着激励力
+
+对振子做功的功率永远为正，
+
+于是振子能量会越来越大，
+
+相应地，振幅也就会越来越大。
+
+这就是共振现象。
+
+**固有频率**
+在对单摆的研究中, 我们发现在没有外力干预的情况下, 单摆做简谐运动, 周期与振幅无关, 仅由系统自身的性质决定, 这种振动频率称为固有频率.
+
+**单摆**
+https://baike.baidu.com/item/单摆/1101702

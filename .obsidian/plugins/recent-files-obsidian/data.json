@@ -5,6 +5,14 @@
       "path": "dailyTask/2022-06-08 📅.md"
     },
     {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "人权",
       "path": "trans/人权.md"
     },
@@ -83,14 +91,6 @@
     {
       "basename": "1-3-2庸俗存在主义",
       "path": "reading note/哲学/主义主义/1/1-3-2/1-3-2庸俗存在主义.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "朴素唯心主义",
