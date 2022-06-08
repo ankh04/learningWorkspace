@@ -243,3 +243,21 @@ Java语言基础#HashSet检查重复的方式?
 Java语言基础#HashMap和TreeMap的区别?
 
 Java语言基础#为什么HashMap的长度是2的幂次方?
+
+HTML基础#form标签有哪些重要属性?
+
+HTML基础#button标签有哪些重要属性?
+
+HTML基础#input标签有哪些重要属性?
+
+HTML基础#input标签相关的伪类有哪些?
+
+HTML基础#html 元素的默认样式是什么? 怎么取消默认样式?
+
+HTML基础#HTML5有什么新变化?
+
+Java并发#线程的生命周期和状态有哪些? 是如何变化的?
+
+Java并发#为什么我们调用 start() 方法时会执行 run() 方法，为什么我们不能直接调用 run() 方法？
+
+Java并发#说说 sleep() 方法和 wait() 方法区别和共同点?

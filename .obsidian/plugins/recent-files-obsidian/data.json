@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-08 📅",
-      "path": "dailyTask/2022-06-08 📅.md"
-    },
-    {
-      "basename": "2022-06-07 📅",
-      "path": "dailyTask/2022-06-07 📅.md"
-    },
-    {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java并发",
+      "path": "java-learn/并发/问题/Java并发.md"
+    },
+    {
+      "basename": "HTML基础",
+      "path": "javascript-learn/问题/HTML基础.md"
     },
     {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
-      "basename": "HTML基础",
-      "path": "javascript-learn/问题/HTML基础.md"
+      "basename": "程序 线程 进程",
+      "path": "java-learn/语言基础/多线程/程序 线程 进程.md"
+    },
+    {
+      "basename": "操作系统提供的接口",
+      "path": "操作系统/0.什么是操作系统/操作系统提供的接口.md"
+    },
+    {
+      "basename": "并发简介",
+      "path": "java-learn/并发/并发简介.md"
+    },
+    {
+      "basename": "并发基础概念",
+      "path": "java-learn/并发/并发基础概念/并发基础概念.md"
+    },
+    {
+      "basename": "本地方法",
+      "path": "java-learn/JVM/本地方法.md"
+    },
+    {
+      "basename": "2022-06-08 📅",
+      "path": "dailyTask/2022-06-08 📅.md"
+    },
+    {
+      "basename": "2022-06-07 📅",
+      "path": "dailyTask/2022-06-07 📅.md"
     },
     {
       "basename": "当代网络文化",
@@ -113,10 +137,6 @@
       "path": "java-learn/JVM/程序计数器(Program Counter Register).md"
     },
     {
-      "basename": "本地方法",
-      "path": "java-learn/JVM/本地方法.md"
-    },
-    {
       "basename": "2022-06-02 📅",
       "path": "dailyTask/2022-06-02 📅.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "计算机网络Project",
       "path": "计算机网络/计算机网络Project.md"
-    },
-    {
-      "basename": "喉咙的基本结构",
-      "path": "trans/伪音/喉咙的基本结构.md"
-    },
-    {
-      "basename": "优生学 生物主义论调",
-      "path": "trans/随笔/优生学 生物主义论调.md"
-    },
-    {
-      "basename": "语法",
-      "path": "英语/翻译/语法.md"
-    },
-    {
-      "basename": "媒体对跨性别群体的报道(很多时候是负面的)",
-      "path": "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md"
-    },
-    {
-      "basename": "武汉天街杀人案件",
-      "path": "trans/随笔/武汉天街杀人案件.md"
     }
   ],
   "omittedPaths": [],

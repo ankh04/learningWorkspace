@@ -142,3 +142,129 @@ img标签是web用来展示图片的, 是很重要的标签
 - high
 - low
 - auto 默认行为
+
+## form标签有哪些重要属性?
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+    <label for="name">Enter your name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <input type="submit" value="Subscribe!">
+  </div>
+</form>
+
+```html
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+    <label for="name">Enter your name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <input type="submit" value="Subscribe!">
+  </div>
+</form>
+```
+**method**
+提交时使用的http方法
+
+**action**
+处理提交操作的URL.
+可以被提交按钮的 `formaction` 覆盖
+
+**target**
+定义提交后的返回结果呈现在哪里, 可以有四种值:
+- `_self` 默认行为
+- `_parent`
+- `_blank`
+- `_top`
+
+## button标签有哪些重要属性?
+<button class="favorite styled"
+        type="button">
+    Add to favorites
+</button>
+
+```html
+<button class="favorite styled"
+        type="button">
+    Add to favorites
+</button>
+```
+
+**disabled**
+设置这个属性后, 按钮将不能按下或获取焦点
+
+**form**
+用来指定当前按钮关联的form标签(用id关联)
+如果没有设定这个属性, 会自动取祖先form标签作为关联form
+
+**formaction**
+覆盖form标签的action行为
+
+**formtartget**
+覆盖form标签的target行为
+
+**type**
+用来指定当前按钮的行为, 有三种值:
+- submit:  默认值
+- reset: 重置button控制的标签为初始值
+- button
+
+```ad-note
+如果button不是用来提交表单的话, 记得必须设置type属性为button. 否则可能会破坏文档的状态.
+```
+## input标签有哪些重要属性?
+input是一个很复杂的标签, 根据type的不同, input标签可以表现不同的行为.
+
+type可以为:
+- button
+- checkbox
+- color
+- date
+- email
+- file
+- hidden
+- image
+- month
+- number
+- password
+- reset
+- range
+- radio
+- text
+- submit
+- url
+- week
+
+## input标签相关的伪类有哪些?
+`:enable`
+`:disabled`
+`:blank`
+`:check`
+
+## html 元素的默认样式是什么? 怎么取消默认样式?
+浏览器会自带一些默认样式(这些默认样式的优先级很低)
+
+如果我们不需要这些默认样式, 可以用一些 CSS Reset 方案
+- CSS Tools: Reset CSS。链接：[https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/)[](https://meyerweb.com/eric/tools/css/reset/)
+- 雅虎的CSS Reset, 可以通过CDN方式引入:
+```html
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+```
+
+使用CSS Reset的弊端是, 可能会拖慢CSS解析
+
+## HTML5有什么新变化?
+- 新的语义化元素
+- 表单增强
+- 新的API: 持久化, 图形, 拖拽, 设备能力(视频, 拍照等)
+
