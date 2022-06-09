@@ -5,8 +5,16 @@
       "path": "dailyTask/2022-06-09 📅.md"
     },
     {
+      "basename": "CSS基础",
+      "path": "javascript-learn/问题/CSS基础.md"
+    },
+    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "咽喉解剖",
@@ -39,10 +47,6 @@
     {
       "basename": "2022-06-08 📅",
       "path": "dailyTask/2022-06-08 📅.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "Spring基础",
@@ -195,10 +199,6 @@
     {
       "basename": "类加载子系统",
       "path": "java-learn/JVM/类加载子系统.md"
-    },
-    {
-      "basename": "程序计数器(Program Counter Register)",
-      "path": "java-learn/JVM/程序计数器(Program Counter Register).md"
     }
   ],
   "omittedPaths": [],
