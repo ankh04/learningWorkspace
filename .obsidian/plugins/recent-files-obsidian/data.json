@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-09 📅",
+      "path": "dailyTask/2022-06-09 📅.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "Java并发",
+      "path": "java-learn/并发/问题/Java并发.md"
+    },
+    {
       "basename": "2022-06-08 📅",
       "path": "dailyTask/2022-06-08 📅.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -45,10 +61,6 @@
       "path": "template/dailyTask.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
       "basename": "人权",
       "path": "trans/人权.md"
     },
@@ -57,16 +69,8 @@
       "path": "trans/历史事件/中国.md"
     },
     {
-      "basename": "Java并发",
-      "path": "java-learn/并发/问题/Java并发.md"
-    },
-    {
       "basename": "HTML基础",
       "path": "javascript-learn/问题/HTML基础.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "程序 线程 进程",
@@ -195,10 +199,6 @@
     {
       "basename": "时尚简史",
       "path": "trans/化妆/时尚简史.md"
-    },
-    {
-      "basename": "2022-05-31 📅",
-      "path": "dailyTask/2022-05-31 📅.md"
     }
   ],
   "omittedPaths": [],

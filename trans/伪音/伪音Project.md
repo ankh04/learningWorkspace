@@ -36,7 +36,7 @@
 [变细练习](https://docs.google.com/document/d/16Yv30tSd7qRvhULK-mdmw8jVWiiiVISGn0vPcmEgHtU/edit)
 
 
-[发声原理](https://newt.phys.unsw.edu.au/jw/voice.html)
+[发声原理](https://newt.phys.unsw.edu.au/jw/voice.html) (已阅)
 
 [messa di voce](https://www.youtube.com/watch?v=3wYQOF2ltig)
 
