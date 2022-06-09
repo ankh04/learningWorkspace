@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-06-09 📅.md",
+            "file": "Daily-Journal-Prompts.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-06-09 📅.md",
+                "file": "Daily-Journal-Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-06-09 📅.md",
+                "file": "Daily-Journal-Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-06-09 📅.md"
+                "file": "Daily-Journal-Prompts.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "04ecf5c1fef29840",
   "lastOpenFiles": [
-    "dailyTask/2022-06-09 📅.md",
-    "javascript-learn/问题/CSS基础.md",
-    "trans/伪音/伪音Project.md",
     "Daily-Journal-Prompts.md",
+    "javascript-learn/问题/CSS基础.md",
+    "learning plan.md",
+    "dailyTask/2022-06-09 📅.md",
+    "trans/伪音/伪音Project.md",
     "trans/伪音/咽喉解剖.md",
     "trans/伪音/喉咙的基本结构.md",
     "trans/跨性别哲学/哲学的重要性.md",
     "reading note/哲学/主义主义/1/1-3-4/1-3-4 直觉主义 体验主义.md",
-    "reading note/哲学/主义主义/1/1-3-3/1-3-3-1奋斗逼.md",
-    "java-learn/语言基础/问题/Java语言基础.md"
+    "reading note/哲学/主义主义/1/1-3-3/1-3-3-1奋斗逼.md"
   ]
 }
