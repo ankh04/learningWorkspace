@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-06-10 📅.md"
     },
     {
+      "basename": "有机化学",
+      "path": "trans/生物/有机化学.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "CSS基础",
+      "path": "javascript-learn/问题/CSS基础.md"
+    },
+    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
-    },
-    {
-      "basename": "CSS基础",
-      "path": "javascript-learn/问题/CSS基础.md"
     },
     {
       "basename": "learning plan",
@@ -149,10 +157,6 @@
       "path": "编译器/语法分析/问题/编译器-语法分析.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "2022-06-06 📅",
       "path": "dailyTask/2022-06-06 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "堆",
       "path": "java-learn/JVM/堆.md"
-    },
-    {
-      "basename": "字节码",
-      "path": "java-learn/JVM/字节码.md"
     }
   ],
   "omittedPaths": [],
