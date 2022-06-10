@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-10 📅",
+      "path": "dailyTask/2022-06-10 📅.md"
+    },
+    {
+      "basename": "咽喉解剖",
+      "path": "trans/伪音/咽喉解剖.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "2022-06-09 📅",
+      "path": "dailyTask/2022-06-09 📅.md"
+    },
+    {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
     },
@@ -11,18 +31,6 @@
     {
       "basename": "learning plan",
       "path": "learning plan.md"
-    },
-    {
-      "basename": "2022-06-09 📅",
-      "path": "dailyTask/2022-06-09 📅.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "咽喉解剖",
-      "path": "trans/伪音/咽喉解剖.md"
     },
     {
       "basename": "喉咙的基本结构",
@@ -39,10 +47,6 @@
     {
       "basename": "1-3-3-1奋斗逼",
       "path": "reading note/哲学/主义主义/1/1-3-3/1-3-3-1奋斗逼.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "Java并发",
@@ -195,10 +199,6 @@
     {
       "basename": "字节码",
       "path": "java-learn/JVM/字节码.md"
-    },
-    {
-      "basename": "虚拟机栈",
-      "path": "java-learn/JVM/虚拟机栈.md"
     }
   ],
   "omittedPaths": [],
