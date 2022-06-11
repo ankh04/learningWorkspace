@@ -69,7 +69,7 @@ _A Critical Introduction to Queer Theory._ New York University Press, 2003
 [杜克大学的跨性别期刊](https://read.dukeupress.edu/tsq)
 
 ## 名人
-跨性别哲学家[Talia Bettcher](https://philpeople.org/profiles/talia-bettcher)
+酷儿理论哲学家[Talia Bettcher](https://philpeople.org/profiles/talia-bettcher)
 
 
 
