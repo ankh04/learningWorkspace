@@ -28,6 +28,9 @@
 咬紧字头归字尾，阴阳上去记变声。  
 循序渐进坚持练，不难达到纯和清。
 
+![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220611151818.png)
+
+
 [四字歌](https://www.bilibili.com/video/BV19J411a7uB)
 
 
