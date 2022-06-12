@@ -12,7 +12,8 @@
 
 - [ ] 使用digital garden发布obsidian的vaults
 
-
+- [ ] [语言哲学](https://www.bilibili.com/video/BV1hL4y1b73o)
+- [ ] [英语长难句](https://www.bilibili.com/video/BV1mC4y1p7Fh?p=154)
 
 ## 近期
 补基础

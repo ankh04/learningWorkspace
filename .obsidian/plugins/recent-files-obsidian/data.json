@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-06-12 📅.md"
     },
     {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "todo list",
+      "path": "todo list.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "并查集(UnionFindSet)",
       "path": "algorithm/数据结构/并查集(UnionFindSet).md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "哲学的重要性",
       "path": "trans/跨性别哲学/哲学的重要性.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "片单",
@@ -145,10 +153,6 @@
       "path": "java-learn/Spring Framework/基本概念.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
       "basename": "人权",
       "path": "trans/人权.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1-3-2-2 现代犬儒主义",
       "path": "reading note/哲学/主义主义/1/1-3-2/1-3-2-2 现代犬儒主义.md"
-    },
-    {
-      "basename": "编译器-语法分析",
-      "path": "编译器/语法分析/问题/编译器-语法分析.md"
     }
   ],
   "omittedPaths": [],

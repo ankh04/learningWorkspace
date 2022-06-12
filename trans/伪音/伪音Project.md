@@ -44,7 +44,8 @@
 [messa di voce](https://www.youtube.com/watch?v=3wYQOF2ltig)
 
 [manim](https://github.com/3b1b/manim)
-
+ 
+[陈臻嗓音女性化](https://zhuanlan.zhihu.com/p/205516268)
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 

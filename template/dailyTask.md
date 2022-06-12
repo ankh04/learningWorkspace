@@ -22,10 +22,9 @@ for(i=0;i<numberOfPrompts;i++) {
 - [ ] [跨性别文献](https://transreads.org/tag/article/)
 - [ ] [前端](https://web.qianguyihao.com)
 - [ ] [知识星球](http://svip.iocoder.cn/index/index.html)
-- [ ] [英语长难句](https://www.bilibili.com/video/BV1mC4y1p7Fh?p=154)
 - [ ] [主义主义](https://space.bilibili.com/23191782/channel/seriesdetail?sid=1424248)
 - [ ] 记录梦境
-- [ ] [语言哲学](https://www.bilibili.com/video/BV1hL4y1b73o)
+
 
 ## Learning Task 🎯
 
