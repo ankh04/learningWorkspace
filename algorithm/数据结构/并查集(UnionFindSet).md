@@ -105,3 +105,54 @@ class UnionFindNode {
 
 ## 应用场景
 并查集很适合使用在多线程操作不相交集合的情景,详情可以参考[这里](https://www.bilibili.com/video/BV1NU4y1M7rF?p=12&t=4866)的1:09:00的讲解
+
+
+## 模板
+```java
+class UnionFind {  
+    int count = 0;  
+    int[] parent;  
+    int[] rank;  
+    public UnionFind(int[] grid) {  
+        int n = grid.length;  
+  
+        parent = new int[n];  
+        rank = new int[n];  
+  
+        for (int i = 0; i < n; i++) {  
+            count++;  
+            parent[i] = i;  
+            rank[i] = 0;  
+        }    
+    }  
+    public int find (int i) {  
+        if (parent[i] != i) {  
+            parent[i] = find(parent[i]);  
+        }        return parent[i];  
+    }  
+    public boolean isSameSet(int i, int j) {  
+        if (find(i) == find(j)) {  
+            return true;  
+        }        return false;  
+    }  
+    public void union(int x, int y) {  
+        if (isSameSet(x, y)) {  
+            return;  
+        }  
+        int rootx = find(x);  
+        int rooty = find(y);  
+        if (rank[rootx] > rank[rooty]) {  
+            parent[rooty] = rootx;  
+        } else if (rank[rootx] < rank[rooty]) {  
+            parent[rootx] = rooty;  
+        } else {  
+            parent[rooty] = rootx;  
+            rank[rootx] += 1;  
+        }  
+        count--;  
+    }  
+    public int getCount() {  
+        return this.count;  
+    }  
+}
+```
