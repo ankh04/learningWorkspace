@@ -754,3 +754,9 @@ List myList = Arrays.asList(myArray);
 List<Strig> list = new ArrayList<>();
 String[] s=list.toArray(new String[0]);
 ```
+
+
+## 怎么快速找到一个数组的最大值?
+```java
+Arrays.stream(arr).max().getAsInt();
+```
