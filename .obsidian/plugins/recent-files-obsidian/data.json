@@ -5,6 +5,18 @@
       "path": "dailyTask/2022-06-13 📅.md"
     },
     {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
+      "basename": "为什么是正弦波?",
+      "path": "trans/伪音/为什么是正弦波?.md"
+    },
+    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "todo list",
       "path": "todo list.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "并查集(UnionFindSet)",
@@ -75,10 +83,6 @@
     {
       "basename": "戴锦华",
       "path": "trans/女性主义/戴锦华.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "CSS基础",
@@ -195,10 +199,6 @@
     {
       "basename": "跨性别刻奇",
       "path": "trans/随笔/跨性别刻奇.md"
-    },
-    {
-      "basename": "1-3-2-1 现代斯多葛主义 Modern Stoicism",
-      "path": "reading note/哲学/主义主义/1/1-3-2/1-3-2-1 现代斯多葛主义 Modern Stoicism.md"
     }
   ],
   "omittedPaths": [],
