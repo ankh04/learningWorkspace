@@ -60,6 +60,9 @@
 
 ![](https://picture-bed-1301848969.cos.ap-shanghai.myqcloud.com/20220613162233.png)
 
+[共鸣练习](https://www.patreon.com/posts/64908939)
+
+
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 
@@ -148,3 +151,9 @@ https://baike.baidu.com/item/单摆/1101702
 如果闭合的时间比较少, 声音就会比较轻
 
 在文章<男女嗓音源特性的比较研究>中定义为闭合开放速度比(VR)
+
+
+## [[2022-06-14 📅]]
+可以通过使用外置声源对着口腔, 改变口腔的形状用来改变共鸣
+
+可以参考使用这个噪音![[Ideal Noise for R1 practice.mp3]]
