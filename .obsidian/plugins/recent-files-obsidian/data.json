@@ -5,6 +5,38 @@
       "path": "dailyTask/2022-06-15 📅.md"
     },
     {
+      "basename": "子集遍历",
+      "path": "algorithm/leetcode/总结/子集遍历.md"
+    },
+    {
+      "basename": "链表",
+      "path": "algorithm/leetcode/总结/链表.md"
+    },
+    {
+      "basename": "单调栈",
+      "path": "algorithm/leetcode/总结/单调栈.md"
+    },
+    {
+      "basename": "算法笔记",
+      "path": "algorithm/算法笔记.md"
+    },
+    {
+      "basename": "表ADT",
+      "path": "数据结构/表ADT.md"
+    },
+    {
+      "basename": "队列ADT",
+      "path": "数据结构/队列ADT.md"
+    },
+    {
+      "basename": "栈ADT",
+      "path": "数据结构/栈ADT.md"
+    },
+    {
+      "basename": "ADT",
+      "path": "数据结构/ADT.md"
+    },
+    {
       "basename": "生词",
       "path": "英语/生词.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Java并发",
       "path": "java-learn/并发/问题/Java并发.md"
-    },
-    {
-      "basename": "2022-06-08 📅",
-      "path": "dailyTask/2022-06-08 📅.md"
-    },
-    {
-      "basename": "2.BeanFactory的实现",
-      "path": "java-learn/Spring Framework/源码分析/2.BeanFactory的实现.md"
-    },
-    {
-      "basename": "1.BeanFactory接口和ApplicationContext接口",
-      "path": "java-learn/Spring Framework/源码分析/1.BeanFactory接口和ApplicationContext接口.md"
-    },
-    {
-      "basename": "依赖注入",
-      "path": "java-learn/Spring Framework/依赖注入.md"
-    },
-    {
-      "basename": "bean作用域",
-      "path": "java-learn/Spring Framework/bean作用域.md"
-    },
-    {
-      "basename": "源码测试",
-      "path": "java-learn/Spring Framework/源码测试.md"
-    },
-    {
-      "basename": "基本概念",
-      "path": "java-learn/Spring Framework/基本概念.md"
-    },
-    {
-      "basename": "人权",
-      "path": "trans/人权.md"
     }
   ],
   "omittedPaths": [],

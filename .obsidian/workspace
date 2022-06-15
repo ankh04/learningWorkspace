@@ -179,14 +179,14 @@
   "active": "97f96707a4dfd6dd",
   "lastOpenFiles": [
     "dailyTask/2022-06-15 📅.md",
-    "英语/生词.md",
-    "操作系统/问题/并发编程.md",
-    "attachment/Ideal Noise for R1 practice.mp3",
-    "片单.md",
-    "dailyTask/2022-06-13 📅.md",
-    "操作系统/问题/操作系统概论.md",
-    "操作系统/k210/k210踩坑.md",
-    "操作系统/k210/k210资料.md",
-    "dailyTask/2022-06-14 📅.md"
+    "algorithm/leetcode/总结/子集遍历.md",
+    "algorithm/leetcode/总结/链表.md",
+    "algorithm/leetcode/总结/单调栈.md",
+    "algorithm/算法笔记.md",
+    "数据结构/表ADT.md",
+    "数据结构/队列ADT.md",
+    "数据结构/栈ADT.md",
+    "数据结构/ADT.md",
+    "英语/生词.md"
   ]
 }
