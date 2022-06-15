@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⌨️",
-      "📅",
-      "☕️",
+      "📖",
       "❓",
-      "📖"
+      "☕️",
+      "📅",
+      "⌨️"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -33,5 +33,6 @@
   "javascript-learn/前端资源.md": "📖",
   "编译器/语法分析/问题": "❓",
   "java-learn/并发/问题": "❓",
-  "java-learn/Spring Framework/问题": "❓"
+  "java-learn/Spring Framework/问题": "❓",
+  "操作系统/问题": "❓"
 }

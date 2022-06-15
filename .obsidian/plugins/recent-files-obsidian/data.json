@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-15 📅",
+      "path": "dailyTask/2022-06-15 📅.md"
+    },
+    {
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "操作系统/问题/并发编程.md"
+    },
+    {
+      "basename": "Ideal Noise for R1 practice",
+      "path": "attachment/Ideal Noise for R1 practice.mp3"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "2022-06-13 📅",
+      "path": "dailyTask/2022-06-13 📅.md"
+    },
+    {
+      "basename": "操作系统概论",
+      "path": "操作系统/问题/操作系统概论.md"
+    },
+    {
+      "basename": "k210踩坑",
+      "path": "操作系统/k210/k210踩坑.md"
+    },
+    {
+      "basename": "k210资料",
+      "path": "操作系统/k210/k210资料.md"
+    },
+    {
       "basename": "2022-06-14 📅",
       "path": "dailyTask/2022-06-14 📅.md"
     },
@@ -25,16 +61,8 @@
       "path": "java-learn/Spring Framework/源码分析/3.Bean的生命周期.md"
     },
     {
-      "basename": "2022-06-13 📅",
-      "path": "dailyTask/2022-06-13 📅.md"
-    },
-    {
       "basename": "Java语言基础",
       "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "为什么是正弦波?",
@@ -71,10 +99,6 @@
     {
       "basename": "哲学的重要性",
       "path": "trans/跨性别哲学/哲学的重要性.md"
-    },
-    {
-      "basename": "片单",
-      "path": "片单.md"
     },
     {
       "basename": "Vested interests cross-dressing & cultural anxiety",
@@ -175,30 +199,6 @@
     {
       "basename": "人权",
       "path": "trans/人权.md"
-    },
-    {
-      "basename": "HTML基础",
-      "path": "javascript-learn/问题/HTML基础.md"
-    },
-    {
-      "basename": "程序 线程 进程",
-      "path": "java-learn/语言基础/多线程/程序 线程 进程.md"
-    },
-    {
-      "basename": "操作系统提供的接口",
-      "path": "操作系统/0.什么是操作系统/操作系统提供的接口.md"
-    },
-    {
-      "basename": "并发简介",
-      "path": "java-learn/并发/并发简介.md"
-    },
-    {
-      "basename": "并发基础概念",
-      "path": "java-learn/并发/并发基础概念/并发基础概念.md"
-    },
-    {
-      "basename": "本地方法",
-      "path": "java-learn/JVM/本地方法.md"
     }
   ],
   "omittedPaths": [],
