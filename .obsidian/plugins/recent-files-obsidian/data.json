@@ -5,6 +5,46 @@
       "path": "dailyTask/2022-06-15 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "操作系统/问题/并发编程.md"
+    },
+    {
+      "basename": "NP问题",
+      "path": "algorithm/NP问题.md"
+    },
+    {
+      "basename": "媒体对跨性别群体的报道(很多时候是负面的)",
+      "path": "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md"
+    },
+    {
+      "basename": "恋声癖",
+      "path": "trans/随笔/恋声癖.md"
+    },
+    {
+      "basename": "哲学的重要性",
+      "path": "trans/跨性别哲学/哲学的重要性.md"
+    },
+    {
+      "basename": "摘抄",
+      "path": "trans/跨性别历史/摘抄.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "为什么是正弦波?",
+      "path": "trans/伪音/为什么是正弦波?.md"
+    },
+    {
       "basename": "子集遍历",
       "path": "algorithm/leetcode/总结/子集遍历.md"
     },
@@ -41,10 +81,6 @@
       "path": "英语/生词.md"
     },
     {
-      "basename": "并发编程",
-      "path": "操作系统/问题/并发编程.md"
-    },
-    {
       "basename": "Ideal Noise for R1 practice",
       "path": "attachment/Ideal Noise for R1 practice.mp3"
     },
@@ -73,10 +109,6 @@
       "path": "dailyTask/2022-06-14 📅.md"
     },
     {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
       "basename": "Spring Bean",
       "path": "java-learn/Spring Framework/问题/Spring Bean.md"
     },
@@ -91,14 +123,6 @@
     {
       "basename": "3.Bean的生命周期",
       "path": "java-learn/Spring Framework/源码分析/3.Bean的生命周期.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
-    },
-    {
-      "basename": "为什么是正弦波?",
-      "path": "trans/伪音/为什么是正弦波?.md"
     },
     {
       "basename": "2022-06-12 📅",
@@ -129,28 +153,12 @@
       "path": "dailyTask/2022-06-10 📅.md"
     },
     {
-      "basename": "哲学的重要性",
-      "path": "trans/跨性别哲学/哲学的重要性.md"
-    },
-    {
       "basename": "Vested interests cross-dressing & cultural anxiety",
       "path": "trans/阅读/Vested interests cross-dressing & cultural anxiety.md"
     },
     {
-      "basename": "恋声癖",
-      "path": "trans/随笔/恋声癖.md"
-    },
-    {
       "basename": "trans资源",
       "path": "trans/trans资源.md"
-    },
-    {
-      "basename": "媒体对跨性别群体的报道(很多时候是负面的)",
-      "path": "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "trans/跨性别历史/摘抄.md"
     },
     {
       "basename": "中国",
@@ -177,10 +185,6 @@
       "path": "dailyTask/2022-06-09 📅.md"
     },
     {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
       "basename": "learning plan",
       "path": "learning plan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1-3-3-1奋斗逼",
       "path": "reading note/哲学/主义主义/1/1-3-3/1-3-3-1奋斗逼.md"
-    },
-    {
-      "basename": "Java并发",
-      "path": "java-learn/并发/问题/Java并发.md"
     }
   ],
   "omittedPaths": [],
