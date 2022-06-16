@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-16 📅",
+      "path": "dailyTask/2022-06-16 📅.md"
+    },
+    {
       "basename": "2022-06-15 📅",
       "path": "dailyTask/2022-06-15 📅.md"
+    },
+    {
+      "basename": "2022-06-14 📅",
+      "path": "dailyTask/2022-06-14 📅.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -105,10 +113,6 @@
       "path": "操作系统/k210/k210资料.md"
     },
     {
-      "basename": "2022-06-14 📅",
-      "path": "dailyTask/2022-06-14 📅.md"
-    },
-    {
       "basename": "Spring Bean",
       "path": "java-learn/Spring Framework/问题/Spring Bean.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1-3-4 直觉主义 体验主义",
       "path": "reading note/哲学/主义主义/1/1-3-4/1-3-4 直觉主义 体验主义.md"
-    },
-    {
-      "basename": "1-3-3-1奋斗逼",
-      "path": "reading note/哲学/主义主义/1/1-3-3/1-3-3-1奋斗逼.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-06-15 📅.md",
+            "file": "dailyTask/2022-06-16 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-06-15 📅.md",
+                "file": "dailyTask/2022-06-16 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-06-15 📅.md",
+                "file": "dailyTask/2022-06-16 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-06-15 📅.md"
+                "file": "dailyTask/2022-06-16 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "97f96707a4dfd6dd",
   "lastOpenFiles": [
+    "dailyTask/2022-06-16 📅.md",
     "dailyTask/2022-06-15 📅.md",
+    "dailyTask/2022-06-14 📅.md",
     "Daily-Journal-Prompts.md",
     "java-learn/语言基础/问题/Java语言基础.md",
     "操作系统/问题/并发编程.md",
     "algorithm/NP问题.md",
     "trans/随笔/媒体对跨性别群体的报道(很多时候是负面的).md",
     "trans/随笔/恋声癖.md",
-    "trans/跨性别哲学/哲学的重要性.md",
-    "trans/跨性别历史/摘抄.md",
-    "trans/伪音/伪音Project.md"
+    "trans/跨性别哲学/哲学的重要性.md"
   ]
 }
