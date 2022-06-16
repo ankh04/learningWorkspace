@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-06-16 📅.md"
     },
     {
+      "basename": "佳士事件",
+      "path": "社会运动/佳士事件.md"
+    },
+    {
       "basename": "SpringBean",
       "path": "java-learn/Spring Framework/问题/SpringBean.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "咽喉解剖",
       "path": "trans/伪音/咽喉解剖.md"
-    },
-    {
-      "basename": "2022-06-09 📅",
-      "path": "dailyTask/2022-06-09 📅.md"
     }
   ],
   "omittedPaths": [],
