@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-17 📅",
+      "path": "dailyTask/2022-06-17 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "2022-06-16 📅",
       "path": "dailyTask/2022-06-16 📅.md"
     },
@@ -149,10 +157,6 @@
       "path": "dailyTask/2022-06-12 📅.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
       "basename": "todo list",
       "path": "todo list.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "有机化学",
       "path": "trans/生物/有机化学.md"
-    },
-    {
-      "basename": "咽喉解剖",
-      "path": "trans/伪音/咽喉解剖.md"
     }
   ],
   "omittedPaths": [],
