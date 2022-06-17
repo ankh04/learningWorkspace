@@ -5,6 +5,34 @@
       "path": "dailyTask/2022-06-17 📅.md"
     },
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Spring注解",
+      "path": "java-learn/Spring Framework/问题/Spring注解.md"
+    },
+    {
+      "basename": "7.Aware接口",
+      "path": "java-learn/Spring Framework/源码分析/7.Aware接口.md"
+    },
+    {
+      "basename": "6.实现自己的BeanFactory后处理器",
+      "path": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md"
+    },
+    {
+      "basename": "5.BeanFactory后处理器",
+      "path": "java-learn/Spring Framework/源码分析/5.BeanFactory后处理器.md"
+    },
+    {
+      "basename": "4.Bean后处理器",
+      "path": "java-learn/Spring Framework/源码分析/4.Bean后处理器.md"
+    },
+    {
+      "basename": "基本概念",
+      "path": "java-learn/Spring Framework/基本概念.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -19,10 +47,6 @@
     {
       "basename": "SpringBean",
       "path": "java-learn/Spring Framework/问题/SpringBean.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "运行时存储空间",
@@ -175,30 +199,6 @@
     {
       "basename": "2022-06-10 📅",
       "path": "dailyTask/2022-06-10 📅.md"
-    },
-    {
-      "basename": "Vested interests cross-dressing & cultural anxiety",
-      "path": "trans/阅读/Vested interests cross-dressing & cultural anxiety.md"
-    },
-    {
-      "basename": "trans资源",
-      "path": "trans/trans资源.md"
-    },
-    {
-      "basename": "中国",
-      "path": "trans/历史事件/中国.md"
-    },
-    {
-      "basename": "戴锦华",
-      "path": "trans/女性主义/戴锦华.md"
-    },
-    {
-      "basename": "CSS基础",
-      "path": "javascript-learn/问题/CSS基础.md"
-    },
-    {
-      "basename": "有机化学",
-      "path": "trans/生物/有机化学.md"
     }
   ],
   "omittedPaths": [],

@@ -179,14 +179,14 @@
   "active": "97f96707a4dfd6dd",
   "lastOpenFiles": [
     "dailyTask/2022-06-17 📅.md",
-    "template/dailyTask.md",
-    "dailyTask/2022-06-16 📅.md",
-    "社会运动/佳士事件.md",
-    "java-learn/Spring Framework/问题/SpringBean.md",
     "Daily-Journal-Prompts.md",
-    "编译器/运行时存储空间/问题/运行时存储空间.md",
-    "操作系统/1.应用程序与基本执行环境/程序内存布局图示.md",
-    "编程语言/问题/编程语言.md",
-    "trans/伪音/伪音Project.md"
+    "java-learn/Spring Framework/问题/Spring注解.md",
+    "java-learn/Spring Framework/源码分析/7.Aware接口.md",
+    "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md",
+    "java-learn/Spring Framework/源码分析/5.BeanFactory后处理器.md",
+    "java-learn/Spring Framework/源码分析/4.Bean后处理器.md",
+    "java-learn/Spring Framework/基本概念.md",
+    "template/dailyTask.md",
+    "dailyTask/2022-06-16 📅.md"
   ]
 }
