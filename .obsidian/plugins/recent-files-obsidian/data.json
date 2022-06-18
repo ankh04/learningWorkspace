@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-18 📅",
+      "path": "dailyTask/2022-06-18 📅.md"
+    },
+    {
+      "basename": "消费者权益保护法",
+      "path": "reading note/法律/消费者权益保护法.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "2022-06-17 📅",
       "path": "dailyTask/2022-06-17 📅.md"
+    },
+    {
+      "basename": "2022-06-11 📅",
+      "path": "dailyTask/2022-06-11 📅.md"
+    },
+    {
+      "basename": "2022-06-12 📅",
+      "path": "dailyTask/2022-06-12 📅.md"
+    },
+    {
+      "basename": "2022-06-13 📅",
+      "path": "dailyTask/2022-06-13 📅.md"
+    },
+    {
+      "basename": "2022-06-14 📅",
+      "path": "dailyTask/2022-06-14 📅.md"
+    },
+    {
+      "basename": "2022-06-15 📅",
+      "path": "dailyTask/2022-06-15 📅.md"
+    },
+    {
+      "basename": "2022-06-16 📅",
+      "path": "dailyTask/2022-06-16 📅.md"
+    },
+    {
+      "basename": "审美剥削",
+      "path": "trans/随笔/审美剥削.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -33,14 +73,6 @@
       "path": "java-learn/Spring Framework/基本概念.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
-      "basename": "2022-06-16 📅",
-      "path": "dailyTask/2022-06-16 📅.md"
-    },
-    {
       "basename": "佳士事件",
       "path": "社会运动/佳士事件.md"
     },
@@ -63,14 +95,6 @@
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "2022-06-15 📅",
-      "path": "dailyTask/2022-06-15 📅.md"
-    },
-    {
-      "basename": "2022-06-14 📅",
-      "path": "dailyTask/2022-06-14 📅.md"
     },
     {
       "basename": "Java语言基础",
@@ -149,10 +173,6 @@
       "path": "片单.md"
     },
     {
-      "basename": "2022-06-13 📅",
-      "path": "dailyTask/2022-06-13 📅.md"
-    },
-    {
       "basename": "操作系统概论",
       "path": "操作系统/问题/操作系统概论.md"
     },
@@ -177,28 +197,8 @@
       "path": "java-learn/Spring Framework/源码分析/3.Bean的生命周期.md"
     },
     {
-      "basename": "2022-06-12 📅",
-      "path": "dailyTask/2022-06-12 📅.md"
-    },
-    {
       "basename": "todo list",
       "path": "todo list.md"
-    },
-    {
-      "basename": "并查集(UnionFindSet)",
-      "path": "algorithm/数据结构/并查集(UnionFindSet).md"
-    },
-    {
-      "basename": "算法",
-      "path": "algorithm/问题/算法.md"
-    },
-    {
-      "basename": "2022-06-11 📅",
-      "path": "dailyTask/2022-06-11 📅.md"
-    },
-    {
-      "basename": "2022-06-10 📅",
-      "path": "dailyTask/2022-06-10 📅.md"
     }
   ],
   "omittedPaths": [],
