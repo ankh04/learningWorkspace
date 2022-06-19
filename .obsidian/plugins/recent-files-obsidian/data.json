@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-19 📅",
+      "path": "dailyTask/2022-06-19 📅.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "2022-06-18 📅",
       "path": "dailyTask/2022-06-18 📅.md"
     },
@@ -91,14 +103,6 @@
     {
       "basename": "编程语言",
       "path": "编程语言/问题/编程语言.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "并发编程",
@@ -195,10 +199,6 @@
     {
       "basename": "3.Bean的生命周期",
       "path": "java-learn/Spring Framework/源码分析/3.Bean的生命周期.md"
-    },
-    {
-      "basename": "todo list",
-      "path": "todo list.md"
     }
   ],
   "omittedPaths": [],
