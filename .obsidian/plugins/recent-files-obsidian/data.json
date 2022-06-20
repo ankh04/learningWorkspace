@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-20 📅",
+      "path": "dailyTask/2022-06-20 📅.md"
+    },
+    {
+      "basename": "02",
+      "path": "数据库/CMU数据库系统/02.md"
+    },
+    {
+      "basename": "动态规划(记忆化)",
+      "path": "algorithm/leetcode/总结/动态规划(记忆化).md"
+    },
+    {
       "basename": "2022-06-19 📅",
       "path": "dailyTask/2022-06-19 📅.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "k210资料",
       "path": "操作系统/k210/k210资料.md"
-    },
-    {
-      "basename": "Spring基础",
-      "path": "java-learn/Spring Framework/问题/Spring基础.md"
-    },
-    {
-      "basename": "SpringIoC",
-      "path": "java-learn/Spring Framework/问题/SpringIoC.md"
-    },
-    {
-      "basename": "3.Bean的生命周期",
-      "path": "java-learn/Spring Framework/源码分析/3.Bean的生命周期.md"
     }
   ],
   "omittedPaths": [],
