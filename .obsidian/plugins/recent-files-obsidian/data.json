@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
       "basename": "SpringTransaction",
       "path": "java-learn/Spring Framework/问题/SpringTransaction.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "审美剥削",
       "path": "trans/随笔/审美剥削.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
     },
     {
       "basename": "Spring注解",

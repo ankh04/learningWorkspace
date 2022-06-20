@@ -333,3 +333,13 @@ Spring注解#@Required有什么作用?
 Spring注解#@Autowired有什么作用?
 
 Spring注解#@Quailfer注解有什么作用?
+
+SpringTransaction#什么是事务?
+
+SpringTransaction#Spring支持哪两种事务管理类型?
+
+SpringTransaction#Spring事务如何与各种数据持久层框架做集成?
+
+SpringTransaction#什么是事务的隔离级别? 有哪些隔离级别?
+
+SpringTransaction#Spring事务设计有哪些亮点?
