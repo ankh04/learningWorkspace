@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringTransaction",
+      "path": "java-learn/Spring Framework/问题/SpringTransaction.md"
+    },
+    {
       "basename": "2022-06-20 📅",
       "path": "dailyTask/2022-06-20 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "k210踩坑",
       "path": "操作系统/k210/k210踩坑.md"
-    },
-    {
-      "basename": "k210资料",
-      "path": "操作系统/k210/k210资料.md"
     }
   ],
   "omittedPaths": [],
