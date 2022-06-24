@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-24 📅",
+      "path": "dailyTask/2022-06-24 📅.md"
+    },
+    {
       "basename": "2022-06-23 📅",
       "path": "dailyTask/2022-06-23 📅.md"
+    },
+    {
+      "basename": "刷盘子,还是读书？：反思中日强国之路 (钟庆) (z-lib.org)",
+      "path": "社会运动/cc/刷盘子,还是读书？：反思中日强国之路 (钟庆) (z-lib.org).pdf"
+    },
+    {
+      "basename": "工业党",
+      "path": "社会运动/cc/工业党.md"
+    },
+    {
+      "basename": "观察者网",
+      "path": "社会运动/cc/观察者网.md"
+    },
+    {
+      "basename": "小粉红",
+      "path": "社会运动/cc/小粉红.md"
+    },
+    {
+      "basename": "宏大叙事",
+      "path": "reading note/哲学/后现代/宏大叙事.md"
+    },
+    {
+      "basename": "佳士事件",
+      "path": "社会运动/佳士事件.md"
     },
     {
       "basename": "2022-06-22 📅",
@@ -113,10 +141,6 @@
       "path": "java-learn/Spring Framework/基本概念.md"
     },
     {
-      "basename": "佳士事件",
-      "path": "社会运动/佳士事件.md"
-    },
-    {
       "basename": "SpringBean",
       "path": "java-learn/Spring Framework/问题/SpringBean.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "算法笔记",
       "path": "algorithm/算法笔记.md"
-    },
-    {
-      "basename": "表ADT",
-      "path": "数据结构/表ADT.md"
-    },
-    {
-      "basename": "队列ADT",
-      "path": "数据结构/队列ADT.md"
-    },
-    {
-      "basename": "栈ADT",
-      "path": "数据结构/栈ADT.md"
-    },
-    {
-      "basename": "ADT",
-      "path": "数据结构/ADT.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
-    },
-    {
-      "basename": "Ideal Noise for R1 practice",
-      "path": "attachment/Ideal Noise for R1 practice.mp3"
     }
   ],
   "omittedPaths": [],

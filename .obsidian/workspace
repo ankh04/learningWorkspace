@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-06-23 📅.md",
+            "file": "dailyTask/2022-06-24 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-06-23 📅.md",
+                "file": "dailyTask/2022-06-24 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-06-23 📅.md",
+                "file": "dailyTask/2022-06-24 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-06-23 📅.md"
+                "file": "dailyTask/2022-06-24 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "97f96707a4dfd6dd",
   "lastOpenFiles": [
+    "dailyTask/2022-06-24 📅.md",
     "dailyTask/2022-06-23 📅.md",
+    "社会运动/cc/刷盘子,还是读书？：反思中日强国之路 (钟庆) (z-lib.org).pdf",
+    "社会运动/cc/工业党.md",
+    "社会运动/cc/观察者网.md",
+    "社会运动/cc/小粉红.md",
+    "reading note/哲学/后现代/宏大叙事.md",
+    "社会运动/佳士事件.md",
     "dailyTask/2022-06-22 📅.md",
-    "dailyTask/2022-06-21 📅.md",
-    "trans/伪音/伪音Project.md",
-    "dailyTask/2022-06-20 📅.md",
-    "Daily-Journal-Prompts.md",
-    "java-learn/Spring Framework/问题/SpringTransaction.md",
-    "数据库/CMU数据库系统/02.md",
-    "algorithm/leetcode/总结/动态规划(记忆化).md",
-    "dailyTask/2022-06-19 📅.md"
+    "dailyTask/2022-06-21 📅.md"
   ]
 }
