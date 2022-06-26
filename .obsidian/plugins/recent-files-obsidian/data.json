@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-26 📅",
+      "path": "dailyTask/2022-06-26 📅.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
       "basename": "2022-06-25 📅",
       "path": "dailyTask/2022-06-25 📅.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "2022-06-19 📅",
       "path": "dailyTask/2022-06-19 📅.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "2022-06-18 📅",
@@ -195,10 +199,6 @@
     {
       "basename": "哲学的重要性",
       "path": "trans/跨性别哲学/哲学的重要性.md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "trans/跨性别历史/摘抄.md"
     }
   ],
   "omittedPaths": [],
