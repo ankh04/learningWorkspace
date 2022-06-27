@@ -5,12 +5,24 @@
       "path": "dailyTask/2022-06-27 📅.md"
     },
     {
+      "basename": "SQL",
+      "path": "数据库/问题/SQL.md"
+    },
+    {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
       "basename": "我的服务",
       "path": "我的服务.md"
     },
     {
       "basename": "频谱分析软件",
       "path": "trans/伪音/频谱分析软件.md"
+    },
+    {
+      "basename": "2022-06-28 📅",
+      "path": "dailyTask/2022-06-28 📅.md"
     },
     {
       "basename": "什么是声音?什么是男音?什么是女音?",
@@ -33,16 +45,8 @@
       "path": "数据库/问题/数据库概述.md"
     },
     {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
       "basename": "关系模型",
       "path": "数据库/问题/关系模型.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "数据库/问题/SQL.md"
     },
     {
       "basename": "02",
@@ -195,10 +199,6 @@
     {
       "basename": "Spring注解",
       "path": "java-learn/Spring Framework/问题/Spring注解.md"
-    },
-    {
-      "basename": "7.Aware接口",
-      "path": "java-learn/Spring Framework/源码分析/7.Aware接口.md"
     }
   ],
   "omittedPaths": [],

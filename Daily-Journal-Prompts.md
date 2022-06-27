@@ -371,3 +371,17 @@ SpringTransaction#Spring事务设计有哪些亮点?
 数据库概述#数据库引擎包含哪些部分?
 
 数据库概述#为什么网络应用需要分为前端和后端?
+
+SQL#SQL的基本类型(域)有哪些?
+
+SQL#SQL中DDL的基本模式是什么?
+
+SQL#drop table 和 delete table有什么区别?
+
+SQL#怎样在关系中添加或删除新的属性?
+
+SQL#常见的字符串运算有哪些指令?
+
+SQL#mysql中有intersect交运算, except查运算么?
+
+SQL#SQL中布尔值有哪几种值?
