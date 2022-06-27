@@ -5,6 +5,30 @@
       "path": "dailyTask/2022-06-27 📅.md"
     },
     {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "频谱分析软件",
+      "path": "trans/伪音/频谱分析软件.md"
+    },
+    {
+      "basename": "什么是声音?什么是男音?什么是女音?",
+      "path": "trans/伪音/什么是声音?什么是男音?什么是女音?.md"
+    },
+    {
+      "basename": "声音是怎么发出来的?",
+      "path": "trans/伪音/声音是怎么发出来的?.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "HTML基础",
+      "path": "javascript-learn/问题/HTML基础.md"
+    },
+    {
       "basename": "数据库概述",
       "path": "数据库/问题/数据库概述.md"
     },
@@ -43,10 +67,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "为什么是正弦波?",
@@ -179,26 +199,6 @@
     {
       "basename": "7.Aware接口",
       "path": "java-learn/Spring Framework/源码分析/7.Aware接口.md"
-    },
-    {
-      "basename": "6.实现自己的BeanFactory后处理器",
-      "path": "java-learn/Spring Framework/源码分析/6.实现自己的BeanFactory后处理器.md"
-    },
-    {
-      "basename": "5.BeanFactory后处理器",
-      "path": "java-learn/Spring Framework/源码分析/5.BeanFactory后处理器.md"
-    },
-    {
-      "basename": "4.Bean后处理器",
-      "path": "java-learn/Spring Framework/源码分析/4.Bean后处理器.md"
-    },
-    {
-      "basename": "基本概念",
-      "path": "java-learn/Spring Framework/基本概念.md"
-    },
-    {
-      "basename": "SpringBean",
-      "path": "java-learn/Spring Framework/问题/SpringBean.md"
     }
   ],
   "omittedPaths": [],
