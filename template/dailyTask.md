@@ -32,6 +32,17 @@ for(i=0;i<numberOfPrompts;i++) {
 - [ ] 记录梦境
 - [ ] 锻炼
 
+## Read List
+- [ ] 数据库系统概念
+- [ ] 算法设计
+- [ ] 深入解析CSS
+- [ ] 反贪
+- [ ] 福柯
+- [ ] 巴特勒
+- [ ] 浪潮之巅
+- [ ] 编译原理
+- [ ] 嗓音医学
+
 ## Summary ✍
 ####  WHAT HAVE I READ
 

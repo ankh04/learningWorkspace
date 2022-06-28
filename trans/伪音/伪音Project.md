@@ -62,7 +62,10 @@
 
 [共鸣练习](https://www.patreon.com/posts/64908939)
 
+[比的原理](https://bideyuanli.com/p/3668)
 
+
+[比的原理在线频谱分析](https://bideyuanli.com/pp)
 ## Progress
 #todo 记笔记-声音的解剖 肌肉相关的知识
 

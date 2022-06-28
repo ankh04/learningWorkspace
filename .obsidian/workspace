@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "97f96707a4dfd6dd",
+        "id": "862da5ab8c0abee9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -176,17 +176,17 @@
     "direction": "horizontal",
     "width": 290.5
   },
-  "active": "97f96707a4dfd6dd",
+  "active": "862da5ab8c0abee9",
   "lastOpenFiles": [
     "dailyTask/2022-06-28 📅.md",
-    "template/dailyTask.md",
-    "dailyTask/2022-06-27 📅.md",
-    "数据库/问题/SQL.md",
-    "Daily-Journal-Prompts.md",
-    "我的服务.md",
+    "trans/伪音/硬起音.md",
+    "trans/伪音/声带的生物学特性.md",
+    "trans/伪音/为什么喝水很重要?.md",
+    "trans/伪音/嗓音的基本特征.md",
+    "trans/伪音/嗓音的客观声学评估.md",
     "trans/伪音/频谱分析软件.md",
-    "trans/伪音/什么是声音?什么是男音?什么是女音?.md",
-    "trans/伪音/声音是怎么发出来的?.md",
-    "trans/伪音/伪音Project.md"
+    "trans/伪音/伪音Project.md",
+    "trans/伪音/齿音 气音.md",
+    "template/dailyTask.md"
   ]
 }

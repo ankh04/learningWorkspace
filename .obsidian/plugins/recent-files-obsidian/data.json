@@ -5,8 +5,48 @@
       "path": "dailyTask/2022-06-28 📅.md"
     },
     {
+      "basename": "硬起音",
+      "path": "trans/伪音/硬起音.md"
+    },
+    {
+      "basename": "声带的生物学特性",
+      "path": "trans/伪音/声带的生物学特性.md"
+    },
+    {
+      "basename": "为什么喝水很重要?",
+      "path": "trans/伪音/为什么喝水很重要?.md"
+    },
+    {
+      "basename": "嗓音的基本特征",
+      "path": "trans/伪音/嗓音的基本特征.md"
+    },
+    {
+      "basename": "嗓音的客观声学评估",
+      "path": "trans/伪音/嗓音的客观声学评估.md"
+    },
+    {
+      "basename": "频谱分析软件",
+      "path": "trans/伪音/频谱分析软件.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
+      "basename": "齿音 气音",
+      "path": "trans/伪音/齿音 气音.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "learning plan",
+      "path": "learning plan.md"
     },
     {
       "basename": "2022-06-27 📅",
@@ -25,20 +65,12 @@
       "path": "我的服务.md"
     },
     {
-      "basename": "频谱分析软件",
-      "path": "trans/伪音/频谱分析软件.md"
-    },
-    {
       "basename": "什么是声音?什么是男音?什么是女音?",
       "path": "trans/伪音/什么是声音?什么是男音?什么是女音?.md"
     },
     {
       "basename": "声音是怎么发出来的?",
       "path": "trans/伪音/声音是怎么发出来的?.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "HTML基础",
@@ -71,10 +103,6 @@
     {
       "basename": "todo list",
       "path": "todo list.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "为什么是正弦波?",
@@ -171,34 +199,6 @@
     {
       "basename": "2022-06-11 📅",
       "path": "dailyTask/2022-06-11 📅.md"
-    },
-    {
-      "basename": "2022-06-12 📅",
-      "path": "dailyTask/2022-06-12 📅.md"
-    },
-    {
-      "basename": "2022-06-13 📅",
-      "path": "dailyTask/2022-06-13 📅.md"
-    },
-    {
-      "basename": "2022-06-14 📅",
-      "path": "dailyTask/2022-06-14 📅.md"
-    },
-    {
-      "basename": "2022-06-15 📅",
-      "path": "dailyTask/2022-06-15 📅.md"
-    },
-    {
-      "basename": "2022-06-16 📅",
-      "path": "dailyTask/2022-06-16 📅.md"
-    },
-    {
-      "basename": "审美剥削",
-      "path": "trans/随笔/审美剥削.md"
-    },
-    {
-      "basename": "Spring注解",
-      "path": "java-learn/Spring Framework/问题/Spring注解.md"
     }
   ],
   "omittedPaths": [],
