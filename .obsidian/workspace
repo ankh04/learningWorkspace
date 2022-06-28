@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-06-27 📅.md",
+            "file": "dailyTask/2022-06-28 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-06-27 📅.md",
+                "file": "dailyTask/2022-06-28 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-06-27 📅.md",
+                "file": "dailyTask/2022-06-28 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-06-27 📅.md"
+                "file": "dailyTask/2022-06-28 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "97f96707a4dfd6dd",
   "lastOpenFiles": [
+    "dailyTask/2022-06-28 📅.md",
+    "template/dailyTask.md",
     "dailyTask/2022-06-27 📅.md",
     "数据库/问题/SQL.md",
     "Daily-Journal-Prompts.md",
     "我的服务.md",
     "trans/伪音/频谱分析软件.md",
-    "dailyTask/2022-06-28 📅.md",
     "trans/伪音/什么是声音?什么是男音?什么是女音?.md",
     "trans/伪音/声音是怎么发出来的?.md",
-    "trans/伪音/伪音Project.md",
-    "javascript-learn/问题/HTML基础.md"
+    "trans/伪音/伪音Project.md"
   ]
 }
