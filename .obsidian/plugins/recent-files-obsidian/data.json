@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-29 📅",
-      "path": "dailyTask/2022-06-29 📅.md"
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
     },
     {
       "basename": "SQL",
-      "path": "数据库/ElasticSearch/SQL.md"
+      "path": "数据库/问题/SQL.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
+      "basename": "数据库概述",
+      "path": "数据库/问题/数据库概述.md"
+    },
+    {
+      "basename": "关系模型",
+      "path": "数据库/问题/关系模型.md"
+    },
+    {
+      "basename": "2022-06-29 📅",
+      "path": "dailyTask/2022-06-29 📅.md"
     },
     {
       "basename": "什么是声音?什么是男音?什么是女音?",
@@ -31,10 +39,6 @@
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "数据库概述",
-      "path": "数据库/问题/数据库概述.md"
     },
     {
       "basename": "dailyEnglish",
@@ -95,10 +99,6 @@
     {
       "basename": "HTML基础",
       "path": "javascript-learn/问题/HTML基础.md"
-    },
-    {
-      "basename": "关系模型",
-      "path": "数据库/问题/关系模型.md"
     },
     {
       "basename": "02",
