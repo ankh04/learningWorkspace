@@ -20,7 +20,6 @@ for(i=0;i<numberOfPrompts;i++) {
 - [ ] [java基础](https://javaguide.cn/java/basis/java-basic-questions-01.html#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 - [ ] [前端](https://web.qianguyihao.com)
 - [ ] [知识星球](http://svip.iocoder.cn/index/index.html)
-- [ ] [数据库](https://www.bilibili.com/video/BV1rN411f7Ef?vd_source=96c18635d20f0cc3b2c33ac78719180e)
 
 
 ## Learning Task 🎯

@@ -5,6 +5,14 @@
       "path": "dailyTask/2022-06-29 📅.md"
     },
     {
+      "basename": "SQL",
+      "path": "数据库/ElasticSearch/SQL.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "什么是声音?什么是男音?什么是女音?",
       "path": "trans/伪音/什么是声音?什么是男音?什么是女音?.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "数据库/问题/SQL.md"
     },
     {
       "basename": "数据库概述",
@@ -63,10 +67,6 @@
     {
       "basename": "齿音 气音",
       "path": "trans/伪音/齿音 气音.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "README",
