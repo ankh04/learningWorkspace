@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/dailyTask.md",
+            "file": "dailyTask/2022-06-29 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-06-29 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/dailyTask.md",
+                "file": "dailyTask/2022-06-29 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/dailyTask.md"
+                "file": "dailyTask/2022-06-29 📅.md"
               }
             }
           },
@@ -178,11 +178,11 @@
   },
   "active": "862da5ab8c0abee9",
   "lastOpenFiles": [
+    "dailyTask/2022-06-29 📅.md",
     "template/dailyTask.md",
     "数据库/问题/SQL.md",
     "数据库/问题/数据库概述.md",
     "数据库/问题/关系模型.md",
-    "dailyTask/2022-06-29 📅.md",
     "trans/伪音/什么是声音?什么是男音?什么是女音?.md",
     "片单.md",
     "trans/伪音/嗓音的客观声学评估.md",
