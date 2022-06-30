@@ -19,6 +19,11 @@ docker ps
 docker logs xxxxx
 ```
 
+```shell
+docker run --net host -v $PWD:/mnt -d -p 8888:8888 paddlecloud/paddlespeech:develop-cpu-657c42
+
+paddlespeech asr --lang zh --input 高音.mp3
+```
 
 ## 128错误
 [解决方案](https://blog.csdn.net/tt75281920/article/details/105434989)

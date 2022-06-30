@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "一致性",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,14 +180,14 @@
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
     "dailyTask/2022-06-30 📅.md",
+    "java-learn/Docker/docker 使用jenkins.md",
+    "java-learn/Docker/数据卷.md",
+    "java-learn/Docker/基础知识.md",
+    "java-learn/Docker/基本使用.md",
+    "java-learn/Docker/安装.md",
     "数据库/问题/SQL.md",
     "trans/伪音/什么是声音?什么是男音?什么是女音?.md",
     "Daily-Journal-Prompts.md",
-    "dailyTask/2022-06-29 📅.md",
-    "template/dailyTask.md",
-    "数据库/问题/数据库概述.md",
-    "数据库/问题/关系模型.md",
-    "片单.md",
-    "trans/伪音/嗓音的客观声学评估.md"
+    "dailyTask/2022-06-29 📅.md"
   ]
 }
