@@ -1,0 +1,175 @@
+{
+  "appData": {},
+  "state": {
+    "template/dailyTask.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "109dccf0-b3e6-4e90-b1de-ede13adf0846",
+              "initialIndex": 0,
+              "content": "名称",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "03a8e9f0-08cb-4d08-9af4-4d2bb166da79",
+              "initialIndex": 1,
+              "content": "位置",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "dead3fc9-51ee-4d1c-8abb-8ea9f8c3ed76",
+              "initialIndex": 2,
+              "content": "总页数",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "e64b138a-15fe-43dd-8292-dceede455273",
+              "initialIndex": 3,
+              "content": "进度",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "44e6ff10-ffe4-4394-9159-7443cb85e96d",
+              "initialIndex": 4,
+              "content": "重要性",
+              "sortName": "default",
+              "width": "100px",
+              "type": "tag"
+            },
+            {
+              "id": "64dad864-8ed3-48ca-8a50-b3d5f931d6e7",
+              "initialIndex": 5,
+              "content": "打卡",
+              "sortName": "default",
+              "width": "100px",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            {
+              "id": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "initialIndex": 0,
+              "creationTime": 1656650229640
+            },
+            {
+              "id": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "initialIndex": 1,
+              "creationTime": 1656652033939
+            }
+          ],
+          "cells": [
+            {
+              "id": "d3b001cc-190c-4f4f-88e0-82c3c0b24754",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "109dccf0-b3e6-4e90-b1de-ede13adf0846",
+              "type": "text",
+              "text": "数据库系统概念"
+            },
+            {
+              "id": "e9d8395d-844a-4c2b-8f40-b0b298f8fc8b",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "03a8e9f0-08cb-4d08-9af4-4d2bb166da79",
+              "type": "text",
+              "text": "纸质书"
+            },
+            {
+              "id": "316dda45-b209-468f-93e2-26d305f82754",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "dead3fc9-51ee-4d1c-8abb-8ea9f8c3ed76",
+              "type": "text",
+              "text": "793"
+            },
+            {
+              "id": "00dd39be-52b0-4fae-b62b-1af2fe70dd7b",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "e64b138a-15fe-43dd-8292-dceede455273",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "ca1f4cd8-431b-4900-8d9e-a08ab5169a0a",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "44e6ff10-ffe4-4394-9159-7443cb85e96d",
+              "type": "tag"
+            },
+            {
+              "id": "d3555b7e-0ca7-40af-81cf-fdd2a8f0f792",
+              "rowId": "8d454daf-81d6-4922-9ff2-70d38c9f5661",
+              "headerId": "64dad864-8ed3-48ca-8a50-b3d5f931d6e7",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "b7ca6bc3-b820-4c03-9ee3-3469949a3428",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "109dccf0-b3e6-4e90-b1de-ede13adf0846",
+              "type": "text",
+              "text": "算法设计"
+            },
+            {
+              "id": "1ca8c3ab-34de-41fc-90dc-d8616d5215be",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "03a8e9f0-08cb-4d08-9af4-4d2bb166da79",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "db45c585-1c44-40a0-9638-9782456ba5c2",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "dead3fc9-51ee-4d1c-8abb-8ea9f8c3ed76",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "cf4c3a7c-c523-4848-a07c-aaffea005879",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "e64b138a-15fe-43dd-8292-dceede455273",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "e1c82ca1-323e-476e-b317-abfbfdd853e4",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "44e6ff10-ffe4-4394-9159-7443cb85e96d",
+              "type": "tag"
+            },
+            {
+              "id": "3e9fdbbb-c522-4c29-88e8-56046d9126a7",
+              "rowId": "d08932a8-a678-4fb8-b092-29ce6c747c9d",
+              "headerId": "64dad864-8ed3-48ca-8a50-b3d5f931d6e7",
+              "type": "checkbox",
+              "isChecked": false
+            }
+          ],
+          "tags": [
+            {
+              "id": "ee586fa7-732d-41ac-a1e2-0d6c9e2ae7cb",
+              "headerId": "44e6ff10-ffe4-4394-9159-7443cb85e96d",
+              "content": "#High",
+              "color": "pink",
+              "selected": [
+                "ca1f4cd8-431b-4900-8d9e-a08ab5169a0a"
+              ]
+            }
+          ]
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": false
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}

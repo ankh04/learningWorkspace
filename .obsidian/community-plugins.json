@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "obsidian-vimrc-support",
   "obsidian-admonition",
@@ -26,5 +25,6 @@
   "tag-page-preview",
   "cm-chs-patch",
   "obsidian-hover-editor",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "notion-like-tables"
 ]

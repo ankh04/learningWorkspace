@@ -5,6 +5,26 @@
       "path": "dailyTask/2022-07-01 📅.md"
     },
     {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "dailyEnglish",
+      "path": "template/dailyEnglish.md"
+    },
+    {
+      "basename": "数组列表",
+      "path": "数组列表.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "游戏列表",
+      "path": "游戏列表.md"
+    },
+    {
       "basename": "来源",
       "path": "日语/片假名/来源.md"
     },
@@ -49,10 +69,6 @@
       "path": "dailyTask/2022-06-29 📅.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
       "basename": "数据库概述",
       "path": "数据库/问题/数据库概述.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "dailyEnglish",
-      "path": "template/dailyEnglish.md"
     },
     {
       "basename": "打嗝是哪里发出的声音",
@@ -121,10 +133,6 @@
       "path": "dailyTask/2022-06-27 📅.md"
     },
     {
-      "basename": "我的服务",
-      "path": "我的服务.md"
-    },
-    {
       "basename": "声音是怎么发出来的?",
       "path": "trans/伪音/声音是怎么发出来的?.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "观察者网",
       "path": "社会运动/cc/观察者网.md"
-    },
-    {
-      "basename": "游戏列表",
-      "path": "游戏列表.md"
     },
     {
       "basename": "todo list",
@@ -195,10 +199,6 @@
     {
       "basename": "小粉红",
       "path": "社会运动/cc/小粉红.md"
-    },
-    {
-      "basename": "宏大叙事",
-      "path": "reading note/哲学/后现代/宏大叙事.md"
     }
   ],
   "omittedPaths": [],

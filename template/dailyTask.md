@@ -31,17 +31,22 @@ for(i=0;i<numberOfPrompts;i++) {
 - [ ] 记录梦境
 - [ ] 锻炼
 
-## Read List
-- [ ] 数据库系统概念
-- [ ] 算法设计
-- [ ] tomcat Java Web
-- [ ] 深入解析CSS
-- [ ] 反贪
-- [ ] 福柯
-- [ ] 巴特勒
-- [ ] 浪潮之巅
-- [ ] 编译原理
-- [ ] 嗓音医学
+## Read List 📖
+| 名称 | 位置 | 总页数 | 进度 | 重要性 | 打卡|
+| -- | -- | -- | -- | -- | -- | 
+|数据库系统概念    | 纸质书   | 793   |    | <span style="background-color: pink; border-radius: 5px; padding: 4px;">High</span>   |    | 
+|算法设计    | 纸质书   | 503   |    | <span style="background-color: pink; border-radius: 5px; padding: 4px;">High</span>   |    | 
+|Tomcat Java Web    | 纸质书   | 760   |    | <span style="background-color: pink; border-radius: 5px; padding: 4px;">High</span>   |    | 
+|[深入解析CSS](x-devonthink-item://C54A8742-FADE-4C89-9DA0-AF7A4900582C)    | 电子书   | 370   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|[反贪](zotero://select/library/items/YNWCEKEZ )    | 电子书   | 312   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>    |    | 
+|[福柯](zotero://select/library/items/WFIGS9RP)    | 电子书  | 182   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>  |    | 
+|[巴特勒](zotero://select/library/items/FRYATLUE)    | 电子书   | 212   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>   |    | 
+|[whipping girl](zotero://select/library/items/SLRKW7GK )    | 电子书   | 315   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|浪潮之巅   | 电子书   | 556   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>   |    | 
+|编译原理    | 纸质书   | 412   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|[嗓音医学](x-devonthink-item://F2E6CA62-0245-4B2D-AC5E-10900B550D82)    | 电子书   | 800   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
+
+
 
 ## Summary ✍
 ####  WHAT HAVE I READ
