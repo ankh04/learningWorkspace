@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-07-02 📅.md"
     },
     {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "人权",
       "path": "trans/人权.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "2022-07-01 📅",

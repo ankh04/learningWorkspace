@@ -47,7 +47,7 @@ for(i=0;i<numberOfPrompts;i++) {
 |重病之王:癌症传   | 电子书   | 283   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>   |    | 
 |编译原理    | 纸质书   | 412   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
 |[嗓音医学](x-devonthink-item://F2E6CA62-0245-4B2D-AC5E-10900B550D82)    | 电子书   | 800   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
-|[EVT](x-devonthink-item://CFD97273-DD7C-45E9-8B20-3138A7E7A719)    | 电子书   | 291   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
+|[EVT](x-devonthink-item://86BBA629-AFDE-4B42-97E7-1975EC810983)    | 电子书   | 291   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
 
 
 
