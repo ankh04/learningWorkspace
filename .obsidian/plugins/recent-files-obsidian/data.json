@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-02 📅",
+      "path": "dailyTask/2022-07-02 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "报刊资源",
+      "path": "英语/报刊资源.md"
+    },
+    {
+      "basename": "人权",
+      "path": "trans/人权.md"
+    },
+    {
+      "basename": "伪音Project",
+      "path": "trans/伪音/伪音Project.md"
+    },
+    {
       "basename": "2022-07-01 📅",
       "path": "dailyTask/2022-07-01 📅.md"
     },
     {
       "basename": "生词",
       "path": "英语/生词.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "dailyEnglish",
@@ -91,10 +107,6 @@
     {
       "basename": "2022-06-28 📅",
       "path": "dailyTask/2022-06-28 📅.md"
-    },
-    {
-      "basename": "伪音Project",
-      "path": "trans/伪音/伪音Project.md"
     },
     {
       "basename": "打嗝是哪里发出的声音",
@@ -187,18 +199,6 @@
     {
       "basename": "齐泽克谈跨性别",
       "path": "trans/随笔/齐泽克谈跨性别.md"
-    },
-    {
-      "basename": "2022-06-24 📅",
-      "path": "dailyTask/2022-06-24 📅.md"
-    },
-    {
-      "basename": "2022-06-23 📅",
-      "path": "dailyTask/2022-06-23 📅.md"
-    },
-    {
-      "basename": "刷盘子,还是读书？：反思中日强国之路 (钟庆) (z-lib.org)",
-      "path": "社会运动/cc/刷盘子,还是读书？：反思中日强国之路 (钟庆) (z-lib.org).pdf"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-07-01 📅.md",
+            "file": "dailyTask/2022-07-02 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-07-01 📅.md",
+                "file": "dailyTask/2022-07-02 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-07-01 📅.md",
+                "file": "dailyTask/2022-07-02 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-07-01 📅.md"
+                "file": "dailyTask/2022-07-02 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "dailyTask/2022-07-02 📅.md",
+    "template/dailyTask.md",
+    "英语/报刊资源.md",
+    "trans/人权.md",
+    "trans/伪音/伪音Project.md",
     "dailyTask/2022-07-01 📅.md",
     "英语/生词.md",
-    "template/dailyTask.md",
     "template/dailyEnglish.md",
     "数组列表.md",
-    "我的服务.md",
-    "游戏列表.md",
-    "日语/片假名/来源.md",
-    "dailyTask/2022-06-30 📅.md",
-    "java-learn/Docker/docker 使用jenkins.md"
+    "我的服务.md"
   ]
 }
