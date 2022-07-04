@@ -5,6 +5,14 @@
       "path": "dailyTask/2022-07-04 📅.md"
     },
     {
+      "basename": "呼吸",
+      "path": "trans/伪音/呼吸.md"
+    },
+    {
+      "basename": "齿音 气音",
+      "path": "trans/伪音/齿音 气音.md"
+    },
+    {
       "basename": "2022-07-03 📅",
       "path": "dailyTask/2022-07-03 📅.md"
     },
@@ -153,10 +161,6 @@
       "path": "trans/伪音/频谱分析软件.md"
     },
     {
-      "basename": "齿音 气音",
-      "path": "trans/伪音/齿音 气音.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "为什么是正弦波?",
       "path": "trans/伪音/为什么是正弦波?.md"
-    },
-    {
-      "basename": "2022-06-26 📅",
-      "path": "dailyTask/2022-06-26 📅.md"
     }
   ],
   "omittedPaths": [],
