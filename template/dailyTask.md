@@ -48,6 +48,7 @@ for(i=0;i<numberOfPrompts;i++) {
 |编译原理    | 纸质书   | 412   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
 |[嗓音医学](x-devonthink-item://F2E6CA62-0245-4B2D-AC5E-10900B550D82)    | 电子书   | 800   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
 |[EVT](x-devonthink-item://86BBA629-AFDE-4B42-97E7-1975EC810983)    | 电子书   | 291   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
+| [黑格尔](x-devonthink-item://7620DFB4-389C-4017-AF6D-C1364CDCFDCA)| 电子书   | 624   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>    |    | 
 
 
 
