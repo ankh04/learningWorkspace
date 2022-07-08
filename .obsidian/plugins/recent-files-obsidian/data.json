@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-08 📅",
+      "path": "dailyTask/2022-07-08 📅.md"
+    },
+    {
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
       "basename": "2022-07-07 📅",
       "path": "dailyTask/2022-07-07 📅.md"
     },
@@ -25,16 +37,8 @@
       "path": "template/dailyTask.md"
     },
     {
-      "basename": "片单",
-      "path": "片单.md"
-    },
-    {
       "basename": "2022-07-06 📅",
       "path": "dailyTask/2022-07-06 📅.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "伪音Project",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-27 📅",
       "path": "dailyTask/2022-06-27 📅.md"
-    },
-    {
-      "basename": "声音是怎么发出来的?",
-      "path": "trans/伪音/声音是怎么发出来的?.md"
     }
   ],
   "omittedPaths": [],
