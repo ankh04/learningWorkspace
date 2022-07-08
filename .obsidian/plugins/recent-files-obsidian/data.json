@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-07-08 📅.md"
     },
     {
+      "basename": "2022-07-09 📅",
+      "path": "dailyTask/2022-07-09 📅.md"
+    },
+    {
       "basename": "生词",
       "path": "英语/生词.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "learning plan",
       "path": "learning plan.md"
-    },
-    {
-      "basename": "2022-06-27 📅",
-      "path": "dailyTask/2022-06-27 📅.md"
     }
   ],
   "omittedPaths": [],
