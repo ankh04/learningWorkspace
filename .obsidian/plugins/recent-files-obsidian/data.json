@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-07-08 📅",
-      "path": "dailyTask/2022-07-08 📅.md"
-    },
-    {
       "basename": "2022-07-09 📅",
       "path": "dailyTask/2022-07-09 📅.md"
     },
     {
       "basename": "生词",
       "path": "英语/生词.md"
+    },
+    {
+      "basename": "行转列",
+      "path": "数据库/MySQL/行转列.md"
+    },
+    {
+      "basename": "2022-07-08 📅",
+      "path": "dailyTask/2022-07-08 📅.md"
     },
     {
       "basename": "片单",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "learning plan",
-      "path": "learning plan.md"
     }
   ],
   "omittedPaths": [],
