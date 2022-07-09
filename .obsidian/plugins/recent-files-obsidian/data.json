@@ -5,6 +5,26 @@
       "path": "dailyTask/2022-07-09 📅.md"
     },
     {
+      "basename": "2022-07-05 📅",
+      "path": "dailyTask/2022-07-05 📅.md"
+    },
+    {
+      "basename": "2022-07-06 📅",
+      "path": "dailyTask/2022-07-06 📅.md"
+    },
+    {
+      "basename": "2022-07-07 📅",
+      "path": "dailyTask/2022-07-07 📅.md"
+    },
+    {
+      "basename": "2022-07-08 📅",
+      "path": "dailyTask/2022-07-08 📅.md"
+    },
+    {
+      "basename": "todo list",
+      "path": "todo list.md"
+    },
+    {
       "basename": "生词",
       "path": "英语/生词.md"
     },
@@ -13,16 +33,8 @@
       "path": "数据库/MySQL/行转列.md"
     },
     {
-      "basename": "2022-07-08 📅",
-      "path": "dailyTask/2022-07-08 📅.md"
-    },
-    {
       "basename": "片单",
       "path": "片单.md"
-    },
-    {
-      "basename": "2022-07-07 📅",
-      "path": "dailyTask/2022-07-07 📅.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
@@ -45,16 +57,8 @@
       "path": "template/dailyTask.md"
     },
     {
-      "basename": "2022-07-06 📅",
-      "path": "dailyTask/2022-07-06 📅.md"
-    },
-    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
-    },
-    {
-      "basename": "2022-07-05 📅",
-      "path": "dailyTask/2022-07-05 📅.md"
     },
     {
       "basename": "反同",
@@ -195,10 +199,6 @@
     {
       "basename": "频谱分析软件",
       "path": "trans/伪音/频谱分析软件.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

@@ -53,6 +53,9 @@ spring的数据库部分jdbc
 [rpc](https://github.com/Snailclimb/guide-rpc-framework)
 
 
+[各大网站高仿项目](https://mp.weixin.qq.com/s/5IGzIaE8te1Kt25YI9z76Q)
+
+
 ### reading list
 7周7语言(可以了解更多的编程语言,可能对编译原理的理解有益)
 sass与compass实战(css进阶)

@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -179,14 +180,14 @@
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
     "dailyTask/2022-07-09 📅.md",
+    "dailyTask/2022-07-05 📅.md",
+    "dailyTask/2022-07-06 📅.md",
+    "dailyTask/2022-07-07 📅.md",
+    "dailyTask/2022-07-08 📅.md",
+    "todo list.md",
     "英语/生词.md",
     "数据库/MySQL/行转列.md",
-    "dailyTask/2022-07-08 📅.md",
     "片单.md",
-    "dailyTask/2022-07-07 📅.md",
-    "Daily-Journal-Prompts.md",
-    "数据库/问题/数据存储结构.md",
-    "java-learn/JVM/类加载子系统.md",
-    "java-learn/JVM/深入理解Java虚拟机.md"
+    "Daily-Journal-Prompts.md"
   ]
 }
