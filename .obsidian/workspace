@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-07-09 📅.md",
+            "file": "dailyTask/2022-07-10 📅.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "07b5749b345f5e54",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-07-09 📅.md",
+                "file": "dailyTask/2022-07-10 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-07-09 📅.md",
+                "file": "dailyTask/2022-07-10 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-07-09 📅.md"
+                "file": "dailyTask/2022-07-10 📅.md"
               }
             }
           },
@@ -179,6 +178,8 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "dailyTask/2022-07-10 📅.md",
+    "algorithm/隔板法.md",
     "dailyTask/2022-07-09 📅.md",
     "dailyTask/2022-07-05 📅.md",
     "dailyTask/2022-07-06 📅.md",
@@ -186,8 +187,6 @@
     "dailyTask/2022-07-08 📅.md",
     "todo list.md",
     "英语/生词.md",
-    "数据库/MySQL/行转列.md",
-    "片单.md",
-    "Daily-Journal-Prompts.md"
+    "数据库/MySQL/行转列.md"
   ]
 }
