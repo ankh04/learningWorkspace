@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-07-12 📅.md",
+            "file": "dailyTask/2022-07-13 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-07-12 📅.md",
+                "file": "dailyTask/2022-07-13 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-07-12 📅.md",
+                "file": "dailyTask/2022-07-13 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-07-12 📅.md"
+                "file": "dailyTask/2022-07-13 📅.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "dailyTask/2022-07-13 📅.md",
+    "template/dailyTask.md",
     "dailyTask/2022-07-12 📅.md",
     "数据库/问题/索引.md",
     "Daily-Journal-Prompts.md",
@@ -185,8 +187,6 @@
     "数据库/问题/SQL.md",
     "数据库/数据库系统/02.md",
     "日语/片假名/来源.md",
-    "英语/生词.md",
-    "dailyTask/2022-07-11 📅.md",
-    "algorithm/数据结构/并查集(UnionFindSet).md"
+    "英语/生词.md"
   ]
 }

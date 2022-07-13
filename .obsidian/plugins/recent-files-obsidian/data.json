@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-13 📅",
+      "path": "dailyTask/2022-07-13 📅.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "2022-07-12 📅",
       "path": "dailyTask/2022-07-12 📅.md"
     },
@@ -101,10 +109,6 @@
       "path": "java-learn/JVM/深入理解Java虚拟机.md"
     },
     {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
-    },
-    {
       "basename": "伪音Project",
       "path": "trans/伪音/伪音Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "什么是声音?什么是男音?什么是女音?",
       "path": "trans/伪音/什么是声音?什么是男音?什么是女音?.md"
-    },
-    {
-      "basename": "2022-06-29 📅",
-      "path": "dailyTask/2022-06-29 📅.md"
     }
   ],
   "omittedPaths": [],
