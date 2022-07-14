@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-14 📅",
+      "path": "dailyTask/2022-07-14 📅.md"
+    },
+    {
+      "basename": "数据存储结构",
+      "path": "数据库/问题/数据存储结构.md"
+    },
+    {
+      "basename": "Daily-Journal-Prompts",
+      "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
+    },
+    {
       "basename": "2022-07-13 📅",
       "path": "dailyTask/2022-07-13 📅.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "索引",
       "path": "数据库/问题/索引.md"
-    },
-    {
-      "basename": "Daily-Journal-Prompts",
-      "path": "Daily-Journal-Prompts.md"
-    },
-    {
-      "basename": "数据存储结构",
-      "path": "数据库/问题/数据存储结构.md"
     },
     {
       "basename": "SQL",
@@ -191,14 +199,6 @@
     {
       "basename": "基本使用",
       "path": "java-learn/Docker/基本使用.md"
-    },
-    {
-      "basename": "安装",
-      "path": "java-learn/Docker/安装.md"
-    },
-    {
-      "basename": "什么是声音?什么是男音?什么是女音?",
-      "path": "trans/伪音/什么是声音?什么是男音?什么是女音?.md"
     }
   ],
   "omittedPaths": [],
