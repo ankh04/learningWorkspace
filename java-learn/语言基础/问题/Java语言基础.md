@@ -810,3 +810,55 @@ new Thread(new Runnable() {
 	}
 }).start();
 ```
+
+
+## 类的初始化顺序是什么样的？
+静态代码块 > 非静态代码块 > 构造函数
+
+对于涉及继承的情况，参考下面的代码
+```java
+class SuperClass{
+    private static String STR = "Super Class Static Variable";
+    static{
+        System.out.println("Super Class Static Block:"+STR);
+    }
+ 
+    public SuperClass() {
+        System.out.println("Super Class Constructor Method");
+    }
+    {
+        System.out.println("Super Class Block");
+    }
+ 
+}
+public class ObjectInit extends SuperClass{
+    private static String STR = "Class Static Variable";
+    static{
+        System.out.println("Class Static Block:"+STR);
+    }
+ 
+    public ObjectInit() {
+        System.out.println("Constructor Method");
+    }
+    {
+        System.out.println("Class Block");
+    }
+    public static void main(String[] args) {
+        @SuppressWarnings("unused")
+        ObjectInit a =new ObjectInit();
+    }
+}
+```
+执行结果为：
+**Super Class Static Block:Super Class Static Variable**  
+**Class Static Block:Class Static Variable**  
+**Super Class Block**  
+**Super Class Constructor Method**  
+**Class Block**  
+**Constructor Method**
+
+## Java如何创建socket连接？
+对于服务器端：
+ServerSocket server = new ServerSocket(端口号)
+对于客户端：
+Socket client = new Socket(IP地址，端口号)

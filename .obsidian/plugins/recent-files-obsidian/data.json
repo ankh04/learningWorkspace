@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-07-14 📅",
-      "path": "dailyTask/2022-07-14 📅.md"
+      "basename": "D Cars on Campus",
+      "path": "algorithm/PAT/2015/D Cars on Campus.md"
     },
     {
-      "basename": "数据存储结构",
-      "path": "数据库/问题/数据存储结构.md"
+      "basename": "C The Largest Generation",
+      "path": "algorithm/PAT/2015/C The Largest Generation.md"
+    },
+    {
+      "basename": "B Count PAT's",
+      "path": "algorithm/PAT/2015/B Count PAT's.md"
+    },
+    {
+      "basename": "A To Buy or Not to Buy",
+      "path": "algorithm/PAT/2015/A To Buy or Not to Buy.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
     },
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
+      "basename": "2022-07-14 📅",
+      "path": "dailyTask/2022-07-14 📅.md"
+    },
+    {
+      "basename": "数据存储结构",
+      "path": "数据库/问题/数据存储结构.md"
     },
     {
       "basename": "2022-07-13 📅",
@@ -43,10 +63,6 @@
     {
       "basename": "来源",
       "path": "日语/片假名/来源.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "2022-07-11 📅",
@@ -183,22 +199,6 @@
     {
       "basename": "2022-06-30 📅",
       "path": "dailyTask/2022-06-30 📅.md"
-    },
-    {
-      "basename": "docker 使用jenkins",
-      "path": "java-learn/Docker/docker 使用jenkins.md"
-    },
-    {
-      "basename": "数据卷",
-      "path": "java-learn/Docker/数据卷.md"
-    },
-    {
-      "basename": "基础知识",
-      "path": "java-learn/Docker/基础知识.md"
-    },
-    {
-      "basename": "基本使用",
-      "path": "java-learn/Docker/基本使用.md"
     }
   ],
   "omittedPaths": [],
