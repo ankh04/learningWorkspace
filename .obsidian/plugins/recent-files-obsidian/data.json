@@ -5,6 +5,22 @@
       "path": "dailyTask/2022-07-15 📅.md"
     },
     {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "直播",
+      "path": "algorithm/leetcode/直播.md"
+    },
+    {
+      "basename": "算法Project",
+      "path": "algorithm/算法Project.md"
+    },
+    {
+      "basename": "算法笔记",
+      "path": "algorithm/算法笔记.md"
+    },
+    {
       "basename": "Vue",
       "path": "javascript-learn/问题/Vue.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "dailyTask",
       "path": "template/dailyTask.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
     },
     {
       "basename": "Java语言基础",
@@ -187,18 +199,6 @@
     {
       "basename": "报刊资源",
       "path": "英语/报刊资源.md"
-    },
-    {
-      "basename": "2022-07-01 📅",
-      "path": "dailyTask/2022-07-01 📅.md"
-    },
-    {
-      "basename": "dailyEnglish",
-      "path": "template/dailyEnglish.md"
-    },
-    {
-      "basename": "数组列表",
-      "path": "数组列表.md"
     }
   ],
   "omittedPaths": [],
