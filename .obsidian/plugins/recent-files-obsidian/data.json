@@ -5,12 +5,24 @@
       "path": "dailyTask/2022-07-15 📅.md"
     },
     {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
+      "basename": "Vue",
+      "path": "javascript-learn/问题/Vue.md"
     },
     {
       "basename": "Daily-Journal-Prompts",
       "path": "Daily-Journal-Prompts.md"
+    },
+    {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "2022-07-14 📅",
@@ -43,10 +55,6 @@
     {
       "basename": "2022-07-13 📅",
       "path": "dailyTask/2022-07-13 📅.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "2022-07-12 📅",
@@ -191,14 +199,6 @@
     {
       "basename": "数组列表",
       "path": "数组列表.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
-    },
-    {
-      "basename": "游戏列表",
-      "path": "游戏列表.md"
     }
   ],
   "omittedPaths": [],

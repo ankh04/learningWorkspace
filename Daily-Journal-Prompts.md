@@ -435,3 +435,5 @@ Java语言基础#volatile关键词有什么作用？
 Java语言基础#哪些方法可以拿到http请求中的cookie值？
 
 Java语言基础#JDK中那些基本类不能被继承？
+
+Vue#Vue中如何设置全局变量？
