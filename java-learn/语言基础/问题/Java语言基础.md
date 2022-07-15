@@ -862,3 +862,41 @@ public class ObjectInit extends SuperClass{
 ServerSocket server = new ServerSocket(端口号)
 对于客户端：
 Socket client = new Socket(IP地址，端口号)
+
+## volatile关键词有什么作用？
+**volatile 保证了可见性，但是没有保证原子性。同时禁止了指令重排序。**
+
+   1. 可见性，valatile修饰的变量在更新后会通知到其他线程，从而保证了该变量的*可见性*
+
+   2. 禁止了指令重排序：
+		2.1.当程序执行到volatile变量的读操作或者写操作时，在其前面的操作的更改肯定全部已经进行，且结果已经对后面的操作可见；在其后面的操作肯定还没有进行；
+		2.2.在进行指令优化时，不能将在对volatile变量访问的语句放在其后面执行，也不能把volatile变量后面的语句放到其前面执行。
+
+## 哪些方法可以拿到http请求中的cookie值？
+最直接的方式是：
+**Cookie\[\] getCookies()**
+返回一个数组，包含客户端发送该请求的所有的 Cookie 对象。
+
+第二种方式是取得请求头
+**String getHeader(String name)**
+header请求头里有一个cookie属性
+
+## JDK中那些基本类不能被继承？
+被final修饰的类都不能被继承。
+在JDK的基本类中，有这些类不能被继承：
+**基本数据类型：**
+public final class Double
+public final class Float
+public final class Integer
+public final class Long
+public final class Short
+public final class Byte
+public final class Character
+**字符串相关的：**
+public final class String
+public final class StringBuffer
+public final class StringBuilder
+**其他:**
+public final class Math
+public final class Void
+
