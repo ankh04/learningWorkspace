@@ -8,3 +8,7 @@
 - Thread.sleep()
 - Thread.yield()
 - 锁所属对象的 notify() 方法
+
+## synchronized关键字用在静态方法和非静态方法上有什么区别？
+修饰非静态方法 锁的是this 对象
+修饰静态方法 锁的是class对象
