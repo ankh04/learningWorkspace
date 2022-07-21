@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-21 📅",
+      "path": "dailyTask/2022-07-21 📅.md"
+    },
+    {
+      "basename": "片单",
+      "path": "片单.md"
+    },
+    {
+      "basename": "我的服务",
+      "path": "我的服务.md"
+    },
+    {
+      "basename": "基本使用",
+      "path": "java-learn/Docker/基本使用.md"
+    },
+    {
+      "basename": "安装",
+      "path": "java-learn/Docker/安装.md"
+    },
+    {
+      "basename": "2022-07-20 📅",
+      "path": "dailyTask/2022-07-20 📅.md"
+    },
+    {
       "basename": "2022-07-19 📅",
       "path": "dailyTask/2022-07-19 📅.md"
     },
@@ -79,10 +103,6 @@
     {
       "basename": "2022-07-15 📅",
       "path": "dailyTask/2022-07-15 📅.md"
-    },
-    {
-      "basename": "我的服务",
-      "path": "我的服务.md"
     },
     {
       "basename": "直播",
@@ -179,26 +199,6 @@
     {
       "basename": "隔板法",
       "path": "algorithm/隔板法.md"
-    },
-    {
-      "basename": "2022-07-09 📅",
-      "path": "dailyTask/2022-07-09 📅.md"
-    },
-    {
-      "basename": "2022-07-05 📅",
-      "path": "dailyTask/2022-07-05 📅.md"
-    },
-    {
-      "basename": "2022-07-06 📅",
-      "path": "dailyTask/2022-07-06 📅.md"
-    },
-    {
-      "basename": "2022-07-07 📅",
-      "path": "dailyTask/2022-07-07 📅.md"
-    },
-    {
-      "basename": "2022-07-08 📅",
-      "path": "dailyTask/2022-07-08 📅.md"
     }
   ],
   "omittedPaths": [],

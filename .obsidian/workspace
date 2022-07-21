@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-07-19 📅.md",
+            "file": "dailyTask/2022-07-21 📅.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "字典树",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-07-19 📅.md",
+                "file": "dailyTask/2022-07-21 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-07-19 📅.md",
+                "file": "dailyTask/2022-07-21 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-07-19 📅.md"
+                "file": "dailyTask/2022-07-21 📅.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "片单.md",
+    "我的服务.md",
+    "java-learn/Docker/基本使用.md",
+    "java-learn/Docker/安装.md",
+    "dailyTask/2022-07-21 📅.md",
+    "dailyTask/2022-07-20 📅.md",
+    "dailyTask/2022-07-19 📅.md",
     "dailyTask/2022-07-18 📅.md",
     "dailyTask/2022-07-17 📅.md",
-    "计算机网络/网络层/问题/计算机网络-网络层.md",
-    "数据库/问题/数据库概述.md",
-    "java-learn/语言基础/问题/Java语言基础.md",
-    "algorithm/问题/算法.md",
-    "java-learn/语言基础/问题/Java多线程.md",
-    "Daily-Journal-Prompts.md",
-    "javascript-learn/问题/Vue.md",
-    "dailyTask/2022-07-16 📅.md"
+    "计算机网络/网络层/问题/计算机网络-网络层.md"
   ]
 }
