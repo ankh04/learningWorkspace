@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-22 📅",
+      "path": "dailyTask/2022-07-22 📅.md"
+    },
+    {
+      "basename": "PTA",
+      "path": "考试/PTA.md"
+    },
+    {
       "basename": "2022-07-21 📅",
       "path": "dailyTask/2022-07-21 📅.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "前缀树(Tire，字典树)",
       "path": "algorithm/数据结构/前缀树(Tire，字典树).md"
-    },
-    {
-      "basename": "2022-07-10 📅",
-      "path": "dailyTask/2022-07-10 📅.md"
-    },
-    {
-      "basename": "隔板法",
-      "path": "algorithm/隔板法.md"
     }
   ],
   "omittedPaths": [],
