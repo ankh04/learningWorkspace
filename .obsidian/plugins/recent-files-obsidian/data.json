@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
       "basename": "2022-07-22 📅",
       "path": "dailyTask/2022-07-22 📅.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "A To Buy or Not to Buy",
       "path": "algorithm/PAT/2015/A To Buy or Not to Buy.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "数据存储结构",
