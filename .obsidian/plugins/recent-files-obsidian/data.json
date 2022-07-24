@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-24 📅",
+      "path": "dailyTask/2022-07-24 📅.md"
+    },
+    {
+      "basename": "TimSort",
+      "path": "algorithm/排序算法/TimSort.md"
+    },
+    {
       "basename": "生词",
       "path": "英语/生词.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "二叉树",
       "path": "algorithm/数据结构/二叉树.md"
-    },
-    {
-      "basename": "链表",
-      "path": "algorithm/数据结构/链表.md"
-    },
-    {
-      "basename": "前缀树(Tire，字典树)",
-      "path": "algorithm/数据结构/前缀树(Tire，字典树).md"
     }
   ],
   "omittedPaths": [],
