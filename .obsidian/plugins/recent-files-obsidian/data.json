@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-25 📅",
+      "path": "dailyTask/2022-07-25 📅.md"
+    },
+    {
       "basename": "2022-07-24 📅",
       "path": "dailyTask/2022-07-24 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "并查集(UnionFindSet)",
       "path": "algorithm/数据结构/并查集(UnionFindSet).md"
-    },
-    {
-      "basename": "二叉树",
-      "path": "algorithm/数据结构/二叉树.md"
     }
   ],
   "omittedPaths": [],
