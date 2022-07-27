@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-27 📅",
+      "path": "dailyTask/2022-07-27 📅.md"
+    },
+    {
       "basename": "2022-07-25 📅",
       "path": "dailyTask/2022-07-25 📅.md"
+    },
+    {
+      "basename": "Java语言基础",
+      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "2022-07-24 📅",
@@ -67,10 +75,6 @@
     {
       "basename": "数据库概述",
       "path": "数据库/问题/数据库概述.md"
-    },
-    {
-      "basename": "Java语言基础",
-      "path": "java-learn/语言基础/问题/Java语言基础.md"
     },
     {
       "basename": "算法",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-11 📅",
       "path": "dailyTask/2022-07-11 📅.md"
-    },
-    {
-      "basename": "并查集(UnionFindSet)",
-      "path": "algorithm/数据结构/并查集(UnionFindSet).md"
     }
   ],
   "omittedPaths": [],
