@@ -17,12 +17,11 @@ for(i=0;i<numberOfPrompts;i++) {
 
 ## Regular Task  🤡
 - [ ] [leetcode](https://leetcode.cn/study-plan/dynamic-programming/?progress=3yzxhug)
-- [ ] [java基础](https://javaguide.cn/java/basis/java-basic-questions-01.html#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
-- [ ] [前端](https://web.qianguyihao.com)
-- [ ] [知识星球](http://svip.iocoder.cn/index/index.html)
+- [ ] [PAT](https://pintia.cn/problem-sets/994805342720868352/problems/type/7)
+- [ ] [软考刷题](https://web.qianguyihao.com)
 - [ ] 英语
 - [ ] [牛客网](https://www.nowcoder.com/exam/intelligent)
-- [ ] [前端刷题2](https://fe.ecool.fun/)
+- [ ] [前端刷题](https://fe.ecool.fun/)
 
 ## Learning Task 🎯
 - [ ] [跨性别文献](https://transreads.org/tag/article/)
@@ -37,9 +36,9 @@ for(i=0;i<numberOfPrompts;i++) {
 | 名称 | 位置 | 总页数 | 进度 | 重要性 | 打卡|
 | -- | -- | -- | -- | -- | -- | 
 |软件工程师教程    | 电子书   | 684   |    | <span style="background-color: pink; border-radius: 5px; padding: 4px;">High</span>   |    | 
-|数据库系统概念    | 纸质书   | 793   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
-|算法设计    | 纸质书   | 503   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
-|Tomcat Java Web    | 纸质书   | 760   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|计算之魂    | 纸质书   | 793   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|操作系统导论    | 纸质书   | 503   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
+|操作系统    | 纸质书   | 760   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
 |[深入解析CSS](x-devonthink-item://C54A8742-FADE-4C89-9DA0-AF7A4900582C)    | 电子书   | 370   |    | <span style="background-color: lightblue; border-radius: 5px; padding: 4px;">Medium</span>   |    | 
 |[反贪](zotero://select/library/items/YNWCEKEZ )    | 电子书   | 312   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>    |    | 
 |[福柯](zotero://select/library/items/WFIGS9RP)    | 电子书  | 182   |    | <span style="background-color: lightgreen; border-radius: 5px; padding: 4px;">Low</span>  |    | 

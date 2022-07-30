@@ -178,6 +178,8 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "template/dailyTask.md",
+    "dailyTask/2022-07-30 📅.md",
     "英语/生词.md",
     "dailyTask/2022-07-29 📅.md",
     "algorithm/leetcode/总结/子集遍历.md",
@@ -185,8 +187,6 @@
     "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
     "algorithm/leetcode/21. 合并两个有序链表.md",
     "algorithm/leetcode/遍历二叉树（递归和非递归方式）.md",
-    "algorithm/leetcode/二分查找.md",
-    "algorithm/leetcode/判断两个链表是否相交.md",
-    "algorithm/leetcode/找入环节点（快慢指针）.md"
+    "algorithm/leetcode/二分查找.md"
   ]
 }

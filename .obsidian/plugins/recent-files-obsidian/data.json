@@ -5,6 +5,10 @@
       "path": "dailyTask/2022-07-30 📅.md"
     },
     {
+      "basename": "dailyTask",
+      "path": "template/dailyTask.md"
+    },
+    {
       "basename": "生词",
       "path": "英语/生词.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "算法笔记",
       "path": "algorithm/算法笔记.md"
-    },
-    {
-      "basename": "dailyTask",
-      "path": "template/dailyTask.md"
     },
     {
       "basename": "2022-07-14 📅",
