@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-30 📅",
+      "path": "dailyTask/2022-07-30 📅.md"
+    },
+    {
+      "basename": "生词",
+      "path": "英语/生词.md"
+    },
+    {
       "basename": "2022-07-29 📅",
       "path": "dailyTask/2022-07-29 📅.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "TimSort",
       "path": "algorithm/排序算法/TimSort.md"
-    },
-    {
-      "basename": "生词",
-      "path": "英语/生词.md"
     },
     {
       "basename": "2022-07-22 📅",
@@ -195,10 +199,6 @@
     {
       "basename": "C The Largest Generation",
       "path": "algorithm/PAT/2015/C The Largest Generation.md"
-    },
-    {
-      "basename": "B Count PAT's",
-      "path": "algorithm/PAT/2015/B Count PAT's.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyTask/2022-07-29 📅.md",
+            "file": "dailyTask/2022-07-30 📅.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTask/2022-07-29 📅.md",
+                "file": "dailyTask/2022-07-30 📅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTask/2022-07-29 📅.md",
+                "file": "dailyTask/2022-07-30 📅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTask/2022-07-29 📅.md"
+                "file": "dailyTask/2022-07-30 📅.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "354b95e87027e92a",
   "lastOpenFiles": [
+    "英语/生词.md",
+    "dailyTask/2022-07-29 📅.md",
     "algorithm/leetcode/总结/子集遍历.md",
     "algorithm/leetcode/2.两数相加.md",
     "algorithm/leetcode/19. 删除链表的倒数第 N 个结点.md",
@@ -185,8 +187,6 @@
     "algorithm/leetcode/遍历二叉树（递归和非递归方式）.md",
     "algorithm/leetcode/二分查找.md",
     "algorithm/leetcode/判断两个链表是否相交.md",
-    "algorithm/leetcode/找入环节点（快慢指针）.md",
-    "algorithm/leetcode/直播.md",
-    "dailyTask/2022-07-29 📅.md"
+    "algorithm/leetcode/找入环节点（快慢指针）.md"
   ]
 }
