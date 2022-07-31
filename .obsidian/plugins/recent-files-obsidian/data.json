@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-31 📅",
+      "path": "dailyTask/2022-07-31 📅.md"
+    },
+    {
       "basename": "2022-07-30 📅",
       "path": "dailyTask/2022-07-30 📅.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "D Cars on Campus",
       "path": "algorithm/PAT/2015/D Cars on Campus.md"
-    },
-    {
-      "basename": "C The Largest Generation",
-      "path": "algorithm/PAT/2015/C The Largest Generation.md"
     }
   ],
   "omittedPaths": [],
